@@ -1,0 +1,61 @@
+<?profile http://search.yahoo.com/searchmonkey-profile ?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+xmlns:y="http://search.yahoo.com/datarss/" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.w3.org/2005/Atom  ../latest/xsd/datarss.xsd">
+<id>http://www.karniyarik.com/semanticweb.rdf</id>
+<updated>2009-12-13T23:29:19+01:00</updated>
+<author><name>GR RDF2DataRSS Converter</name><uri>http://www.ebusiness-unibw.org/tools/rdf2datarss/</uri></author>
+<contributor><name>GR RDF2DataRSS Converter</name><uri>http://www.ebusiness-unibw.org/tools/rdf2datarss/</uri></contributor>
+<logo>http://www.heppnetz.de/projects/goodrelations/goodrelations-logo-small.gif</logo>
+<title>Converted rdf to DataRSS data for Yahoo SearchMonkey</title>
+<entry>
+<id>http://www.karniyarik.com/semanticweb.rdf</id>
+<title>Converted RDF data from http://www.karniyarik.com/semanticweb.rdf</title>
+<content type="application/xml">
+<y:adjunct version="1.0" updated="2009-12-13T23:29:19+01:00" name="com.karniyarik">
+<y:item rel="dc:subject" resource="http://www.karniyarik.com/goodrelations.rdf#BusinessEntity">
+<y:type typeof="gr:BusinessEntity commerce:Business extraction:Product" resource="http://www.karniyarik.com/goodrelations.rdf#BusinessEntity">
+	<y:meta property="gr:legalName" datatype="xsd:string">Karniyarik Ltd.</y:meta>
+	<y:item rel="rdfs:seeAlso" resource="http://www.karniyarik.com/"/>
+	<y:item rel="vcard:adr" resource="http://www.karniyarik.com/goodrelations.rdf#address">
+	<y:type typeof="vcard:Address" resource="http://www.karniyarik.com/goodrelations.rdf#address">
+		<y:meta property="vcard:street-address">KOSGEB Teknoloji Geliştirme Merkezi No:302  ODTÜ Teknokent</y:meta>
+		<y:meta property="vcard:postal-code">06561</y:meta>
+		<y:meta property="vcard:locality">Ankara</y:meta>
+		<y:meta property="vcard:country-name">Turkey</y:meta>
+		<y:meta property="vcard:tel">+90-312-2101300-312</y:meta>
+		<y:item rel="vcard:url" resource="http://www.karniyarik.com/"/>
+		<y:meta property="vcard:email">info@karniyarik.com</y:meta>
+	</y:type>
+	</y:item>
+	<y:item rel="gr:offers" resource="http://www.karniyarik.com/goodrelations.rdf#Offering_1">
+	<y:type typeof="gr:Offering" resource="http://www.karniyarik.com/goodrelations.rdf#Offering_1">
+		<y:item rel="rdfs:isDefinedBy" resource="http://www.karniyarik.com/goodrelations.rdf">
+		<y:type typeof="owl:Ontology" resource="http://www.karniyarik.com/goodrelations.rdf">
+			<y:item rel="owl:imports" resource="http://purl.org/goodrelations/v1"/>
+			<y:item rel="owl:imports" resource="http://www.w3.org/2006/vcard/ns"/>
+			<y:meta property="rdfs:label">RDF/XML data for Karniyarik Ltd., based on http://purl.org/goodrelations/</y:meta>
+		</y:type>
+		</y:item>
+		<y:item rel="gr:availableAtOrFrom" resource="http://www.karniyarik.com/goodrelations.rdf#LOSOSP_1">
+		<y:type typeof="gr:LocationOfSalesOrServiceProvisioning" resource="http://www.karniyarik.com/goodrelations.rdf#LOSOSP_1">
+			<y:meta property="rdfs:label">Karniyarik LLC</y:meta>
+			<y:item rel="vcard:adr" resource="http://www.karniyarik.com/goodrelations.rdf#address"/>
+			<y:item rel="rdfs:isDefinedBy" resource="http://www.karniyarik.com/goodrelations.rdf"/>
+		</y:type>
+		</y:item>
+		<y:meta property="gr:validFrom" datatype="xsd:dateTime">2010-01-01T00:00:00+02:00</y:meta>
+		<y:meta property="gr:validThrough" datatype="xsd:dateTime">2015-01-01T23:59:00+02:00</y:meta>
+		<y:meta property="gr:eligibleRegions" datatype="xsd:string">TR</y:meta>
+		<y:item rel="gr:eligibleCustomerTypes" resource="http://purl.org/goodrelations/v1#Enduser"/>
+	</y:type>
+	</y:item>
+	<y:item rel="gr:hasPOS" resource="http://www.karniyarik.com/goodrelations.rdf#LOSOSP_1"/>
+	<y:item rel="rdfs:isDefinedBy" resource="http://www.karniyarik.com/goodrelations.rdf"/>
+</y:type>
+</y:item>
+</y:adjunct>
+</content>
+</entry>
+</feed>

@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /system/*
+
+User-agent: Mediapartners-Google*
+Disallow:
+
+Sitemap: http://www.karniyarik.com/sitemap/sitemap.xml

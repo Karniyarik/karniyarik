@@ -1,0 +1,81 @@
+/** sprite: sprite-s; sprite-image: url('../images/sprite-s.png'); sprite-layout: vertical;	sprite-image-uid: none;	sprite-margin-bottom: 2px;*/
+.home .searchl {
+	background-repeat:no-repeat;
+	background-position:left;
+	height:120px;
+	background-image: url(../images/tosprite/searchil.png);/** sprite-ref: sprite-s;sprite-alignment: left;*/	
+}
+
+.home .searchr {
+	background-repeat: no-repeat;
+	background-position:right;
+	height:120px; 
+	background-image: url(../images/tosprite/searchir.png); /** sprite-ref: sprite-s;sprite-alignment: right;*/
+}
+
+.search.search2 .search2l { 
+	background-repeat:no-repeat;
+	background-position:left;
+	height:84px;
+	background-image: url(../images/tosprite/searchbl.png); /** sprite-ref: sprite-s;sprite-alignment: left;*/
+}
+
+.search.search2 .search2r { 
+	background-repeat: no-repeat;
+	background-position:right;
+	height:84px;
+	background-image: url(../images/tosprite/searchbr.png); /** sprite-ref: sprite-s;sprite-alignment: right;*/
+}
+
+.search .stab {
+	height: 36px;
+	background-repeat: no-repeat;
+	background-image: url(../images/tosprite/buts-g.png); /** sprite-ref: sprite-s;*/	
+}
+
+.search .stab.act {
+	height: 36px;
+	background-repeat: no-repeat;
+	background-position: left;
+	background-image: url(../images/tosprite/buts-p.png); /** sprite-ref: sprite-s;*/
+}
+.search .stab .ri {
+	background-repeat: no-repeat;
+	height: 36px;
+	background-position: right;
+	background-image: url(../images/tosprite/butsr-g.png);	/** sprite-ref: sprite-s;sprite-alignment: right;*/
+}
+
+.search .stab.act .ri {
+	background-repeat: no-repeat;
+	background-position: right;
+	height: 36px;
+	background-image: url(../images/tosprite/butsr-p.png); /** sprite-ref: sprite-s;sprite-alignment: right;*/
+}
+
+.search.search2 .stab {
+	background-repeat: no-repeat;
+	height: 32px;
+	background-image: url(../images/tosprite/buts-g.png);/** sprite-ref: sprite-s;*/
+}
+
+.search.search2 .stab.act {
+	background-repeat: no-repeat;
+	height: 32px;
+	background-position: left;
+	background-image: url(../images/tosprite/buts-p.png);/** sprite-ref: sprite-s;;*/
+	
+}
+.search.search2 .stab .ri {
+	background-repeat: no-repeat;
+	height: 32px;
+	background-position: right;
+	background-image: url(../images/tosprite/buts-g.png);/** sprite-ref: sprite-s;sprite-alignment: right;*/
+	
+}
+.search.search2 .stab.act .ri {
+	background-repeat: no-repeat;
+	height: 32px;
+	background-position: right;
+	background-image: url(../images/tosprite/buts-p.png);/** sprite-ref: sprite-s;sprite-alignment: right;*/
+}

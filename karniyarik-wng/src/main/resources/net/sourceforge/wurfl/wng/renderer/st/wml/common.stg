@@ -1,0 +1,82 @@
+group common;
+
+
+baseInputAttr(input) ::= <<
+type="$input.type$" name="$input.name$" value="$input.value$" $nnAttr(name="title",value=input.title)$ 
+>>
+
+hiddenAttr(input) ::= <<
+type="$input.type$" name="$input.name$" value="$input.value$"
+>>
+
+checkBoxAttr(input) ::= <<
+$baseInputAttr(input)$ $nnAttr(name="checked", value=input.checked)$
+>>
+
+inputAttr(input) ::= <<
+$baseInputAttr(input)$ $nnAttr(name="maxlength", value=input.maxlength)$ $nnAttr(name="accesskey", value=input.accesskey)$ $nnAttr(name="size", value=input.size)$
+>>
+
+wmlImage(image) ::= <<
+$if(image.link)$
+$linkableImage(link=image.link, image=image)$
+$else$
+$defaultImage(image=image)$
+$endif$
+>>
+
+p(children, separator) ::= <<
+$if(children)$
+<p>$children; separator = separator$</p>$\n$
+$endif$
+>>
+
+image(image) ::= <<
+$if(image)$
+$if(image.link)$
+$linkableImage(link=image.link, image=image)$
+$else$
+$defaultImage(image=image)$
+$endif$
+$endif$
+>>
+
+
+
+gridRow() ::= <<
+<tr>
+$it:{cell | <td>$cell$</td>} $
+</tr>
+
+>>
+
+gridCell() ::= <<
+$image(image=it.icon)$
+>>
+
+comment(comment) ::= "<!-- $comment$ -->"
+
+
+attr(name,value) ::= <<
+$\ $$name$="$value$"
+>>
+
+nnAttr(name,value) ::= <<
+$if(value)$
+$\ $$name$="$value$"
+$endif$
+>>
+
+
+link(link) ::= <<
+<a href="$link.href$"$nnAttr(name="accesskey", value=link.accesskey)$>$link.text$</a>
+>>
+
+linkableImage(link,image) ::= <<
+<a href="$link.href$"$nnAttr(name="accesskey", value=link.accesskey)$>$defaultImage(image)$</a>
+>>
+
+
+defaultImage(image) ::= <<
+$image.alt$
+>>

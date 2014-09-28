@@ -1,0 +1,15 @@
+/** sprite: sprite-f; sprite-image: url('../images/sprite-f.png'); sprite-layout: vertical;	sprite-image-uid: none;	sprite-margin-bottom: 2px;*/
+
+.ce .l .filter.full{
+	background-repeat: no-repeat;
+	width:1042px;
+	height: 26px;
+	background-image: url(../images/tosprite/filterb3.png); /** sprite-ref: sprite-f;*/	
+}
+
+.ce .l .filter {
+	background-repeat: no-repeat;
+	height: 26px;
+	width:876px;
+	background-image: url(../images/tosprite/filterb.png); /** sprite-ref: sprite-f;*/	
+}

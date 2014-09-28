@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* import core styles | Basis-Stylesheets einbinden */
+@import url(../yaml/core/base.css);
+/* import screen layout | Screen-Layout einbinden */
+@import url(../yaml/navigation/nav_shinybuttons.css);
+@import url(screen/basemod.css);
+@import url(screen/content.css);
+/* import print layout | Druck-Layout einbinden */
+@import url(../yaml/print/print_draft.css);
+
+.failed {background-color: #ff9292;}
+.idle {background-color: #d1d1d1;}
+.ended {background-color: #91d38c;}
+.ending {background-color: #1cd20e;}
+.pausing {background-color: #fefb00;}
+.paused {background-color: #fffd74;}
+.sleeping {background-color: #a8a7a8;}
+.crawling{background-color: #fca7ff;}
+.indexing{background-color: #fca7ff;}
+#crawlerSetupDiv label {display: block}
+#crawlerSetupDiv input, #crawlerSetupDiv textarea {width: 400px; margin: 3px 0; border:1px solid #ccc; padding: 3px; background-color: #fafafa; font-size:1em;}
+#crawlerSetupDiv legend {padding: 10px 0;font-weight: bold;border: 0;outline: 0;}
+#crawlerSetupDiv textarea {	height: 200px;}
+
+#loginForm table {border: none;}
+.login_main {text-align: center;}
+#loginstatus {text-align: right;float:right;}
+.button {float:left; width:150px;}
+.button a img{vertical-align: middle;}
+#operationsDiv {clear:both;}
+
+.dashboard_1 {float:left;margin-right:10px;margin-bottom:30px; height: }
+.dashboard_1 .dash_int{background: none; margin-bottom:20px;}
+.cl {clear:both;}
+.bkmrk {float:left;padding:4px;}
+.bkmrk span {display: block;}
+
+body.statsm {font-size: 10px;width:690px;height:510px;overflow:hidden;}
+body.statsm {margin:0;padding:4px;background: white;}
+
+body.statsm #main {margin:0px;padding:0px;}
+body.statsm #sitestatimg {width:360px;height:350px;float:left;}
+body.statsm #sitestat_t {width:320px;float:left;}
+body.statsm table.right_t {width:320px;overflow: hidden}
+body.statsm table.right_t th{width:140px;overflow: hidden;;background-color: #F6F6F6;}
+body.statsm table.right_t td{width:180px;overflow: hidden;}
+body.statsm table.bottom_t{width:689px;overflow: hidden}
+body.statsm table.bottom_t th{width:85px;overflow: hidden;;background-color: #F6F6F6;}
+body.statsm table.bottom_t td{width:135px;overflow: hidden;}
+body.statsm #main {padding: 5px;}
+
+body.statsm h1{font-size: 16px;font-weight: bold;}

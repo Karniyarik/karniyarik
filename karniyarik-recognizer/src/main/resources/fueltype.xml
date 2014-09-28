@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://www.karniyarik.com/schema">
+    <items name="fueltype">
+        <item name="Benzin">
+			<alternatenames>
+			</alternatenames>
+        </item>
+        
+        <item name="LPG">
+			<alternatenames>
+			</alternatenames>
+        </item>
+        
+        <item name="Hybrid">
+			<alternatenames>
+			</alternatenames>
+        </item>
+
+        <item name="Dizel">
+			<alternatenames>
+			</alternatenames>
+        </item>
+    </items>
+</root>

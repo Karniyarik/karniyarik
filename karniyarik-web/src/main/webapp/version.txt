@@ -1,0 +1,2 @@
+SCM REvision: ${buildNumber}
+Build Date  : ${timestamp} 

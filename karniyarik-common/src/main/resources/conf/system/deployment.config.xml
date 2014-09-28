@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<deployment>
+		<basedir>${basedir}</basedir>
+		<jobscheduler>${jobscheduler}</jobscheduler>
+		<web>
+			<master>${masterweb}</master>
+			<slave>${slaveweb}</slave>
+		</web>
+		<solr>${solr.address}</solr>
+		<enterprise>${enterpriseurl}</enterprise>
+		<statistics>${statisticsurl}</statistics>
+		<sftp>
+				<host>${sftphost}</host>
+				<port>${sftpport}</port>
+				<user>${sftpusername}</user>
+				<password>${sftppass}</password>
+				<publishDirectory>${sftppublishdir}</publishDirectory>
+		</sftp>
+	</deployment>
+</config>

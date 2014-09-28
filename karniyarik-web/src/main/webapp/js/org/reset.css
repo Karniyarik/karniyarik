@@ -1,0 +1,133 @@
+/* CSS Document */
+
+/*html * { filter: expression(document.execCommand("BackgroundImageCache", false, true)); }*/
+
+/* reset */
+*, html {
+	outline:none;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote {
+	margin:0;
+	padding:0;
+}
+fieldset, img {
+	border:0;
+	vertical-align: middle;
+}
+address, caption, cite, code, dfn, em, strong, th, var {
+	font-style:normal;
+	font-weight:normal;
+}
+ol, ul {
+	list-style:none;
+}
+caption, th {
+	text-align:left;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size:100%;
+	font-weight:normal;
+}
+q:before, q:after {
+	content:'';
+}
+abbr, acronym {
+	border:0;
+}
+/* styles */
+body {
+	color:#666565;
+	font:normal 10px Tahoma, Arial, Helvetica, sans-serif;
+	height:auto!important
+}
+a {
+	color:#4D4D4D;
+	outline:none;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration:underline
+}
+input, textarea, select {
+	color:#4d4d4d;
+	font:normal 11px Tahoma, Arial, Helvetica, sans-serif;
+}
+.cl {
+	clear:both;
+	overflow:hidden;
+	height:0;
+	width:100%;
+}
+.fl {
+	float:left;
+	width:auto;
+}
+.fr {
+	float:right;
+	width:auto;
+}
+.dn {
+	display:none;
+}
+.ar {
+	text-align: right;
+}
+.b {
+	font-weight: bold;
+}
+.trans {
+	background-color: transparent;
+	background-image:url(../images/transparent.gif);
+	border: 0px solid;
+	cursor: pointer;
+}
+/* Slider
+----------------------------------*/
+.ui-slider {
+	position: relative;
+	text-align: left;
+}
+/* Autocomplete
+----------------------------------*/
+.ui-autocomplete {
+	position: absolute;
+	cursor: default;
+}
+.ui-autocomplete-loading {
+	background-color: transparent;
+	background-image: url(../images/ui-anim_basic_16x16.gif);
+	background-repeat: no-repeat;
+	background-position: 560px center;
+}
+/* workarounds */
+* html .ui-autocomplete {
+	width:1px;
+} /* without this, the menu expands to 100% in IE6 */
+/* Menu
+----------------------------------*/
+.ui-menu {
+	border: 1px solid #AC70AA;
+	list-style:none;
+	margin: 0;
+	display:block;
+	padding: 0 9px;
+	background-color: #FFF;
+	border-top: none;
+}
+.ui-menu .ui-menu {
+	margin-top: -3px;
+}
+.ui-menu .ui-menu-item {
+	margin:0;
+	padding: 0;
+	width: 100%;
+}
+.ui-menu .ui-menu-item a {
+	text-decoration:none;
+	display:block;
+	padding:.2em 0px;
+	line-height:1.5;/*zoom:1;*/
+}
+.ui-menu .ui-menu-item a.ui-state-hover, .ui-menu .ui-menu-item a.ui-state-active {
+	color:#7A9D07;
+}

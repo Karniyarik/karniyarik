@@ -1,0 +1,1 @@
+<input type="$component.type$" name="$component.name$" value="$component.value$" />

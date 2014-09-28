@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<db>
+		<datasource>
+			<name>${datasource}</name>
+		</datasource>
+		<connection>
+			<username>${dbuser}</username>
+			<password>${dbpass}</password>
+			<driver>${dbdriver}</driver>
+			<url>${dburl}</url>
+			<useconnectionpool>true</useconnectionpool>
+		</connection>
+	</db>
+	<webdb>
+		<datasource>
+			<name>${webdatasource}</name>
+		</datasource>
+		<connection>
+			<url>${webdburl}</url>
+		</connection>
+	</webdb>
+	<tables>
+		<crawlerstatistics>
+			CREATE TABLE IF NOT EXISTS TBL_CRAWLER_STATISTICS (
+				 FLD_ID int(10) unsigned NOT NULL auto_increment\,
+				 FLD_SITE_NAME varchar(64) NOT NULL\,
+				 FLD_STATE int(10) unsigned NOT NULL\,
+				 FLD_STATUS_MESSAGE varchar(512) NOT NULL\,
+				 FLD_VISITED_LINKS int(10) unsigned NOT NULL\,
+				 FLD_LINKS_TO_VISIT_FLUSH int(10) unsigned NOT NULL\,
+				 FLD_LINKS_TO_VISIT_READ int(10) unsigned NOT NULL\,
+				 FLD_LINKS_TO_VISIT int(10) unsigned NOT NULL\,
+				 FLD_DB_OPERATION_COUNT int(10) unsigned NOT NULL\,
+				 FLD_MEMORY_CACHE_HIT_COUNT int(10) unsigned NOT NULL\,
+				 FLD_MEMORY_CACHE_MISS_COUNT int(10) unsigned NOT NULL\,
+				 FLD_DB_CACHE_HIT_COUNT int(10) unsigned NOT NULL\,
+				 FLD_DB_CACHE_MISS_COUNT int(10) unsigned NOT NULL\,
+				 FLD_VISITED_LINK_FLUSH int(10) unsigned NOT NULL\,
+				 FLD_VISITED_LINK_READ int(10) unsigned NOT NULL\,
+				 FLD_EXCEPTION_COUNT int(10) unsigned NOT NULL\,
+				 FLD_LINK_COUNT int(10) unsigned default NULL\,
+				 FLD_START_DATE TIMESTAMP NOT NULL default '0000-00-00 00:00:00'\,
+				 FLD_END_DATE TIMESTAMP NOT NULL default '0000-00-00 00:00:00'\,
+				 FLD_FETCH_TIME BIGINT unsigned default NULL\,
+				 FLD_PARSED_PAGE_COUNT int(10) unsigned NOT NULL\,
+				 FLD_DUPLICATE_PRODUCT_COUNT int(10) unsigned NOT NULL\,
+				 FLD_PRODUCT_COUNT int(10) unsigned NOT NULL\,
+				 FLD_PRODUCT_MISS_COUNT int(10) unsigned NOT NULL\,
+				 FLD_BRANDS_PARSED_COUNT int(10) unsigned NOT NULL\,
+				 FLD_BRANDS_MISSED_COUNT int(10) unsigned NOT NULL\,
+				 FLD_BREADCRUMBS_PARSED_COUNT int(10) unsigned NOT NULL\,
+				 FLD_BREADCRUMBS_MISSED_COUNT int(10) unsigned NOT NULL\,
+				 FLD_IMAGES_PARSED_COUNT int(10) unsigned NOT NULL\,
+				 FLD_IMAGES_MISSED_COUNT int(10) unsigned NOT NULL\,
+				 FLD_STORE_DATE timestamp NOT NULL default CURRENT_TIMESTAMP on update CURRENT_TIMESTAMP\,
+				 PRIMARY KEY  (FLD_ID)
+				 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+		</crawlerstatistics>
+	
+		<linksvisited>
+			CREATE TABLE IF NOT EXISTS %s (FLD_ID int(10) unsigned NOT NULL auto_increment\,
+				 FLD_URL varchar(512) NOT NULL\,
+				 FLD_LOWERCASE_URL varchar(512) NOT NULL\,
+				 FLD_HIT int(10) unsigned NOT NULL default 1\,
+				 FLD_IS_VISITED tinyint(1) NOT NULL default '0'\,
+				 FLD_HAS_PRODUCT tinyint(1) NOT NULL default '0'\, 
+				 FLD_FETCH_TIME int(10)\,  PRIMARY KEY  (FLD_ID)\,
+				 INDEX URL_INDEX (FLD_LOWERCASE_URL)) 
+				 ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_turkish_ci;
+		</linksvisited>
+		
+		<schedule>
+			CREATE TABLE IF NOT EXISTS TBL_SCHEDULE_INFO (
+			 FLD_ID int(10) unsigned NOT NULL auto_increment\,
+			 FLD_SITE_NAME varchar(64) NOT NULL\,
+			 FLD_NEXT_EXECUTION_DATE timestamp NOT NULL default CURRENT_TIMESTAMP on update CURRENT_TIMESTAMP\,
+			 FLD_STATE int(10) unsigned NOT NULL\,
+			 FLD_PERIOD int(10) unsigned NOT NULL\,
+			 PRIMARY KEY  (FLD_ID)
+			 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+		</schedule>
+		
+		<sitestat>
+			CREATE TABLE IF NOT EXISTS TBL_SITE_STAT (
+				 FLD_SITE_NAME varchar(256) NOT NULL\,
+				 FLD_PRODUCT_COUNT BIGINT(20) unsigned NOT NULL\,
+				 FLD_DATE datetime NOT NULL\,
+				 FLD_DATAFEED tinyint(1) NOT NULL default '0'\,
+				 KEY IDX_SITE_NAME (FLD_SITE_NAME)\,
+				 KEY IDX_DATE (FLD_DATE)
+				 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+		</sitestat>
+		
+		<siteclickstat>
+			CREATE TABLE IF NOT EXISTS TBL_SITE_CLICK_STAT (
+				 FLD_SITE_NAME varchar(256) NOT NULL\,
+				 FLD_LISTING_VIEW int(10) unsigned NOT NULL\,
+			 	 FLD_LISTING_HIT int(10) unsigned NOT NULL\,
+			 	 FLD_SPONSOR_VIEW int(10) unsigned NOT NULL\,
+			 	 FLD_SPONSOR_HIT int(10) unsigned NOT NULL\,
+			 	 FLD_DATE datetime NOT NULL\,
+				 KEY IDX_SITE_NAME (FLD_SITE_NAME)\,
+				 KEY IDX_DATE (FLD_DATE)
+				 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+		</siteclickstat>
+		
+		<productstat>
+			CREATE TABLE IF NOT EXISTS %1$s (
+			 FLD_URL varchar(512) NOT NULL\,
+			 FLD_NAME varchar(512) NOT NULL\,
+			 FLD_LISTING_VIEW int(10) unsigned NOT NULL\,
+			 FLD_LISTING_HIT int(10) unsigned NOT NULL\,
+			 FLD_SPONSOR_VIEW int(10) unsigned NOT NULL\,
+			 FLD_SPONSOR_HIT int(10) unsigned NOT NULL\,
+			 FLD_DATE datetime NOT NULL\,
+			 FLD_QUERIES MEDIUMTEXT NOT NULL\,
+			 KEY IDX_URL (FLD_URL)\,
+			 KEY IDX_DATE (FLD_DATE)
+			 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+		</productstat>
+		
+		<apistat>
+			CREATE TABLE IF NOT EXISTS %1$s (
+			 FLD_URL varchar(512) NOT NULL\,
+			 FLD_SITE_NAME varchar(256) NOT NULL\,
+			 FLD_NAME varchar(2048) NOT NULL\,
+			 FLD_PRODUCT_CATEGORY varchar(64) NOT NULL\,
+			 FLD_LISTING_VIEW int(10) unsigned NOT NULL\,
+			 FLD_LISTING_HIT int(10) unsigned NOT NULL\,
+			 FLD_SPONSOR_VIEW int(10) unsigned NOT NULL\,
+			 FLD_SPONSOR_HIT int(10) unsigned NOT NULL\,
+			 FLD_DATE datetime NOT NULL\,
+			 FLD_QUERIES MEDIUMTEXT NOT NULL\,
+			 KEY IDX_URL (FLD_URL)\,
+			 KEY IDX_DATE (FLD_DATE)
+			 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+		</apistat>
+		
+		<hitstat>
+			CREATE TABLE IF NOT EXISTS TBL_HIT_STAT (
+			     FLD_SITE_NAME varchar(256) NOT NULL\,
+			     FLD_URL varchar(512) NOT NULL\,
+				 FLD_DATE timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP\,
+				 FLD_COUNT bigint(20) unsigned NOT NULL DEFAULT 0\,
+				 FLD_QUERY varchar(128)\,  KEY URL_IDX (FLD_URL)\,
+				 KEY IDX_SITE_NAME (FLD_SITE_NAME)\,
+				 KEY DATE_IDX (FLD_DATE)\,
+				 KEY IDX_URL (FLD_URL)
+				 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+		</hitstat>
+		
+		<viewstat>
+			CREATE TABLE IF NOT EXISTS TBL_VIEW_STAT (
+			     FLD_SITE_NAME varchar(256) NOT NULL\,
+			     FLD_URL varchar(512) NOT NULL\,
+				 FLD_DATE timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP\,
+				 FLD_COUNT bigint(20) unsigned NOT NULL DEFAULT 0\,
+				 FLD_QUERY varchar(128)\,  KEY URL_IDX (FLD_URL)\,
+				 KEY IDX_SITE_NAME (FLD_SITE_NAME)\,
+				 KEY IDX_DATE (FLD_DATE)\,
+				 KEY IDX_URL (FLD_URL)
+				 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+		</viewstat>
+		
+		<searchlog>
+			CREATE TABLE IF NOT EXISTS TBL_SEARCH_LOG (
+				  FLD_ID int(10) unsigned NOT NULL auto_increment\,
+				  FLD_QUERY VARCHAR(512) NOT NULL\,
+				  FLD_SUGGESTION VARCHAR(200)\,
+				  FLD_AGENT VARCHAR(200)\,
+				  FLD_CAT int(10) unsigned\,
+				  FLD_RESULT_COUNT INTEGER UNSIGNED\,
+				  FLD_SPAM tinyint(1) NOT NULL default '0'\,
+				  FLD_TIME DOUBLE unsigned default NULL\,
+				  FLD_TIMESTAMP TIMESTAMP NOT NULL default CURRENT_TIMESTAMP on update CURRENT_TIMESTAMP\,
+				  PRIMARY KEY  (FLD_ID)
+				  ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+		</searchlog>
+		
+		<querystat>
+			CREATE TABLE IF NOT EXISTS TBL_QUERY_LOG (
+				  FLD_ID int(10) unsigned NOT NULL auto_increment\,
+				  FLD_QUERY VARCHAR(512) NOT NULL\,
+				  FLD_COUNT INTEGER UNSIGNED\,
+				  FLD_SPAM tinyint(1) NOT NULL default '0'\,
+				  PRIMARY KEY  (FLD_ID)
+				  ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+		</querystat>		
+		
+		<citydealemail>
+			CITY_DEAL_USERS | CREATE TABLE CITY_DEAL_USERS (
+			  ID int(11) NOT NULL AUTO_INCREMENT\,
+			  EMAIL varchar(255) DEFAULT NULL\,
+			  CITY varchar(127) DEFAULT NULL\,
+			  PRIMARY KEY (ID)\,
+			  UNIQUE KEY EMAIL (EMAIL)
+			)		
+		</citydealemail>
+	</tables>
+</config>

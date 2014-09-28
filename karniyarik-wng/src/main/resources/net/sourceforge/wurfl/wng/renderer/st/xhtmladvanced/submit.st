@@ -1,0 +1,1 @@
+<input $idAndClass(component=component)$ type="submit" name="$component.name$"  value="$component.value$"/>

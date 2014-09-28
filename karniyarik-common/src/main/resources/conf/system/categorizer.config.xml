@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<categorizer>
+		<category name="0.7" keyword="0.5" brand="0.4" negative="-0.3" />
+		<product name="0.5" breadcrumb="0.7" brand="0.4" />
+		<model path="${modelpath}" />
+	</categorizer>
+
+	<categories>
+		<category name="Araba">
+			<corename>/coreCar</corename>
+			<properties>
+				<property name="modelyear" type="integer" collect="cluster" />
+				<property name="enginepower" type="integer" collect="cluster" />
+				<property name="enginevolume" type="integer" collect="cluster" />
+				<property name="km" type="integer" collect="cluster" />
+				<property name="fuel" type="string" collect="occurrence" />
+				<property name="color" type="string" collect="occurrence" />
+				<property name="gear" type="string" collect="occurrence" />
+				<property name="city" type="string" collect="occurrence" />
+			</properties>
+			<!--
+				<property name="other" type="string"/> OTHER PROPERTY IS REMOVED
+				SINCE IT PROVIDES SO MANY UNRELATED WORDS property name="casetype"
+				type="string"/ property name="usagetype" type=""/
+			-->
+		</category>
+
+		<category name="Urun">
+			<corename>/coreProduct</corename>
+			<properties>
+				<property name="tags" type="string" collect="occurrence" />
+			</properties>
+		</category>
+
+		<category name="GunlukFirsat">
+			<corename>/coreDailyDeal</corename>
+			<properties>
+			</properties>
+		</category>
+
+		<category name="Sehir-Firsati">
+			<corename>/coreCityDeal</corename>
+			<properties>
+			</properties>
+		</category>
+
+		<category name="Otel">
+			<corename>/coreOtel</corename>
+			<properties>
+				<property name="source" type="string" collect="occurrence" />
+				<property name="city" type="string" collect="occurrence" />
+				<property name="zip" type="string" collect="none" />
+				<property name="country" type="string" collect="occurrence" />
+				<property name="address" type="string" collect="none" />
+				<property name="longitude" type="string" collect="none" />
+				<property name="latitude" type="string" collect="none" />
+				<property name="nr_rooms" type="integer" collect="none" />
+				<property name="description" type="string" collect="none" />
+				<property name="rating" type="double" collect="none" />
+				<property name="star" type="integer" collect="occurrence" />
+<!--				<property name="shuttle" type="integer" collect="none" />-->
+<!--				<property name="fitness" type="integer" collect="none" />-->
+<!--				<property name="golf" type="integer" collect="none" />-->
+<!--				<property name="internet" type="integer" collect="none" />-->
+<!--				<property name="kitchen" type="integer" collect="none" />-->
+<!--				<property name="parking" type="integer" collect="none" />-->
+<!--				<property name="pets" type="integer" collect="none" />-->
+<!--				<property name="pool" type="integer" collect="none" />-->
+<!--				<property name="restaurant" type="integer" collect="none" />-->
+<!--				<property name="spa" type="integer" collect="none" />-->
+			</properties>
+		</category>
+		
+		<category name="Emlak">
+			<corename>/coreEstate</corename>
+			<properties>
+				<!-- property name="brand" type="string" collect="occurrence"/-->
+				<property name="address" type="string" collect="none" />
+				<property name="city" type="string" collect="occurrence" />
+				<property name="district" type="string" collect="occurrence" />
+				<property name="roomcount" type="integer" collect="cluster" />
+				<property name="floorcount" type="integer" collect="cluster" />
+				<property name="salooncount" type="integer" collect="cluster" />
+				<property name="area" type="integer" collect="cluster" />
+				<property name="buildingage" type="integer" collect="cluster" />
+				<property name="warmingtype" type="string" collect="occurrence" />
+				<property name="buildingtype" type="string" collect="occurrence" />				
+			</properties>
+		</category>
+		
+	</categories>
+</config>

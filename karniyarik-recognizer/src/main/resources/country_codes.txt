@@ -1,0 +1,245 @@
+﻿ABD 	USA	us	United States Of America	Amerika Birleşik Devletleri	United States
+Afganistan	Afghanistan				
+Almanya	Germany	de			
+Andorra	Andorra				
+Angola	Angola				
+Anguilla	Anguilla				
+Antartika	Antarctica				
+Antigua ve Barbuda	Antigua and Barbuda	Antigua And Barbuda
+Arjantin	Argentina	ar			
+Arnavutluk	Albania				
+Aruba	Aruba				
+Avrupa Birliği	European Union				
+Avustralya	Australia	au			
+Avusturya	Austria	at			
+Azerbaycan	Azerbaijan				
+Birleşik Arap Emirlikleri	United Arab Emirates	ae	UAE	BAE	
+Bahama	Bahamas				
+Bahreyn	Bahrain	bh			
+Bangladeş	Bangladesh				
+Barbados	Barbados				
+Batı Sahara	Western Sahara				
+Belçika	Belgium	be			
+Belize	Belize				
+Benin	Benin				
+Bermuda	Bermuda				
+Beyaz Rusya	Belarus				
+Bolivya	Bolivia				
+Bosna Hersek	Bosnia and Herzegovina	ba	Bosnia Herzegovina	Bosnia And Herzegovina		
+Botsvana	Botswana				
+Bouvet Ada.	Bouvet Isl.				
+Brezilya	Brazil	br			
+British Indian Ocean Territory	British Indian Ocean Territory				
+Bruney	Brunei	bn	Brunei Sultanlığı	Brunei Darussalam
+Bulgaristan	Bulgaria	bg			
+Burkina Faso	Burkina Faso				
+Burma (Myanmar)	Burma (Myanmar)	Myanmar
+Burundi	Burundi				
+Butan	Bhutan				
+Cad	Chad				
+Cape Verde	Cape Verde				
+Cebelitarık	Gibraltar				
+Cezayir	Algeria				
+Christmas Ada.	Christmas Isl.				
+Cibuti	Djibouti				
+Cocos (Keeling) Ada.	Cocos (Keeling) Isl.				
+Cook Ada.	Cook Isl.	ck			
+Çek Cumhuriyeti	Czech Republic	cz			
+Çin	China	cn			
+Danimarka	Denmark	dk			
+Doğu Timor - Leste	East Timor - Leste				
+Dominik	Dominican	do	Dominik Cumhuriyeti	Dominican Republic
+Dominika	Dominica				
+Ekvator	Ecuador	ec			
+Ekvator Ginesi	Equatorial Guinea				
+El Salvador	El Salvador				
+Endonezya	Indonesia	id			
+Eritre	Eritrea				
+Ermenistan	Armenia				
+Estonya	Estonia	ee			
+Etiyopya	Ethiopia				
+Falkland Ada.	Falkland Isl.				
+Faroe Ada.	Faroe Isl.	fo	Faroe Adaları		
+Fas	Morocco	ma			
+Fiji	Fiji				
+Fildişi Sahili	Ivory Coast				
+Filipinler	Philippines	ph			
+Finlandiya	Finland	fi			
+Fransa	France	fr			
+Fransız Guyanası	French Guiana				
+Fransız Polenazyası	France Polynesia	pf	French Polynesia			
+Gabon	Gabon				
+Gambia	Gambia				
+Gana	Ghana				
+Gazze Şeridi	Gaza Strip				
+Gine	Guinea				
+Gine Bissau	Guinea-Bissau				
+Grenada	Grenada and Carricou				
+Grönland	Greenland	gl			
+Guadalup	Guadeloupe				
+Guam	Guam				
+Guatemala	Guatemala				
+Guernsey	Guernsey				
+Güney Afrika	South Africa	za			
+Güney Fransız Antartika Adaları	French Southern and Antarctic Lands				
+Güney Gürcistan & Güney Sandviç Ada.	South Georgia & South Sandwich Islands				
+Güney Kore	Korea South	kr	Korea			
+Gürcistan	Georgia				
+Güyana	Guyana				
+Haiti	Haiti				
+Heard ve McDonald Ada.	Heard and McDonald Isl.				
+Hırvatistan	Croatia	hr			
+Hindistan	India	in			
+Hollanda	Netherlands	nl			
+Hollanda Antilleri	Netherlands Antilles	an			
+Honduras	Honduras				
+Hong Kong	Hong Kong				
+Irak	Iraq				
+İngiltere	UK 	gb	United Kingdom		
+İran	Iran				
+İrlanda	Ireland	ie			
+İspanya	Spain	es			
+İsrail	Israel	il			
+İsveç	Sweden	se			
+İsviçre	Switzerland	ch			
+İtalya	Italy	it			
+İzlanda	Iceland	is			
+Jamaika	Jamaica				
+Japonya	Japan	jp			
+Jersey Ada.	Jersey Isl.				
+Kamboçya	Cambodia	kh			
+Kamerun	Cameroon				
+Karadağ		me			
+Kanada	Canada	ca			
+Kanarya Ada.	Canary Isl.				
+Katar	Qatar	qa			
+Kazakistan	Kazakhstan				
+Kenya	Kenya				
+Kıbrıs	Cyprus	cy			
+Kırgızistan	Kyrgyzstan				
+Kiribati	Kiribati				
+Kolombiya	Colombia	co			
+Komor Ada.	Comoros				
+Kongo	Congo				
+Kosta Rika	Costa Rica				
+Kuveyt	Kuwait	kw			
+Kuzey Kore	Korea North				
+Kuzey Mariyan Ada.	Northern Marianas Isl.				
+Küba	Cuba				
+Lao	Laos				
+Lesotho	Lesotho				
+Letonya	Latvia	lv			
+Liberya	Liberia				
+Libya	Libya	Libyan Arab Jamahiriya				
+Lihtenstayn	Liechtenstein	li	Lihtenştayn		
+Litvanya	Lithuania	lt			
+Lübnan	Lebanon	lb			
+Lüksemburg	Luxembourg	lu			
+Macaristan	Hungary	hu			
+Madagaskar	Madagascar				
+Makao	Macau	mo			
+Makedonya	Macedonia	mk			
+Malavi	Malawi				
+Maldiv Ada.	Maldives Isl.	mv	Maldivler	Maldives	
+Malezya	Malaysia	my			
+Mali	Mali				
+Malsar Ada.	Marshall Isl.				
+Malta	Malta				
+Man Ada.	Isle of Man				
+Martinik	Martinique				
+Mayolte	Mayotte				
+Meksika	Mexico	mx			
+Merkezi Afrika Cum.	Central African				
+Mısır	Egypt	eg			
+Mikronezya	Micronesia				
+Moğolistan	Mongolia				
+Moldovya	Moldova				
+Monaco	Monaco	mc			
+Montserrat	Montserrat				
+Moris Ada.	Mauritius Isl.	Mauritius
+Moritanya	Mauritania				
+Mozambik	Mozambique				
+Namibya	Namibia				
+Nauru	Nauru				
+Nepal	Nepal				
+Nijer	Niger				
+Nijerya	Nigeria				
+Nikaragua	Nicaragua				
+Niue Ada.	Niue Isl.				
+Norfolk Ada.	Norfolk Isl.				
+Norveç	Norway	no			
+Özbekistan	Uzbekistan				
+Pakistan	Pakistan				
+Palau	Palau				
+Panama	Panama				
+Papua Yeni Gine	Papua New Guinea				
+Paraguay	Paraguay				
+Peru	Peru				
+Pitkairn Ada.	Pitcairn Isl.				
+Polonya	Poland	pl			
+Portekiz	Portugal	pt			
+Porto Riko	Puerto Rico	pr			
+Reunyon	Reunion				
+Romanya	Romania	ro			
+Ruanda	Rwanda				
+Rusya Federasyonu	Russia	ru			
+Saint Pierre ve Miquelon	Saint Pierre and Miquelon				
+Samoa	Samoa				
+Samoa Amerikan	Samoa American				
+San Marino	San Marino				
+Sao Tome & Principe	Sao Tome & Principe				
+Senegal	Senegal				
+Serbia & Montenegro	Serbia & Montenegro	Serbia	Montenegro
+Seyşel Adaları	Seychelles  Isl.	sc	Seychelles
+Sierra Leone	Sierra Leone				
+Singapur	Singapore	sg			
+Slovakya	Slovakia	sk			
+Slovenya	Slovenia	si			
+Solomon Ada.	Solomon Isl.				
+Somali	Somalia				
+Sırbistan		rs			
+Sri Lanka	Sri Lanka				
+St. Lucia	Saint Lucia				
+St.Helena	Saint Helena				
+St.Kittis & Nevis	Saint Kitts & Nevis				
+St.Vincent & Grenada	Saint Vincent & Grenadines	
+Saint Martin	St. Martin
+Sudan	Sudan				
+Surinam	Suriname				
+Suriye	Syria	sy	Suriye Arap Cumhuriyeti	Syrian Arab Republic		
+Suudi Arabistan	Saudi Arabia	sa			
+Svalbard	Svalbard				
+Svaziland	Swaziland				
+Şili	Chile	cl			
+Tacikistan	Tajikistan				
+Tanzanya	Tanzania				
+Tayland	Thailand	th			
+Tayvan	Taiwan	tw			
+Togo	Togo				
+Tokelan	Tokelau				
+Tonga	Tonga				
+Trinidad & Tobago	Trinidad & Tobago	Trinidad And Tobago				
+Tunus	Tunisia	tn			
+Turks & Caicos Ada.	Turks & Caicos Isl.	Turks And Caicos Islands				
+Tuvalu	Tuvalu				
+Türkiye	Turkey	tr			
+Türkmenistan	Turkmenistan				
+Uganda	Uganda				
+Ukrayna	Ukraine	ua			
+Umman	Oman	om			
+Uraguay	Uruguay				
+Ürdün	Jordan	jo			
+Vallis & Fununa Ada.	Wallis & Futuna Isl.				
+Vanuatu	Vanuatu				
+Vatikan	Vatican City (Holy See)				
+Venezuela	Venezuela				
+Vietnam	Vietnam				
+Virgin Ada. (ABD)	Virgin Isl. (USA)				
+Virgin Ada. (İngiltere)	Virgin Isl. (UK)				
+West Bank	West Bank				
+Yemen	Yemen				
+Yeni Kaledonya	New Caledonia	nc			
+Yeni Zelanda	New Zealand	nz			
+Yunanistan	Greece	gr			
+Zambiya	Zambia				
+Zimbabve	Zimbabwe				

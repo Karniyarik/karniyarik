@@ -1,0 +1,4 @@
+<p>
+$leftPart$
+$rightPart$
+</p>

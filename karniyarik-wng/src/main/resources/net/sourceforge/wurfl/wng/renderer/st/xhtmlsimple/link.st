@@ -1,0 +1,1 @@
+<a $idAndClass(component=component)$ href="$component.href$" $nnAttr(name="accesskey", value=component.accesskey)$>$component.text$</a>

@@ -1,0 +1,108 @@
+group common;
+
+
+baseInputAttr(input) ::= <<
+$idAndClass(component=input)$ type="$input.type$" name="$input.name$" value="$input.value$" $nnAttr(name="title",value=input.title)$ 
+>>
+
+hiddenAttr(input) ::= <<
+ type="$input.type$" name="$input.name$" value="$input.value$"
+>>
+
+checkBoxAttr(input) ::= <<
+$baseInputAttr(input)$ $nnAttr(name="checked", value=input.checked)$
+>>
+
+inputAttr(input) ::= <<
+$baseInputAttr(input)$ $nnAttr(name="maxlength", value=input.maxlength)$ $nnAttr(name="accesskey", value=input.accesskey)$ $nnAttr(name="size", value=input.size)$
+>>
+
+
+gridRow() ::= <<
+$it:{cell | $cell$ <br >};separator="\n" $
+>>
+
+gridCell() ::= <<
+$image(image=it.icon)$
+>>
+
+comment(comment) ::= "<!-- $comment$ -->"
+
+idAndClass(component) ::=<<
+$if(component)$
+$id(id=component.id)$$class(selector=component.selector)$
+$endif$
+>>
+
+div(component, children, separator) ::= <<
+$if(children)$
+<div $idAndClass(component=component)$>
+	$children; separator = separator$	
+</div>$\n$
+$endif$
+>>
+
+attr(name,value) ::= <<
+$\ $$name$="$value$"
+>>
+
+nnAttr(name,value) ::= <<
+$if(value)$
+$\ $$name$="$value$"
+$endif$
+>>
+
+
+image(image) ::= <<
+$if(image)$
+   $if(image.link)$
+      $linkableImage(link=image.link, image=image)$
+   $else$
+      $defaultImage(image=image)$
+   $endif$
+$endif$
+>>
+
+link(link) ::= <<
+<a $idAndClass(component=link)$ href="$link.href$"$nnAttr(name="accesskey", value=link.accesskey)$>$link.text$</a>
+>>
+
+linkableImage(link,image) ::= <<
+<a href="$link.href$"$nnAttr(name="accesskey", value=link.accesskey)$>$defaultImage(image)$</a>
+>>
+
+
+defaultImage(image) ::= <<
+<img $attr(name="src", value=image.src)$$nnAttr(name="alt",value=image.alt)$$nnAttr(name="width",value=image.width)$$nnAttr(name="height",value=image.height)$/>
+>>
+
+
+row(it,selector) ::= "<td $class(selector=selector)$>$it$</td>$\n$"
+
+firstCell(selector) ::= << 
+<tr>
+	$row(it=it,selector=selector)$		
+>>
+
+secondCell(selector) ::= <<
+$row(it=it,selector=selector)$
+</tr>
+>>
+
+id(id) ::= <<
+$nnAttr(name="id", value=id)$
+>>
+
+class(selector) ::= <<
+$nnAttr(name="class", value=selector)$
+>>
+
+
+property(item) ::= <<
+  $item.name$:$item.value$; 
+>>
+
+css(item) ::= <<
+ $item.selector$ {$item.properties: property(item=it)$}$\n$
+>>
+

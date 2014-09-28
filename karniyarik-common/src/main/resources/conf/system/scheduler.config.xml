@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<scheduler>
+		<queuecheckcronjob>0 0/15 * * * ? *</queuecheckcronjob>
+		<maxrunningcrawlers>15</maxrunningcrawlers>
+		<jobstatisticsdir>${basedir}/jobstatistics</jobstatisticsdir>
+	</scheduler>
+</config>

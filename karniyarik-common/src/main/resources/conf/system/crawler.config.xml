@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<crawler>
+		<botname>Karniyarik</botname>
+		<!-- singlecrawldelay>500</singlecrawldelay -->
+		<!-- 10.000 visited links takes at least 10MB -->
+		<visitedlinksize>1000000</visitedlinksize>
+		<!-- 20.000 visited links takes at least 10MB .. good to use x * 32750 -->
+		<linkstovisitsize>327500</linkstovisitsize>
+		<linkstovisitdir>${basedir}/linkstovisit/</linkstovisitdir>
+		<productsdir>${basedir}/products</productsdir>
+		<crawlerwarningfile>${basedir}/warnings.txt</crawlerwarningfile>
+		<!-- Number of links that will be persisted as a block -->
+		<linkstovisitblocksize>1000</linkstovisitblocksize>
+		<flushperiod>360</flushperiod> <!-- minutes -->
+		<fetchtimeout>20000</fetchtimeout> <!-- mili seconds -->
+		<sleeptime>10</sleeptime> <!-- minutes -->
+		<successiveexceptioncount>200</successiveexceptioncount>
+		<ignorelist>
+			<ignore>.xls</ignore>
+			<ignore>.doc</ignore>  
+			<ignore>.docx</ignore>
+			<ignore>.pdf</ignore>
+			<ignore>.jpg</ignore>
+			<ignore>.jpeg</ignore>
+			<ignore>.ico</ignore>
+			<ignore>.png</ignore>
+			<ignore>.gif</ignore>
+			<ignore>.css</ignore>
+			<ignore>.js</ignore>
+			<ignore>.exe</ignore>
+			<ignore>mailto:</ignore>
+			<ignore>.rar</ignore>
+			<ignore>.sit</ignore>
+			<ignore>.eps</ignore>
+			<ignore>.wmf</ignore>
+			<ignore>.zip</ignore>
+			<ignore>.ppt</ignore>
+			<ignore>.mpg</ignore>
+			<ignore>.gz</ignore>
+			<ignore>.rpm</ignore>
+			<ignore>.tgz</ignore>
+			<ignore>.mov</ignore>
+			<ignore>.avi</ignore>
+			<ignore>.swf</ignore>
+			<ignore>.flv</ignore>
+			<ignore>.mp3</ignore>
+			<ignore>.mp4</ignore>
+			<!-- ignore>javascript:</ignore -->
+		</ignorelist>
+	</crawler>
+</config>

@@ -1,0 +1,49 @@
+<Context reloadable="false" crossContext="false" cacheMaxSize="30720" cacheTTL="30000" 
+	cachingAllowed="true">
+
+	<Resource auth="Container"
+		type="javax.sql.DataSource"
+		maxActive="100"
+		maxIdle="10"
+		initialSize="10"
+		maxWait="300000"
+		removeAbandonedTimeout="300"
+		validationQuery="SELECT 1" 
+		testOnBorrow="true"
+		testWhileIdle="true" 
+		removeAbandoned="true" 
+		username="${dbuser}"
+		password="${dbpass}"
+		driverClassName="${dbdriver}" 
+		url="${dburl}"
+		name="${datasource}" />
+		
+	<Resource auth="Container"
+		type="javax.sql.DataSource"
+		maxActive="100"
+		maxIdle="10"
+		initialSize="10"
+		maxWait="300000"
+		removeAbandonedTimeout="300"
+		validationQuery="SELECT 1" 
+		testOnBorrow="true"
+		testWhileIdle="true" 
+		removeAbandoned="true" 
+		username="${dbuser}"
+		password="${dbpass}"
+		driverClassName="${dbdriver}" 
+		url="${webdburl}"
+		name="${webdatasource}" />	
+		
+</Context>
+
+<!-- 
+timeBetweenEvictionRunsMillis="1000"
+minEvictableIdleTimeMillis="60000"
+
+Example MySQL config file /etc/my.cfg with TOO low timeout:
+[mysqld]
+...
+wait_timeout=15
+...
+-->

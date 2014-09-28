@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://www.karniyarik.com/schema">
+    <items name="gears">
+        <item name="Otomatik">
+			<alternatenames>
+			</alternatenames>
+        </item>
+        <item name="Düz">
+			<alternatenames>
+				<name>Manuel</name>
+			</alternatenames>
+        </item>
+        <item name="Triptronik">
+			<alternatenames>
+				<name>Tiptronik</name>
+				<name>Tiptronic</name>
+			</alternatenames>
+        </item>
+        <item name="Multitronic">
+			<alternatenames>
+				<name>Multitronik</name>
+			</alternatenames>
+        </item>
+        <item name="SMG">
+			<alternatenames>
+				<name>F1</name>
+			</alternatenames>
+        </item>
+    </items>
+</root>

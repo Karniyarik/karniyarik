@@ -1,0 +1,8 @@
+# Contact info submission
+url: karniyarik.com
+site_owner: Karnıyarık 
+city: Ankara
+country: T&uuml;rkiye
+display_email: info@karniyarik.com
+site_name: Karnıyarık
+site_description: T&uuml;rkiye i&ccedil;ersinde aradığınız t&uuml;m &uuml;r&uuml;nleri bulabileceğiniz Alışveriş sitesi. En ucuzunu bulmak i&ccedil;in, bir &uuml;r&uuml;n hakkında t&uuml;m bilgilere ulaşmak i&ccedil;in &uuml;r&uuml;n arama portali. Arama motoru teknolojisini internetteki &uuml;r&uuml;nler i&ccedil;in kullanan Karnıyarık hem pop&uuml;ler &uuml;r&uuml;nleri hem de derin Internetteki &uuml;r&uuml;nleri bulmanıza yardımcı olur. 

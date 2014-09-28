@@ -1,0 +1,60 @@
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../config/ehcache.xsd">
+
+    <diskStore path="C:/graphcache"/>
+
+    <!--
+    Mandatory Default Cache configuration. These settings will be applied to caches
+    created programmtically using CacheManager.add(String cacheName)
+    -->
+    <defaultCache
+            maxElementsInMemory="10000"
+            eternal="false"
+            timeToIdleSeconds="120"
+            timeToLiveSeconds="120"
+            overflowToDisk="false"
+            maxElementsOnDisk="500000"
+            diskPersistent="false"
+            diskExpiryThreadIntervalSeconds="120"
+            memoryStoreEvictionPolicy="LRU"
+            />
+            
+	<cache name="featured"
+            maxElementsInMemory="2000"
+            eternal="false"
+            timeToIdleSeconds="21000"
+            timeToLiveSeconds="21000"
+            overflowToDisk="false"
+            diskPersistent="false"
+            memoryStoreEvictionPolicy="LRU"
+          	/>     
+
+	<cache name="siteinfo"
+            maxElementsInMemory="2000"
+            eternal="false"
+            timeToIdleSeconds="21000"
+            timeToLiveSeconds="21000"
+            overflowToDisk="false"
+            diskPersistent="false"
+            memoryStoreEvictionPolicy="LRU"
+          	/>     
+	
+	<cache name="alexainfo"
+            maxElementsInMemory="2000"
+            eternal="false"
+            timeToIdleSeconds="86000"
+            timeToLiveSeconds="86000"
+            overflowToDisk="false"
+            diskPersistent="false"
+            memoryStoreEvictionPolicy="LRU"
+          	/>               	     
+<!--	<cache name="augmentator_media"-->
+<!--            maxElementsInMemory="10000"-->
+<!--            eternal="false"-->
+<!--            timeToIdleSeconds="6000"-->
+<!--            timeToLiveSeconds="6000"-->
+<!--            overflowToDisk="false"-->
+<!--            maxElementsOnDisk="500000"-->
+<!--            diskPersistent="false"-->
+<!--            memoryStoreEvictionPolicy="LRU"-->
+<!--          	/>          	  -->
+</ehcache>

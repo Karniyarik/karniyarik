@@ -1,0 +1,1 @@
+<hr$idAndClass(component)$ />

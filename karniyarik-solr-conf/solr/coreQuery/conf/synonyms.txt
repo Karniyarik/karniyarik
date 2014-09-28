@@ -1,0 +1,226 @@
+# The ASF licenses this file to You under the Apache License, Version 2.0
+# (the "License"); you may not use this file except in compliance with
+# the License.  You may obtain a copy of the License at
+#
+#     http:,,www.apache.org,licenses,LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+#-----------------------------------------------------------------------
+#some test synonym mappings unlikely to appear in real input text
+aaa => aaaa
+bbb => bbbb1 bbbb2
+ccc => cccc1,cccc2
+a\=>a => b\=>b
+a\,a => b\,b
+fooaaa,baraaa,bazaaa
+
+# Some synonym groups specific to this example
+GB,gib,gigabyte,gigabytes
+MB,mib,megabyte,megabytes
+Television, Televisions, TV, TVs
+#notice we use "gib" instead of "GiB" so any WordDelimiterFilter coming
+#after us won't split it into two words.
+
+# Synonym mappings can be used for spelling correction too
+pixima => pixma
+
+# karniyarik synonyms
+notebook,taþýnabilir bilgisayar,dizüstü,laptop
+printer,yazýcý
+wireless,kablosuz
+laser,lazer
+makina,makine
+televizyon,tv
+handheld,pda
+ps2,ps3,playstation
+batarya,pil,battery
+prezervatif,condom,kondom
+xbox,xbox 360
+desktop,masaüstü
+pc,bilgisayar
+dijital,digital
+harici,external
+dahili,internal
+ev,home
+theatre,sinema
+player,oynatýcý
+portable,taþýnabilir
+hdd,hard disk
+cihaz,alet
+abide,anýt
+acele,çabuk
+acemi,toy
+aciz,güçsüz
+adalet,hak
+adet,sayý
+aka,büyük
+akýl,us
+al,kýrmýzý
+alelade,sýradan
+aleni,açýk
+ara,fasýla
+araba, otomobil
+armaðan,hediye
+aþk,sevi
+atik,seri
+ayakkabý,pabuç
+baðýþlama,affetme
+bacý,kýz kardeþ
+baþ,kafa
+bayaðý,adi
+beyaz,ak
+bonkör,cömert
+cennet,aden
+cevap,yanýt
+cýlýz,zayýf
+cimri,pinti
+cümle,tümce
+çabuk,acele
+çaðrý,davet
+çamur,balçýk
+çare,umar
+denk,müsavi
+deprem,zelzele
+dilek,istek,arzu
+dizi,sýra
+doktor,hekim
+dost,arkadaþ
+edebiyat,yazýn
+edep,adap
+ehemniyet,önem
+elbise,esbap
+emniyet,güven
+eser,yapýt
+ev,konut
+fakir,yoksul
+fayda,yarar
+fena,kötü
+fikir,düþünce
+gemi,vapur
+gezmek,dolaþmak
+gökyüzü,sema
+gözlem,rasat
+güç,kuvvet
+hadise,olay
+hareket,kinetik
+hasým,düþman
+hasret,özlem
+hatýra,aný
+hediye,armaðan
+hekim,doktor
+hýsým,dost
+ýrak,uzak
+ýrmak,nehir
+idadi,lise
+idare,yönetim
+ihtiyar,yaþlý
+ihtiyaç,gereksinim
+ilan,duyuru
+iliþki,münasebet
+imtihan,sýnav
+isim,ad
+istasyon,gar,terminal
+istikbal,gelecek
+iþçi,amele
+ivedi,çabuk
+izahat,açýklama
+kabiliyet,yetenek
+kafa,baþ
+kahin,medyum,bilici
+kalp,yürek
+kanýt,delil
+kelime,sözcük
+kýlavuz,rehber
+kýrmýzý,al
+kýyý,sahil
+kirli,pis
+kolay,basit
+konuk,misafir
+kural,kaide
+kuvvetli,güçlü
+küçük,ufak,minik
+lider,önder
+mal,meta
+mani,engel
+matem,yas
+mektep, okul
+mektup,name
+merkep,eþek
+misafir,konuk
+misal,örnek
+muharebe,savaþ
+mübarek,kutsal
+namzet,aday
+nehir,ýrmak
+nesil,kuþak
+nezir,adak
+okul,mektep
+ortalama,vasat
+oy,rey
+öðrenci,talebe
+öðretmen,muallim
+önder,lider
+örnek,misal
+öykü,hikaye
+problem,sorun
+rey, oy
+rüþtiye,ortaokul
+rüzgar,yel
+saadet,mutluluk
+sabit,duraðan,durgun
+saðlýk,sýhhat
+savaþ,cenk,muharebe
+sebep,neden
+yüzyýl,asýr
+serüven,macera
+sevinç,mutluluk
+sýnav,imtahan
+sýnýf,derslik
+sitane,yýldýz
+siyah,kara
+son,nihayet
+sonbahar,güz
+soru,sual
+sorumluluk,mesuliyet
+sözcük,kelime
+sözlük,lügat
+þaka,latife
+þakacý,nüktedan
+tabiat,doða
+tartýþma,münakaþa
+temel,esas
+tören,merasim
+tren,þimendifer
+tutsak,esir
+tümce,cümle
+uçak,tayyare
+ulu,yüce
+ulus,millet
+usta,ehil
+uyarý,ikaz
+uygarlýk,medeniyet
+üzüntü,tasa
+vakit,zaman
+vatan,yurt
+vazife,görev
+veteriner,baytar
+vilayet,il
+Yaþlý,ihtiyar
+yel,rüzgar
+yemek,aþ
+yetenek,beceri,kabiliyet
+yýl,sene
+yýlmak,býkmak
+yoksul,fakir
+yurt,vatan
+yürek,kalp
+yüz,sima,çehre,surat
+zehir,agu
+zengin,varlýklý
+zýrnýk,metelik
+boutique,butik

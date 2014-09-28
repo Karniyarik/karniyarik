@@ -1,0 +1,19 @@
+/** sprite: sprite-x; sprite-image: url('../images/sprite-x.png'); sprite-layout: vertical;	sprite-image-uid: none;	sprite-margin-bottom: 1px;*/
+.line {
+	margin-top:10px;
+	height: 194px;
+	background-repeat: repeat-x;
+	background-image: url(../images/tosprite/line.png);	/** sprite-ref: sprite-x;sprite-alignment: repeat;*/
+}
+
+.home .search {
+	height:120px;
+	background-repeat: repeat-x;
+	background-image: url(../images/tosprite/searchic.png);/** sprite-ref: sprite-x;sprite-alignment: repeat;*/
+}
+
+.search.search2 { 
+	height:84px;
+	background-repeat: repeat-x;
+	background-image: url(../images/tosprite/searchbc.png);/** sprite-ref: sprite-x;sprite-alignment: repeat;*/
+}

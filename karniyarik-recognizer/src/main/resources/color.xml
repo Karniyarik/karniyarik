@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns="http://www.karniyarik.com/schema">
+    <items name="colors">
+        <item name="Siyah">
+            <alternatenames>
+            </alternatenames>
+        </item>
+        <item name="Gümüş">
+            <alternatenames>
+                <name>Gümüş</name>
+                <name>Kristal</name>
+                <name>Alüminyum</name>
+                <name>Aluminyum</name>
+                <name>Aliminyum</name>
+                <name>Yunus</name>
+                <name>g gri</name>
+                <name>Aleminyum</name>
+            </alternatenames>
+        </item>
+        <item name="Gri">
+            <alternatenames>
+                <name>Duman</name>
+                <name>Frint</name>
+                <name>Granit</name>
+                <name>Gri</name>
+                <name>Grisi</name>
+                <name>Kum</name>
+                <name>Kül</name>
+                <name>Platin</name>
+                <name>Titanyum</name>
+                <name>Zeytin</name>
+                <name>Çelik</name>
+                <name>çelikgri</name>
+                <name>Atlas</name>
+            </alternatenames>
+        </item>
+        <item name="Füme">
+            <alternatenames>
+                <name>fFÜME</name>
+            </alternatenames>
+        </item>
+        <item name="Beyaz">
+            <alternatenames>
+                <name>Ceylan</name>
+                <name>Alp</name>
+                <name>Amarant</name>
+                <name>Beyazı</name>
+            </alternatenames>
+        </item>
+        <item name="Kırmızı">
+            <alternatenames>
+                <name>Kırmızısı</name>
+                <name>kızıl</name>
+                <name>kızılı</name>
+                <name>Ateş </name>
+                <name>Güz</name>
+                <name>Kiremit</name>
+                <name>Kirimizi</name>
+                <name>Yakut</name>
+                <name>Şeytan</name>
+            </alternatenames>
+        </item>
+        <item name="Bordo">
+            <alternatenames>
+                <name>Vişne</name>
+                <name>Çürüğü</name>
+            </alternatenames>
+        </item>
+        <item name="Mor">
+            <alternatenames>
+            	<name>Moru</name>
+                <name>Patlican</name>
+            </alternatenames>
+        </item>
+        <item name="Macenta">
+            <alternatenames>
+                <name>Galibarda</name>
+                <name>Gül</name>
+                <name>Kurusu</name>
+                <name>Lila</name>
+                <name>Pembe</name>
+                <name>Eflatun</name>
+            </alternatenames>
+        </item>
+        <item name="Açık Yeşil">
+            <alternatenames>
+            	<name>Yeşili</name>
+                <name>Çim</name>
+                <name>Badem</name>
+                <name>Buz</name>
+            </alternatenames>
+        </item>
+        <item name="Yeşil">
+            <alternatenames>
+            	<name>Yeşili</name>
+                <name>Zeytin</name>
+                <name>Ihlamur</name>
+                <name>Nil</name>
+                <name>Safari</name>
+                <name>Ihlamur</name>
+                <name>Çiçeği</name>
+            </alternatenames>
+        </item>
+        <item name="Koyu Yeşil">
+            <alternatenames>
+            </alternatenames>
+        </item>
+        <item name="Fildişi"/>
+        <item name="Krem"/>
+        <item name="Bej">
+            <alternatenames>
+            	<name>Beji</name>
+                <name>Angora</name>
+                <name>Antik</name>
+                <name>Sahra</name>
+                <name>Sahra</name>
+                <name>Şampanya</name>
+                <name>şanpanya</name>
+                <name>Kanvas</name>
+                <name>Travertenbej</name>
+                <name>Kum</name>
+                <name>Toprak</name>
+            </alternatenames>
+        </item>
+        <item name="Kahverengi">
+            <alternatenames>
+                <name>Antilop</name>
+            </alternatenames>
+        </item>
+        <item name="Bronz"/>
+        <item name="Bakır"/>
+        <item name="Bal Rengi">
+            <alternatenames>
+            	<name>Sarısı</name>
+                <name>Başak</name>
+                <name>Bal</name>
+                <name>Köpüğü</name>
+                <name>Somon</name>
+            </alternatenames>
+        </item>
+        <item name="Sarı">
+            <alternatenames>
+                <name>Hardal</name>
+                <name>Kavuniçi</name>
+            </alternatenames>
+        </item>
+        <item name="Altın Sarısı">
+            <alternatenames>
+                <name>Altın</name>
+                <name>ltinsarisi</name>
+            </alternatenames>
+        </item>
+        <item name="Turuncu">
+            <alternatenames>
+                <name>Nar</name>
+                <name>Çiçeği</name>
+                <name>Tarçın</name>
+            </alternatenames>
+        </item>
+        <item name="Açık Mavi">
+            <alternatenames>
+            	<name>Mavi</name>
+            	<name>Mavisi</name>
+                <name>Deniz</name>
+                <name>Orient</name>
+                <name>Okyanus</name>
+            </alternatenames>
+        </item>
+        <item name="Mavi">
+            <alternatenames>
+            	<name>Mavisi</name>
+                <name>Ege</name>
+                <name>Fırtına</name>
+                <name>Gökyüzü</name>
+                <name>Kapri</name>
+                <name>Kekova</name>
+                <name>Kıyı</name>
+                <name>Uzay</name>
+                <name>Meneviş</name>
+                <name>GÖK</name>
+            </alternatenames>
+        </item>
+        <item name="Lacivert">
+            <alternatenames>
+            	<name>Mavisi</name>
+                <name>PARLIAMENT</name>
+            </alternatenames>
+        </item>
+        <item name="Turkuaz">
+            <alternatenames>
+            	<name>Yeşili</name>
+                <name>Petrol</name>
+                <name>turkuazmavi</name>
+            </alternatenames>
+        </item>
+    </items>
+</root>

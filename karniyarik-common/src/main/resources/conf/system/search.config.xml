@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<search pagesize="15">
+		<index dir="${basedir}/index" publishindex="${publishindex}">
+		</index>
+		<logindex size="500"/>
+		<performance maxfieldlength="256" maxmergedocs="0x7fffffff"
+			mergefactor="20" maxbuffereddocs="20" />
+		<suggest minresultcount="5" minresultscore="0.5" />
+		<pricecluster size="4" algorithm="count" />
+		<!-- pricecluster size="4" algorithm="kmeans"/ -->
+		<!--stemmer class="com.karniyarik.search.stemmer.SnowballStemmer"/-->
+		<stemmer class="com.karniyarik.ir.stemmer.ZemberekStemmer" />
+		<querysuggestion minproductsize="100" maxclustercount="20" 
+		maxsamplesize="400" maxclustercontains="100" minclustercontains="5"/>
+	</search>
+</config>

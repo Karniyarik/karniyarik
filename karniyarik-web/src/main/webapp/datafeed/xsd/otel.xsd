@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" 
+	elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="oteller" type="otellerType"/>
+  <xs:complexType name="otelType">
+        <xs:choice maxOccurs="unbounded" minOccurs="0">
+        	<xs:element type="xs:string" name="id" minOccurs="0"
+        		maxOccurs="1" />
+        	<xs:element type="xs:string" name="isim" minOccurs="1"
+        		maxOccurs="1" />
+        	<xs:element type="xs:double" name="fiyat" minOccurs="1"
+        		maxOccurs="1" />
+        	<xs:element type="birimType" name="birim" minOccurs="1"
+        		maxOccurs="1" />
+        	<xs:element type="xs:string" name="kategori" minOccurs="0"
+        		maxOccurs="1" />
+        	<xs:element type="xs:anyURI" name="url" minOccurs="1"
+        		maxOccurs="1" />
+        	<xs:element type="xs:anyURI" name="resim" minOccurs="0"
+        		maxOccurs="1" />
+        	<xs:element name="adres" type="xs:string" minOccurs="1"
+        		maxOccurs="1" />
+        	<xs:element name="posta_kodu" type="xs:string" minOccurs="1"
+        		maxOccurs="1">
+        	</xs:element>
+        	<xs:element name="sehir" type="xs:string" minOccurs="1"
+        		maxOccurs="1">
+        	</xs:element>
+        	<xs:element name="ulke" type="xs:string" minOccurs="1"
+        		maxOccurs="1">
+        		<xs:annotation>
+        			<xs:documentation>
+        				ISO 3166-1 Ülke Kodlarından iki haneli alpha-2
+        				kodlarını kullanınız bknz:
+        				http://en.wikipedia.org/wiki/ISO_3166-1 bknz:
+        				http://www.karniyarik.com/datafeed/xsd/ISOCountryCodeType-V2006.xsd
+        			</xs:documentation>
+        		</xs:annotation>
+        	</xs:element>
+        	<xs:element name="yildiz" type="xs:int" minOccurs="1"
+        		maxOccurs="1">
+        	</xs:element>
+        	<xs:element name="lat" type="xs:double" minOccurs="1"
+        		maxOccurs="1">
+        	</xs:element>
+        	<xs:element name="lon" type="xs:double" minOccurs="1"
+        		maxOccurs="1">
+        	</xs:element>
+        	<xs:element name="rating" type="xs:double" minOccurs="0"
+        		maxOccurs="1">
+        	</xs:element>
+        	<xs:element name="aciklama" type="xs:string" minOccurs="1"
+        		maxOccurs="1">
+        	</xs:element>
+        	<xs:element name="ozellikler" type="ozellikType"
+        		maxOccurs="1" minOccurs="0">
+        	</xs:element>
+        </xs:choice>
+  </xs:complexType>
+  <xs:complexType name="otellerType">
+    <xs:sequence>
+      <xs:element type="otelType" name="otel" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:simpleType name="birimType">
+  	<xs:restriction base="xs:string">
+  		<xs:enumeration value="USD"></xs:enumeration>
+  		<xs:enumeration value="TL"></xs:enumeration>
+  		<xs:enumeration value="EUR"></xs:enumeration>
+  		<xs:enumeration value="JPY"></xs:enumeration>
+  	</xs:restriction>
+  </xs:simpleType>
+
+  <xs:complexType name="ozellikType">
+  	<xs:sequence>
+  		<xs:element name="ozellik" type="xs:string" maxOccurs="unbounded" minOccurs="0"></xs:element>
+  	</xs:sequence>
+  </xs:complexType>
+</xs:schema>

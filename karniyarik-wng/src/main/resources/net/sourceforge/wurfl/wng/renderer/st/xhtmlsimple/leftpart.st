@@ -1,0 +1,1 @@
+$image(image=component.image)$

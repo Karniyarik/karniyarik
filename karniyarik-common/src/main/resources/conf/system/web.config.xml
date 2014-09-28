@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<web>
+		<format money="###\,###\,##0.00" resulttime="#0.00"
+			pricecluster="#0" />
+		<mergeindexservlet>${indexmergeservlet}</mergeindexservlet>
+		<refreshindexservlet>${indexrefreshservlet}</refreshindexservlet>
+		<refreshsitemapservlet>${sitemaprefreshservlet}</refreshsitemapservlet>
+		<siteconfrefreshservlet>${siteconfrefreshservlet}</siteconfrefreshservlet>
+		<sitemappath>${sitemappath}</sitemappath>
+		<downloadpath>${downloadpath}</downloadpath>
+		<backup>true</backup>
+		<statusupdatesenabled>${statusupdatesenabled}</statusupdatesenabled>
+		<twitter>
+			<username></username>
+			<password></password>
+		</twitter>
+		<facebook>
+			<username></username>
+			<password></password>
+			<code></code>
+			<apikey></apikey>
+			<appid></appid>
+			<secret></secret>
+		</facebook>
+		<bitly>
+			<login></login>
+			<password></password>
+			<apikey></apikey>
+		</bitly>
+	</web>
+</config>

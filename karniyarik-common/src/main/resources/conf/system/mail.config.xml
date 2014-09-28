@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<mail>
+		<from></from>
+		<to></to>
+		<hostname>smtp.gmail.com</hostname>
+		<user>krnyrk</user>
+		<password></password>
+		<ssl>true</ssl>
+		<enabled>${emailnotificationenabled}</enabled>
+		<storage>${basedir}/mail</storage>
+	</mail>
+</config>

@@ -1,0 +1,15 @@
+/.idea
+*.iml
+karniyarik-crawler/src/main/java/com/karniyarik/crawler/site/rule/*
+karniyarik-common/src/main/resources/dev/eclipse.formatter.xml
+karniyarik-common/src/main/resources/dev/siteler.siralama.txt
+karniyarik-common/src/main/resources/dev/siteler.total.txt
+karniyarik-common/src/main/resources/conf/siteconf/*
+karniyarik-common/src/main/resources/conf/logos/*
+karniyarik-common/src/main/resources/conf/deletedsiteconf/*
+karniyarik-common/src/main/resources/conf/ecommerce/*
+karniyarik-common/src/main/resources/conf/datafeed/*
+karniyarik-common/src/main/resources/conf/api/apikey.xml
+karniyarik-categorizer/dev-resources/lucene/*
+karniyarik-brands/src/main/resources/olası hatalar.txt
+karniyarik-web/src/main/webapp/images/apiusers/*

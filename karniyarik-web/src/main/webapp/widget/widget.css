@@ -1,0 +1,45 @@
+.krnyrkwidget {
+	width: 300px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background-color: #636363;
+	font-weight: normal;
+	font-size: 12px !important;
+	font-family: "lucida grande", lucida, tahoma, helvetica, arial,sans-serif !important;
+}
+
+.krnyrkwidget a {text-decoration: none;}
+.krnyrkwidget a img {border: 0 !important;}
+
+.krnyrk_list {
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background-color: white;
+	padding: 0 5px;
+	border: 1px solid black;
+	overflow: hidden;
+}
+
+.krnyrk_spinner{
+	width: 14px;
+	height: 14px;
+	position: absolute;
+	top: 3px;
+	right: 3px;
+	background: url(http://www.karniyarik.com/widget/images/loading.gif) no-repeat;
+}
+
+.krnyrk_head {padding: 5px 5px 5px 5px;}
+.krnyrk_head h2 {font-size: 14px; font-weight: bold; color: #E5E5E5;/*color: #656565;*/ display: inline;}
+.krnyrk_bottom {height: 30px;}
+.krnyrk_bottom img {float: right; display: block; padding: 4px;}
+.krnyrk_bottom span {margin: 4px 4px; }
+.krnyrk_bottom span a {color: #E5E5E5;}
+.krnyrk_prod{font-size: 12px;height: 45px;border-bottom:1px dotted #DDDDDD;}
+.krnyrk_prod_name a {color: #5F7A06; text-decoration: none;}
+.krnyrk_prod_img {float:left; margin-left: 4px;margin-right: 4px;}
+.krnyrk_prod_img img {width: 40px; max-width: 40px; max-height: 40px; vertical-align: middle;}
+.krnyrk_prod_name {float:left; padding-top: 4px; padding-bottom: 4px;}
+.krnyrk_prod_pri {text-align: right;padding-top: 4px; padding-bottom: 4px; color: #883171; font-weight: bold;}
+.krnyrk_prod_store {color: #636363;text-transform: capitalize; font-weight: bold;}
+.krnyrk_prod_store img{height: 12px;vertical-align: middle;float: right;}

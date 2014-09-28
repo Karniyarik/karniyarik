@@ -1,0 +1,1 @@
+$if(!component.summary)$$if(component.startingColumn.shortLabel)$$component.startingColumn.shortLabel$:$\ $$elseif(component.startingColumn.label)$$component.startingColumn.label$:$\ $$endif$$endif$$if(children)$$children$$elseif(component.shortText)$$component.shortText$$else$$component.text$$endif$$if(component.summary)$:$\ $$elseif(!component.("last"))$,$\ $$endif$

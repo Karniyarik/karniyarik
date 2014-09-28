@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" 
+	elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="arabalar" type="arabalarType"/>
+  <xs:complexType name="arabaType">
+    <xs:choice maxOccurs="unbounded" minOccurs="0">
+    	<xs:element type="xs:string" name="id" minOccurs="0" maxOccurs="1"/>
+    	<xs:element type="xs:string" name="isim" minOccurs="1" maxOccurs="1"/>
+    	<xs:element type="xs:string" name="marka" minOccurs="1" maxOccurs="1"/>
+    	<xs:element type="xs:double" name="fiyat" minOccurs="1" maxOccurs="1"/>
+    	<xs:element type="birimType" name="birim" minOccurs="1" maxOccurs="1"/>
+    	<xs:element type="xs:string" name="kategori" minOccurs="0" maxOccurs="1"/>
+    	<xs:element type="xs:anyURI" name="url" minOccurs="1" maxOccurs="1"/>
+    	<xs:element type="xs:anyURI" name="resim" minOccurs="0" maxOccurs="1"/>
+    	<xs:element name="modelyili" type="xs:int" minOccurs="1" maxOccurs="1"></xs:element>
+    	<xs:element name="motorgucu" type="xs:int" minOccurs="1" maxOccurs="1"></xs:element>
+    	<xs:element name="motorhacmi" type="xs:int" minOccurs="1" maxOccurs="1"></xs:element>
+    	<xs:element name="kilometre" type="xs:int" minOccurs="1" maxOccurs="1"></xs:element>
+    	<xs:element name="yakit_tipi" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
+    	<xs:element name="renk" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
+    	<xs:element name="vites_tipi" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
+    	<xs:element name="sehir" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
+    </xs:choice>
+  </xs:complexType>
+  <xs:complexType name="arabalarType">
+    <xs:sequence>
+      <xs:element type="arabaType" name="araba" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:simpleType name="birimType">
+  	<xs:restriction base="xs:string">
+  		<xs:enumeration value="USD"></xs:enumeration>
+  		<xs:enumeration value="TL"></xs:enumeration>
+  		<xs:enumeration value="EUR"></xs:enumeration>
+  		<xs:enumeration value="JPY"></xs:enumeration>
+  	</xs:restriction>
+  </xs:simpleType>
+</xs:schema>

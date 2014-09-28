@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urunler>
+	<urun>
+		<id>NTBTSBU500-1DK</id>
+		<isim>Polietilen Tahta 25 X 40 X 2</isim>
+		<marka>Cinoxsan</marka>
+		<model>PT-3245</model>	
+		<fiyat>20.75</fiyat>
+		<birim>TL</birim>
+		<kategori>HAZIRLIK EKİPMANLARI &amp; KESME TAHTALARI</kategori>
+		<urun_url>http://www.test.com/index.php?do=catalog/product&amp;pid=618</urun_url>
+		<resim>http://www.test.com/modules/catalog/products/pr_01_618_max.jpg</resim>		
+	</urun>
+	<urun>
+		<id><![CDATA[NTBTSBU500-1DK]]></id>
+		<isim><![CDATA[TOSHIBA U500-1DK i3-330M 4G 320G 13.3''W7PRO+XpPro]]></isim>
+		<marka><![CDATA[TOSHIBA]]></marka>
+		<model>U500-1DK</model>
+		<fiyat>1296.82</fiyat>
+		<birim>USD</birim>		
+		<kategori><![CDATA[Bilgisayar  > Dizüstü Bilgisayar]]></kategori>
+		<resim><![CDATA[http://www.test.com/modules/catalog/products/pr_01_17494_max.jpg]]></resim>
+		<urun_url><![CDATA[http://www.test.com/TOSHIBA-U500-1DK-i3-330M-4G-320G-133W7PROXpPro,PR-17494.html]]></urun_url>
+	</urun>
+</urunler>

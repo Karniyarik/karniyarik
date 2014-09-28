@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newslist>
+	<news date="22 Temmuz 2010">
+		<title>Karnıyarık iPhone</title>
+		<abstract>
+			Ürün arama cepte! &lt;a href="iphone/"&gt;Karnıyarık iPhone/iPod Touch uygulaması &lt;/a&gt; yayında. Mutlaka deneyin!!!  
+		</abstract>
+		<full>
+			&lt;a rel="nofollow" href="iphone"&gt;Karnıyarık iPhone/iPod Touch uygulaması &lt;/a&gt; üzerinden ihtiyaç duyduğunuz anda bir ürünün nerelerde ve ne kadara satıldığını bulabilirsiniz. 
+			Aynı zamanda ikinci el araba sitelerinden istediğiniz özellikteki arabaları bulma imkanına da sahipsiniz. Arama sonuçları içersinden 
+			istediklerinizi favorilerinize ekleyebilirsiniz.  
+			
+			&lt;br/&gt;
+			&lt;br/&gt;
+			
+			&lt;img alt="Giriş Ekranı" src="iphone/img/splash.png" class="thumb"/&gt;
+			&lt;img alt="Ürün Arama Giriş Ekranı" src="iphone/img/urun_arama.png" class="thumb"/&gt;
+			
+			&lt;br/&gt;
+			&lt;br/&gt;
+			&lt;a rel="nofollow" href="iphone"&gt;Devamı...&lt;/a&gt;
+		</full>
+	</news>	
+	<news date="20 Nisan 2010">
+		<title>Karnıyarık Innovate100'de!</title>
+		<abstract>
+			Dünya çapında girişimciler ve yeni kurulmuş şirketler arasında yapılan
+			&lt;a rel="nofollow" href="http://www.innovate100.com/2010/04/istanbul-pitch-slam-recap/"&gt;Innovate100&lt;/a&gt; 
+			 yarışmasında yarı finaldeydik.
+		</abstract>
+		<full>
+		    Dünya çapında girişimciler ve yeni kurulmuş şirketler arasında yapılan
+			&lt;a rel="nofollow" href="http://www.innovate100.com/2010/04/istanbul-pitch-slam-recap/"&gt;Innovate100&lt;/a&gt; 
+			 yarışmasında yarı finaldeydik.&lt;br/&gt;
+			
+			Sunumdan Resimler: &lt;br/&gt;
+			&lt;a rel="nofollow" href="http://farm5.static.flickr.com/4016/4528028932_1c2723907a.jpg"&gt;
+			&lt;img style="float:left; height:150px" src="http://farm5.static.flickr.com/4016/4528028932_1c2723907a.jpg"/&gt;
+			&lt;/a&gt;
+			&lt;a rel="nofollow" href="http://farm5.static.flickr.com/4042/4528029144_b5a89d66d0.jpg"&gt;
+			&lt;img style="height:150px" src="http://farm5.static.flickr.com/4042/4528029144_b5a89d66d0.jpg"/&gt;
+			&lt;/a&gt;
+			&lt;br/&gt;
+			Sunumun Videosu: &lt;br/&gt;
+			&lt;object width="400" height="225"&gt;
+			&lt;param name="allowfullscreen" value="true" /&gt;
+			&lt;param name="allowscriptaccess" value="always" /&gt;
+			&lt;param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=11058689&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /&gt;
+			&lt;embed src="http://vimeo.com/moogaloop.swf?clip_id=11058689&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="225"&gt;
+			&lt;/embed&gt;
+			&lt;/object&gt;
+		</full>
+	</news>	
+	<news date="2 Nisan 2010">
+		<title>Karnıyarık API Açıldı!</title>
+		<abstract>
+			Programlayıcıların Karnıyarık verisi üzerinden veri çekmesine yarayacak açık &lt;a href="api.jsp"&gt;API&lt;/a&gt; açıldı. 
+		</abstract>
+		<full>
+			Karnıyarık API (Uygulama Programlama Arayüzü) sizlerin Karnıyarık'da bulunan bilgilerle yeni uygulamalar geliştirebilmesini sağlayan bir arayüzdür. Eğer bir bilgisayar programcısı iseniz ve Karnıyarık'ın şu anki web arayüzünden yapılan işlemleri ve içerisinde bulunan verileri kullanarak başka uygulamalar geliştirmek istiyorsanız kullanabileceğiniz bir programala arayüzünü sizlere sunuyoruz.
+			Daha fazla bilgiye &lt;a rel="nofollow" href="api.jsp"&gt;API sayfasından&lt;/a&gt; erişebilirisiniz.
+		</full>
+	</news>	
+</newslist>

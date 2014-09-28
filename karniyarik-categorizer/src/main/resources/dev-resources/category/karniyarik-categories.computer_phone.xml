@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rootType>
+    <category instanceCount="0" id="1">
+        <category instanceCount="0" realPath="" id="1.1" name="Bilgisayar">
+            <category instanceCount="0" realPath="" id="1.1.0" name="Diğer Bilgisayar Ürünleri"/>
+                        
+            <category instanceCount="0" realPath="" id="1.1.1" name="Yazılım Ürünleri"/>   
+            <category instanceCount="0" realPath="" id="1.1.2.6" name="CD ve DVD Saklama"/>
+            <category instanceCount="0" realPath="" id="1.1.2.7" name="Yazılabilir CD ve DVD"/>
+            <category instanceCount="0" realPath="" id="1.1.3.13" name="CD/DVD/Blu-Ray Yazıcılar"/>
+                        
+            <category instanceCount="0" realPath="" id="1.1.2.9" name="Kablolar"/>
+            
+            <category instanceCount="0" realPath="" id="1.1.2.4" name="Notebook Aksesuarları"/>
+            <category instanceCount="0" realPath="" id="1.1.2.10" name="Mp3 Player Aksesuarları"/>
+            
+            <category instanceCount="0" realPath="" id="1.1.2.12" name="Akım Koruyucular"/>
+            <category instanceCount="0" realPath="" id="1.1.2.13" name="Switch Box Ve Çoklayıcılar"/>
+            
+            <category instanceCount="0" realPath="" id="1.1.3.1" name="Barkod Ürünleri"/>
+            <category instanceCount="0" realPath="" id="1.1.3.2" name="El Terminalleri"/>
+                        
+			<category instanceCount="0" realPath="" id="1.1.3.9" name="Klavye ve Mouse"/>	
+            <category instanceCount="0" realPath="" id="1.1.3.11" name="Taşınabilir Diskler"/>
+            <category instanceCount="0" realPath="" id="1.1.3.12" name="Media Player"/>            
+            <category instanceCount="0" realPath="" id="1.1.3.14" name="İşlemciler"/>
+            <category instanceCount="0" realPath="" id="1.1.3.15" name="Anakartlar"/>
+            <category instanceCount="0" realPath="" id="1.1.3.8" name="Hard Diskler"/>
+            <category instanceCount="0" realPath="" id="1.1.3.4" name="Ekran Kartları"/>
+            <category instanceCount="0" realPath="" id="1.1.3.18.2" name="Ses Kartları"/>
+            <category instanceCount="0" realPath="" id="1.1.3.18.3" name="TV Kartları"/>
+            <category instanceCount="0" realPath="" id="1.1.3.20.3" name="Ethernet Kartlar"/>
+            <category instanceCount="0" realPath="" id="1.1.3.7" name="Soğutucular / Overclock"/>
+			<category instanceCount="0" realPath="" id="1.1.3.16" name="Hafıza Ürünleri, USB/Flash Bellekler"/>
+			<category instanceCount="0" realPath="" id="1.1.3.6" name="Powersupply"/>
+			<category instanceCount="0" realPath="" id="1.1.3.5" name="PC Kasaları"/>
+			
+			<category instanceCount="0" realPath="" id="1.1.3.23" name="Kesintisiz Güç Kaynakları, UPS"/>
+			
+            <category instanceCount="0" realPath="" id="1.1.3.17" name="Yazıcılar"/>
+            <category instanceCount="0" realPath="" id="1.1.2.5" name="Toner ve Mürekkep Kartuşları"/>            
+            <category instanceCount="0" realPath="" id="1.1.3.18.1" name="Kulaklık / Mikrofon"/>
+            <category instanceCount="0" realPath="" id="1.1.3.18.4" name="Kameralar"/>
+            <category instanceCount="0" realPath="" id="1.1.3.18.5" name="Speaker"/>
+            
+            
+            <category instanceCount="0" realPath="" id="1.1.3.20.1" name="Kablosuz Aksesuarları"/>
+            <category instanceCount="0" realPath="" id="1.1.3.20.2" name="Access Point / Router"/>
+            <category instanceCount="0" realPath="" id="1.1.3.19" name="Modemler"/>                    
+            <category instanceCount="0" realPath="" id="1.1.3.20.4" name="Switch"/>
+            <category instanceCount="0" realPath="" id="1.1.3.20.5" name="Wireless Adaptör"/>
+            <category instanceCount="0" realPath="" id="1.1.3.20.6" name="Bluetooth Ürünler"/>
+            <category instanceCount="0" realPath="" id="1.1.3.20.7" name="NAS Sürücüler"/>            
+            <category instanceCount="0" realPath="" id="1.1.3.21" name="Monitörler"/>
+            <category instanceCount="0" realPath="" id="1.1.3.22" name="Mp3 Player"/>                
+            
+            <category instanceCount="0" realPath="" id="1.1.3.24" name="USB / Firewire Ürünleri"/>
+            <category instanceCount="0" realPath="" id="1.1.3.25" name="Tarayıcılar"/>
+            <category instanceCount="0" realPath="" id="1.1.3.26" name="SSD"/>
+            <category instanceCount="0" realPath="" id="1.1.3.27" name="Ses Kayıt Cihazları"/>                
+            <category instanceCount="0" realPath="" id="1.1.3.28" name="Joystick / Gamepad"/>            
+            <category instanceCount="0" realPath="" id="1.1.3.30" name="Grafik Tabletler"/>            
+            <category instanceCount="0" realPath="" id="1.1.4.1" name="Dizüstü Bilgisayarlar"/>
+            <category instanceCount="0" realPath="" id="1.1.4.2" name="Masaüstü Bilgisayar"/>
+            <category instanceCount="0" realPath="" id="1.1.4.3" name="Netbooklar (Mini Notebook)"/>
+            <category instanceCount="0" realPath="" id="1.1.4.4" name="Sunucular"/>
+        </category>
+        <category instanceCount="0" realPath="" id="1.4" name="Telefon">
+            <category instanceCount="0" realPath="" id="1.4.1" name="Telsiz / Masaüstü Telefonlar"/>
+            <category instanceCount="0" realPath="" id="1.1.3.29" name="Internet Telefonları"/>
+            <category instanceCount="0" realPath="" id="1.4.2.2" name="Cep Telefonları"/>
+            <category instanceCount="0" realPath="" id="1.4.2.3" name="Şarj Cihazları"/>
+            <category instanceCount="0" realPath="" id="1.4.2.4" name="Cep Telefonu Kılıfları"/>
+            <category instanceCount="0" realPath="" id="1.4.2.5" name="Araç Aksesuarları"/>
+            <category instanceCount="0" realPath="" id="1.4.2.6" name="Kulaklık Setleri"/>
+            <category instanceCount="0" realPath="" id="1.4.2.9" name="Piller"/>
+            <category instanceCount="0" realPath="" id="1.4.2.15" name="Cep Telefonu Aksesuarları"/>                
+            <category instanceCount="0" realPath="" id="1.4.3.1" name="Telefon Santralleri"/>
+            <category instanceCount="0" realPath="" id="1.4.3.2" name="Santral Aksesuarları"/>
+            <category instanceCount="0" realPath="" id="1.4.4.1" name="Navigasyon"/>
+            <category instanceCount="0" realPath="" id="1.4.4.2" name="Kontörler"/>
+            <category instanceCount="0" realPath="" id="1.4.4.3" name="FCT Sistemleri"/>
+            <category instanceCount="0" realPath="" id="1.4.4.4" name="Araç Takip Sistemleri"/>
+        </category>
+        <category instanceCount="0" realPath="" id="1.2" name="Ev Tekstil">
+            <category instanceCount="0" realPath="" id="1.2.2" name="Yastıklar"/>
+            <category instanceCount="0" realPath="" id="1.2.3" name="Yorganlar"/>
+            <category instanceCount="0" realPath="" id="1.2.4" name="Nevresim Takımları ve Çarşaflar"/>
+            <category instanceCount="0" realPath="" id="1.2.5" name="Yer Paspasları"/>
+            <category instanceCount="0" realPath="" id="1.2.6" name="Yataklar"/>
+            <category instanceCount="0" realPath="" id="1.2.7" name="Yatak Örtüleri"/>
+            <category instanceCount="0" realPath="" id="1.2.8" name="Uyku Setleri"/>
+            <category instanceCount="0" realPath="" id="1.2.9" name="Temizlik Bezleri ve Aparatları"/>
+            <category instanceCount="0" realPath="" id="1.2.10" name="Saklama Ürünleri"/>
+            <category instanceCount="0" realPath="" id="1.2.11" name="Pikeler"/>
+            <category instanceCount="0" realPath="" id="1.2.12" name="Perdeler"/>
+            <category instanceCount="0" realPath="" id="1.2.13" name="Örtüler"/>            
+            <category instanceCount="0" realPath="" id="1.2.14" name="Kilimler"/>
+            <category instanceCount="0" realPath="" id="1.2.15" name="Havlular"/>
+            <category instanceCount="0" realPath="" id="1.2.16" name="Halılar"/>            
+            <category instanceCount="0" realPath="" id="1.2.17" name="Duvar-Ahşap-Cam Sticker"/>            
+            <category instanceCount="0" realPath="" id="1.2.18" name="Battaniyeler"/>
+            <category instanceCount="0" realPath="" id="1.2.19" name="Banyo Takımları"/>
+            <category instanceCount="0" realPath="" id="1.2.20" name="Alezler"/>
+        </category>        
+    </category>
+</rootType>

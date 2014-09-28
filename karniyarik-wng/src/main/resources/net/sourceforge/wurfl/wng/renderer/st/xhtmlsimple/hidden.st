@@ -1,0 +1,1 @@
+<input $hiddenAttr(input=component)$/>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oteller xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.karniyarik.com/datafeed/xsd/otel.xsd">
+  <otel>
+    <id>20144883</id>
+    <isim>Vicenza Hotel</isim>
+	<fiyat>55</fiyat>
+	<birim>EUR</birim>
+	<kategori></kategori>
+	<url>http://www.booking.com/hotel/tr/vicenza.html</url>
+	<resim>http://aff.bstatic.com/images/hotel/org/132/1323537.jpg</resim>
+	<adres>Fevziye Caddesi. No:3</adres>
+	<posta_kodu>34470</posta_kodu>
+	<sehir>İstanbul</sehir>
+	<ulke>tr</ulke>
+	<yildiz>4</yildiz>
+	<lat>28.9571499824524</lat>
+	<lon>41.012304800909</lon>
+	<rating>3.8</rating>
+	<aciklama>Just a short walk from Istanbul's historic sites, Vicenza Hotel offers quality accommodation with free wireless internet and superb sunset views from its rooftop pool area.</aciklama>
+	<ozellikler>
+		<ozellik>Market</ozellik>
+		<ozellik>Türk Hamamı</ozellik>
+		<ozellik>Çocuk Havuzu</ozellik>
+	</ozellikler>
+  </otel>
+</oteller>

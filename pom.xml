@@ -1,0 +1,35 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>karniyarik</groupId>
+  <artifactId>karniyarik</artifactId>
+  <version>0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>Karniyarik</name>
+  <description>Karniyarik</description>
+
+  <modules>
+	  <!-- module>karniyarik-scheduler</module>
+	  <module>karniyarik-admin</module -->
+	  <module>karniyarik-common</module>
+	  <module>karniyarik-brands</module>
+	  <module>karniyarik-crawler</module>
+	  <module>karniyarik-pagerank</module>
+	  <module>karniyarik-ir-commons</module>
+	  <module>karniyarik-categorizer</module>
+	  <module>karniyarik-model-recognizer</module>
+	  <module>karniyarik-search</module>
+	  <module>karniyarik-site</module>
+	  <module>statistics-server</module>
+	  <module>karniyarik-recognizer</module>
+	  <module>karniyarik-datafeed</module>
+	  <module>karniyarik-datafeed-ws</module>
+	  <module>karniyarik-wng</module>
+	  <module>karniyarik-web</module>
+	  <module>karniyarik-web-util</module>
+	  <module>karniyarik-citydeal</module>
+	  <module>karniyarik-jobscheduler</module>
+	  <module>karniyarik-jobexecutor</module>
+	  <module>karniyarik-dev</module>
+  </modules>
+</project>
+

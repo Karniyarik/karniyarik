@@ -1,0 +1,33 @@
+<Context path="/karniyarik-jobexecutor" docBase="karniyarik-jobexecutor" debug="0"
+	reloadable="false" crossContext="false" cacheMaxSize="30720" cacheTTL="30000" 
+	cachingAllowed="true">
+
+	<Resource auth="Container"
+		type="javax.sql.DataSource" 
+		maxActive="5"
+		maxIdle="2"
+		initialSize="5"
+		maxWait="-1"
+		removeAbandonedTimeout="300"
+		validationQuery="SELECT 1"
+		testOnBorrow="true"
+		testWhileIdle="true"
+		removeAbandoned="true"
+		username="${dbuser}"
+		password="${dbpass}"
+		driverClassName="${dbdriver}" 
+		url="${dburl}"
+		name="${datasource}" />
+		
+</Context>
+
+<!-- 
+timeBetweenEvictionRunsMillis="1000"
+minEvictableIdleTimeMillis="60000"
+
+Example MySQL config file /etc/my.cfg with TOO low timeout:
+[mysqld]
+...
+wait_timeout=15
+...
+-->

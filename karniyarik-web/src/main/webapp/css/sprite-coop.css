@@ -1,0 +1,28 @@
+/** sprite: sprite-c; sprite-image: url('../images/sprite-c.png'); sprite-layout: vertical;	sprite-image-uid: none;	sprite-margin-bottom: 2px;*/
+.logo-etohum-15 {
+	background-repeat: no-repeat;
+	width: 160px;
+	height: 105px;
+	background-image: url(../images/tosprite/coop/etohum15.png);/** sprite-ref: sprite-c;*/
+}
+
+.logo-etohum {
+	background-repeat: no-repeat;
+	width: 88px;
+	height: 31px;
+	background-image: url(../images/tosprite/coop/etohum.png);/** sprite-ref: sprite-c;*/
+}
+
+.logo-eksi {
+	background-repeat: no-repeat;
+	width: 88px;
+	height: 31px;	
+	background-image: url(../images/tosprite/coop/eksiduyuru.gif);/** sprite-ref: sprite-c;*/
+}
+
+.logo-mydlp {
+	background-repeat: no-repeat;
+	width: 88px;
+	height: 31px;
+	background-image: url(../images/tosprite/coop/mydlp.png);/** sprite-ref: sprite-c;*/
+}

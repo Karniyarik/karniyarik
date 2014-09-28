@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- MAIN SPRING APPLICATION CONTEXT -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+	<!--context:component-scan base-package="org.example"/-->
+	<!--context:component-scan base-package="org.example" name-generator="org.example.MyNameGenerator" /-->
+</beans>

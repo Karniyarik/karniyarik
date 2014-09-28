@@ -1,0 +1,11 @@
+.rackl,.cbtn, #cbtn {padding:5px;border: 1px solid #B2B2B2;background-color:white;
+	-moz-border-radius:5px;-webkit-border-radius: 5px;border-radius: 5px;}
+	
+.nav {padding:10px;}
+input,select {font-size:medium;}
+#hm input {padding:5px;}
+input[type="submit"] {margin:6px;border: 1px solid #B2B2B2;background-color: white;-moz-border-radius:5px;-webkit-border-radius: 5px;border-radius: 5px;}
+.appr  {background-color:#DDDDDD;border: 1px solid #B2B2B2;padding:4px;margin:auto;border-radius: 5px;-moz-border-radius:5px;-webkit-border-radius: 5px;}
+#fc {padding:10px;border:1px solid #5D9300;background-color:#DDD;margin-top:4px;}
+.prb {border-bottom:1px dotted #5D9300;width: 100%;}
+#fp #fbd {margin:20px 0 0 5px;};

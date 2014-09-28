@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE urlrewrite PUBLIC "-//tuckey.org//DTD UrlRewrite 3.2//EN"
+        "http://tuckey.org/res/dtds/urlrewrite3.2.dtd">
+
+<!--
+
+    Configuration file for UrlRewriteFilter
+    http://tuckey.org/urlrewrite/
+
+-->
+<urlrewrite decode-using="null">
+	
+	<!-- general site rules -->
+	<rule>
+        <from>^/site/([^/]+)$</from>
+        <to last="true">/site.jsp?s=$1</to>
+    </rule>
+
+	<rule>
+        <from>^/img/(.+)$</from>
+        <to last="true">/system/img</to>
+    </rule>
+
+	<rule>
+        <from>^/imgrsz/(.+)$</from>
+        <to last="true">/system/imgrsz</to>
+    </rule>
+
+	<rule>
+        <from>^/tarif/$</from>
+        <to type="permanent-redirect" last="true">/karniyarik-tarifi/</to>
+    </rule>
+
+	<rule>
+        <from>^/tarif$</from>
+        <to type="permanent-redirect" last="true">/karniyarik-tarifi/</to>
+    </rule>
+
+	<!-- city deal rules -->
+	<rule>
+        <from>^/sehirfirsatlari/$</from>
+        <to type="permanent-redirect" last="true">/sehir-firsati</to>
+    </rule>
+
+	<rule>
+        <from>^/sehirfirsatlari$</from>
+        <to type="permanent-redirect" last="true">/sehir-firsati</to>
+    </rule>
+    
+	<rule>
+        <from>^/sehirfirsatlari/(.*)$</from>
+        <to type="permanent-redirect" last="true">/sehir-firsati/$1</to>
+    </rule>
+
+	<rule>
+        <from>^/sehir-firsati/rss/([^/]+)\.rss$</from>
+        <to last="true">/sehir-firsati/rss?city=$1</to>
+    </rule>
+
+	<!-- rule>
+        <from>^/sehir-firsati/((?:(?!(rss|slider)).)+)-firsatlari$</from>
+        <to last="true">/sehir-firsati/?city=$1</to>
+    </rule-->
+
+	<rule>
+        <from>^/sehir-firsati/(.+)-firsatlari/p(.+)$</from>
+        <to last="true">/sehir-firsati/?city=$1&amp;p=$2</to>
+    </rule>
+
+	<rule>
+        <from>^/sehir-firsati/(.+)-firsatlari$</from>
+        <to last="true">/sehir-firsati/?city=$1</to>
+    </rule>
+
+	<rule>
+        <from>^/sehir-firsati/(.+)-firsatlari/(.+)$</from>
+        <to last="true">/sehir-firsati/?city=$1&amp;source=$2</to>
+    </rule>
+
+	<rule>
+        <from>^/sehir-firsati/((?:(?!(rss|slider)).)+)$</from>
+        <to type="permanent-redirect" last="true">/sehir-firsati/$1-firsatlari</to>
+    </rule>
+	
+	<!-- searches  -->
+	
+	<!-- url correction - for ürün to urun -->
+    <rule>
+        <from>^/ürün/ne-kadar/([^/]+)$</from>
+        <to type="permanent-redirect"  last="true">/urun/${replace:$1:[\\+\\s]:-}-fiyatlari</to>
+    </rule>
+
+    <rule>
+        <from>^/ürün/ne-kadar/([^/]+)/([^/]+)$</from>
+        <to type="permanent-redirect"  last="true">/urun/${replace:$1:[\\+\\s]:-}-fiyatlari/$2</to>
+    </rule>
+
+    <rule>
+        <from>^/ürün/ne-kadar/([^/]+)/([^/]+)/([^/]+)$</from>
+        <to type="permanent-redirect" last="true">/urun/${replace:$1:[\\+\\s]:-}-fiyatlari/$2/$3</to>
+    </rule>
+
+    <rule>
+        <from>^/%C3%BCr%C3%BCn/ne-kadar/([^/]+)$</from>
+        <to type="permanent-redirect"  last="true">/urun/${replace:$1:[\\+\\s]:-}-fiyatlari</to>
+    </rule>
+
+    <rule>
+        <from>^/%C3%BCr%C3%BCn/ne-kadar/([^/]+)/([^/]+)$</from>
+        <to type="permanent-redirect"  last="true">/urun/${replace:$1:[\\+\\s]:-}-fiyatlari/$2</to>
+    </rule>
+
+    <rule>
+        <from>^/%C3%BCr%C3%BCn/ne-kadar/([^/]+)/([^/]+)/([^/]+)$</from>
+        <to type="permanent-redirect" last="true">/urun/${replace:$1:[\\+\\s]:-}-fiyatlari/$2/$3</to>
+    </rule>    
+    	
+    <!-- permanent redirect default search  -->
+	<rule>
+        <from>^/ne-kadar/([^/]+)$</from>
+        <to type="permanent-redirect" last="true">/urun/${replace:$1:[\\+\\s]:-}-fiyatlari</to>
+    </rule>
+
+	<rule>
+        <from>^/ne-kadar/([^/]+)/p([0-9]+)$</from>
+        <to type="permanent-redirect" last="true">/urun/${replace:$1:[\\+\\s]:-}-fiyatlari/p$2</to>
+    </rule>
+
+	<rule>
+        <from>^/ne-kadar/([^/]+)/([^/]+)$</from>
+        <to type="permanent-redirect" last="true">/urun/${replace:$1:[\\+\\s]:-}-fiyatlari/$2</to>
+    </rule>
+
+	<rule>
+        <from>^/ne-kadar/([^/]+)/([^/]+)/p([0-9]+)$</from>
+        <to type="permanent-redirect" last="true">/urun/${replace:$1:[\\+\\s]:-}-fiyatlari/$2/p$3</to>
+    </rule>
+
+	<rule>
+        <from>^/otel/ne-kadar/([^/]+)/([^/]+)$</from>
+        <to type="permanent-redirect" last="true">/otel/${replace:$1:[\\+\\s]:-}-fiyatlari/$2</to>
+    </rule>
+
+	<rule>
+        <from>^/otel/ne-kadar/([^/]+)/([^/]+)/p([0-9]+)$</from>
+        <to type="permanent-redirect" last="true">/otel/${replace:$1:[\\+\\s]:-}-fiyatlari/$2/p$3</to>
+    </rule>
+    
+	<!-- Permenant Redirect old main rules to new mail rules-->
+    <rule>
+        <from>^/([^/]+)/ne-kadar/([^/]+)$</from>
+        <to type="permanent-redirect" last="true">/$1/${replace:$2:[\\+\\s]:-}-fiyatlari</to>
+    </rule>
+
+    <rule>
+        <from>^/([^/]+)/ne-kadar/([^/]+)/([^/]+)$</from>
+        <to type="permanent-redirect" last="true">/$1/${replace:$2:[\\+\\s]:-}-fiyatlari/$3</to>
+    </rule>
+
+    <rule>
+        <from>^/([^/]+)/ne-kadar/([^/]+)/([^/]+)$</from>
+        <to type="permanent-redirect" last="true">/$1/${replace:$2:[\\+\\s]:-}-fiyatlari/$3</to>
+    </rule>
+
+    <rule>
+        <from>^/([^/]+)/ne-kadar/([^/]+)/([^/]+)/([^/]+)$</from>
+        <to type="permanent-redirect" last="true">/$1/${replace:$2:[\\+\\s]:-}-fiyatlari/$3/$4</to>
+    </rule>
+    
+    <!--  MAIN SEARCH RULES -->
+    
+    <!-- main rules -->
+    
+	<rule>
+        <from>^/otel/([^/]+)-fiyatlari/([^/]+)$</from>
+        <to last="true">/otel/search.jsp?query=$1&amp;city=$2</to>
+    </rule>
+
+	<rule>
+        <from>^/otel/([^/]+)-fiyatlari/([^/]+)/p([0-9]+)$</from>
+        <to last="true">/otel/search.jsp?query=$1&amp;city=$2&amp;page=$3</to>
+    </rule>
+    
+    <rule>
+        <from>^/([^/]+)/([^/]+)-fiyatlari$</from>
+        <to last="true">/$1/search.jsp?query=$2</to>
+    </rule>
+
+    <rule>
+        <from>^/([^/]+)/([^/]+)-fiyatlari/p([0-9]+)$</from>
+        <to last="true">/$1/search.jsp?query=$2&amp;page=$3</to>
+    </rule>
+
+    <rule>
+        <from>^/([^/]+)/([^/]+)-fiyatlari/([^/]+)$</from>
+        <to last="true">/$1/search.jsp?query=$2&amp;brand=$3</to>
+    </rule>
+
+    <rule>
+        <from>^/([^/]+)/([^/]+)-fiyatlari/([^/]+)/p([0-9]+)$</from>
+        <to last="true">/$1/search.jsp?query=$2&amp;brand=$3&amp;page=$4</to>
+    </rule>
+	<!--  save siyamed foolishness -->
+    <rule>
+        <from>^/([^/]+)/([^/]+)-fiyati$</from>
+        <to last="true">/$1/search.jsp?query=$2</to>
+    </rule>
+
+    <rule>
+        <from>^/([^/]+)/([^/]+)-fiyati/p([0-9]+)$</from>
+        <to last="true">/$1/search.jsp?query=$2&amp;page=$3</to>
+    </rule>
+
+    <rule>
+        <from>^/([^/]+)/([^/]+)-fiyati/([^/]+)$</from>
+        <to last="true">/$1/search.jsp?query=$2&amp;brand=$3</to>
+    </rule>
+
+    <rule>
+        <from>^/([^/]+)/([^/]+)-fiyati/([^/]+)/p([0-9]+)$</from>
+        <to last="true">/$1/search.jsp?query=$2&amp;brand=$3&amp;page=$4</to>
+    </rule>
+    
+    <!-- mobile -->
+    <rule>
+        <from>^/m/([^/]+)/([^/]+)-fiyatlari$</from>
+        <to last="true">/m/$1/search.jsp?query=$2</to>
+    </rule>
+
+    <rule>
+        <from>^/m/([^/]+)/([^/]+)-fiyatlari/p([0-9]+)$</from>
+        <to last="true">/m/$1/search.jsp?query=$2&amp;page=$3</to>
+    </rule>
+
+    <rule>
+        <from>^/m/([^/]+)/([^/]+)-fiyatlari/([^/]+)$</from>
+        <to last="true">/m/$1/search.jsp?query=$2&amp;brand=$3</to>
+    </rule>
+
+    <rule>
+        <from>^/m/([^/]+)/([^/]+)-fiyatlari/([^/]+)/p([0-9]+)$</from>
+        <to last="true">/m/$1/search.jsp?query=$2&amp;brand=$3&amp;page=$4</to>
+    </rule>
+    
+</urlrewrite>

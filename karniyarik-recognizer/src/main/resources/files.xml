@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files xmlns="http://www.karniyarik.com/schema">
+	<file>color.xml</file>
+	<file>gear.xml</file>
+	<file>fueltype.xml</file>
+	<file>car.xml</file>
+</files>

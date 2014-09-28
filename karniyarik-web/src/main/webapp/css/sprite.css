@@ -1,0 +1,422 @@
+/** sprite: sprite; sprite-image: url('../images/sprite.png'); sprite-layout: vertical;	sprite-image-uid: none;	sprite-margin-bottom: 2px;*/
+.go-city-site-btn {
+	background-repeat: no-repeat;
+	width: 180px;
+	height: 40px;
+	background-image: url(../images/tosprite/sehir-firsati/gosite4.png); /** sprite-ref: sprite;*/	
+}
+
+.go-store-btn {
+	background-repeat: no-repeat;
+	width: 119px;
+	height: 23px;
+	background-image: url(../images/tosprite/gostore.png); /** sprite-ref: sprite;*/
+}
+
+.go-site-btn {
+	background-repeat: no-repeat;
+	width: 119px;
+	height: 23px;
+	background-image: url(../images/tosprite/gosite.png);/** sprite-ref: sprite;*/
+}
+
+.share-btn-2 {
+	background-image: url(../images/tosprite/sehir-firsati/share6.png); /** sprite-ref: sprite;*/
+	background-repeat: no-repeat;
+	width: 113px;
+	height: 40px;
+}
+
+.featured-btn {
+	background-image: url(../images/tosprite/featured7.png); /** sprite-ref: sprite;*/
+	background-repeat: no-repeat;
+	width: 100px;
+	height: 17px;
+}
+
+.share-btn {
+	background-image: url(../images/tosprite/share.png); /** sprite-ref: sprite;*/
+	background-repeat: no-repeat;
+	width: 88px;
+	height: 17px;
+}
+
+.samename-btn {
+	background-image: url(../images/tosprite/samename.png); /** sprite-ref: sprite;*/
+	background-repeat: no-repeat;
+	width: 88px;
+	height: 17px;
+}
+
+.logo-sq {
+	background-image: url(../images/logo/karniyarik86x86.png); /** sprite-ref: sprite;*/
+	background-repeat: no-repeat;
+	height: 86px;
+	width: 86px;
+}
+
+.filter-ap-b {
+	background-image: url(../images/tosprite/filtrele.png); /** sprite-ref: sprite;*/
+	background-repeat: no-repeat;
+	width:71px;
+	height:20px;
+}
+
+.filter-cl-b {
+	background-image: url(../images/tosprite/clear.png); /** sprite-ref: sprite;*/
+	background-repeat: no-repeat;
+	width:71px;
+	height:20px;
+}
+
+
+.stars-b-0 {
+		background-repeat: no-repeat;
+		width: 81px;
+		height: 15px;
+		background-image: url(../images/tosprite/stars/stars0.png); /** sprite-ref: sprite;*/
+}
+		 
+.stars-b-1 {
+		background-repeat: no-repeat;
+		width: 81px;
+		height: 15px;
+		background-image: url(../images/tosprite/stars/stars1.png); /** sprite-ref: sprite;*/
+}
+
+.stars-b-2 {
+	background-repeat: no-repeat;
+	width: 81px;
+	height: 15px;
+	background-image: url(../images/tosprite/stars/stars2.png); /** sprite-ref: sprite;*/
+}
+
+.stars-b-3 {
+	background-repeat: no-repeat;
+	width: 81px;
+	height: 15px;
+	background-image: url(../images/tosprite/stars/stars3.png); /** sprite-ref: sprite;*/
+}
+
+.stars-b-4 {
+	background-repeat: no-repeat;
+	width: 81px;
+	height: 15px;
+	background-image: url(../images/tosprite/stars/stars4.png);/** sprite-ref: sprite;*/
+}
+
+.stars-b-5 {
+	background-repeat: no-repeat;
+	width: 81px;
+	height: 15px;
+	background-image: url(../images/tosprite/stars/stars5.png);  /** sprite-ref: sprite;*/
+}
+.stars-b-6 {
+	background-repeat: no-repeat;
+	width: 81px;
+	height: 15px;
+	background-image: url(../images/tosprite/stars/stars6.png); /** sprite-ref: sprite;*/	
+}
+
+.stars-b-7 {
+	background-repeat: no-repeat;
+	width: 81px;
+	height: 15px;
+	background-image: url(../images/tosprite/stars/stars7.png); /** sprite-ref: sprite;*/
+}
+
+.stars-b-8 {
+	background-repeat: no-repeat;
+	width: 81px;
+	height: 15px;
+	background-image: url(../images/tosprite/stars/stars8.png); /** sprite-ref: sprite;*/
+}
+
+.stars-b-9 {
+	background-repeat: no-repeat;
+	width: 81px;
+	height: 15px;
+	background-image: url(../images/tosprite/stars/stars9.png); /** sprite-ref: sprite;*/
+}
+
+.stars-b-10 {	
+	background-repeat: no-repeat;
+	width: 81px;
+	height: 15px;
+	background-image: url(../images/tosprite/stars/stars10.png); /** sprite-ref: sprite;*/
+}
+
+.ribbon-featured {
+	background-repeat: no-repeat;
+	width: 60px;
+	height: 100px;
+	background-image: url(../images/tosprite/ribbon-featured.png); /** sprite-ref: sprite;*/
+}
+
+.ribbon-sponsored {
+	background-repeat: no-repeat;
+	width: 60px;
+	height: 100px;
+	background-image: url(../images/tosprite/ribbon-sponsored.png); /** sprite-ref: sprite;*/
+}
+
+.stars-s-0 {
+	background-repeat: no-repeat;
+	width: 49px;
+	height: 11px;
+	background-image: url(../images/tosprite/dots/dots0.png); /** sprite-ref: sprite;*/
+}
+
+.stars-s-1 {
+	background-repeat: no-repeat;
+	width: 49px;
+	height: 11px;
+	background-image: url(../images/tosprite/dots/dots1.png); /** sprite-ref: sprite;*/
+}
+
+.stars-s-2 {	
+	background-repeat: no-repeat;
+	width: 49px;
+	height: 11px;
+	background-image: url(../images/tosprite/dots/dots2.png); /** sprite-ref: sprite;*/
+}
+
+.stars-s-3 {	
+	background-repeat: no-repeat;
+	width: 49px;
+	height: 11px;
+	background-image: url(../images/tosprite/dots/dots3.png); /** sprite-ref: sprite;*/
+}
+
+.stars-s-4 {	
+	background-repeat: no-repeat;
+	width: 49px;
+	height: 11px;
+	background-image: url(../images/tosprite/dots/dots4.png); /** sprite-ref: sprite;*/
+}
+
+.stars-s-5 {	
+	background-repeat: no-repeat;
+	width: 49px;
+	height: 11px;
+	background-image: url(../images/tosprite/dots/dots5.png); /** sprite-ref: sprite;*/
+}
+
+.stars-s-6 {	
+	background-repeat: no-repeat;
+	width: 49px;
+	height: 11px;
+	background-image: url(../images/tosprite/dots/dots6.png); /** sprite-ref: sprite;*/
+}
+
+.stars-s-7 {	
+	background-repeat: no-repeat;
+	width: 49px;
+	height: 11px;
+	background-image: url(../images/tosprite/dots/dots7.png);/** sprite-ref: sprite;*/
+}
+
+.stars-s-8 {	
+	background-repeat: no-repeat;
+	width: 49px;
+	height: 11px;
+	background-image: url(../images/tosprite/dots/dots8.png);/** sprite-ref: sprite;*/
+}
+
+.stars-s-9 {	
+	background-repeat: no-repeat;
+	width: 49px;
+	height: 11px;
+	background-image: url(../images/tosprite/dots/dots9.png);/** sprite-ref: sprite;*/
+}
+
+.stars-s-10 {	
+	background-repeat: no-repeat;
+	width: 49px;
+	height: 11px;
+	background-image: url(../images/tosprite/dots/dots10.png);/** sprite-ref: sprite;*/
+}
+
+.slider-btn #prevBtn a {
+	display:block;
+	width:40px;
+	height:20px;
+	background-repeat: no-repeat;
+	background-image:url(../images/tosprite/slider/btn_up40x20.png);/** sprite-ref: sprite;*/
+}
+	
+.slider-btn #nextBtn a {
+	display:block;
+	width:40px;
+	height:20px;
+	background-repeat: no-repeat;
+	background-image:url(../images/tosprite/slider/btn_down40x20.png);/** sprite-ref: sprite;*/
+}
+
+.socials-fb-32 {
+	background-repeat: no-repeat;
+	width: 30px;
+	height: 30px;
+	background-image: url(../images/tosprite/socials/facebook.png);/** sprite-ref: sprite;*/
+}
+.socials-t-32 {
+	background-repeat: no-repeat;
+	width: 30px;
+	height: 30px;
+	background-image: url(../images/tosprite/socials/twitter.png);/** sprite-ref: sprite;*/
+}
+.socials-ff-32 {
+	background-repeat: no-repeat;
+	width: 30px;
+	height: 30px;	
+	background-image: url(../images/tosprite/socials/friendfeed.png);/** sprite-ref: sprite;*/
+}
+
+.socials-li-32 {
+	background-repeat: no-repeat;
+	width: 30px;
+	height: 30px;	
+	background-image: url(../images/tosprite/socials/linkedin.png);/** sprite-ref: sprite;*/
+}
+
+.socials-su-32 {
+	background-repeat: no-repeat;
+	width: 30px;
+	height: 30px;	
+	background-image: url(../images/tosprite/socials/stumbleupon.png);/** sprite-ref: sprite;*/
+}
+
+.socials-dg-32 {
+	background-repeat: no-repeat;
+	width: 30px;
+	height: 30px;
+	background-image: url(../images/tosprite/socials/digg.png);/** sprite-ref: sprite;*/
+}
+
+.pdf-btn {
+	background-repeat: no-repeat;
+	width: 32px;
+	height: 32px;
+	background-image: url(../images/tosprite/pdf_file.png);/** sprite-ref: sprite;*/
+}
+
+.p-tab {
+	width: 30px; 
+	height: 28px;
+  	background-repeat: no-repeat;
+  	background-image: url(../images/tosprite/bas.png); /** sprite-ref: sprite; */
+}
+
+.p-tab-2 {
+	width: 25px; 
+	height: 23px;
+  	background-repeat: no-repeat;
+  	background-image: url(../images/tosprite/bas2.png); /** sprite-ref: sprite;*/
+}
+
+.c-tab {
+	width: 30px; height: 28px;
+  	background-repeat: no-repeat;
+  	background-image: url(../images/tosprite/car.png); /** sprite-ref: sprite;*/
+}
+
+.c-tab-2 {
+	width: 25px; height: 23px;
+  	background-repeat: no-repeat;
+  	background-image: url(../images/tosprite/car2.png); /** sprite-ref: sprite;*/
+}
+
+.e-tab {
+	width: 30px; height: 28px;
+  	background-repeat: no-repeat;
+  	background-image: url(../images/tosprite/estate.png); /** sprite-ref: sprite;*/
+}
+
+.e-tab-2 {
+	width: 25px; height: 23px;
+  	background-repeat: no-repeat;
+  	background-image: url(../images/tosprite/estate2.png); /** sprite-ref: sprite;*/
+}
+
+.sort-ud-0 {
+	background-repeat: no-repeat;
+	height: 13px;
+	width: 19px;
+	background-image: url(../images/tosprite/ud0.png); /** sprite-ref: sprite;*/
+}
+
+.sort-ud-1 {	
+	background-repeat: no-repeat;
+	width: 19px;
+	height: 13px;
+	background-image: url(../images/tosprite/ud1.png); /** sprite-ref: sprite;*/
+}
+
+.sort-ud-2 {	
+	background-repeat: no-repeat;
+	width: 19px;
+	height: 13px;
+	background-image: url(../images/tosprite/ud2.png); /** sprite-ref: sprite;*/
+}
+
+
+.filterDivButton {
+	background-repeat: no-repeat;
+	height: 16px;
+	width: 16px;
+	float:right;
+	background-position: center;
+	background-image: url("../images/tosprite/up.png");/** sprite-ref: sprite;*/
+}
+
+.filterDivButton.down{
+	background-repeat: no-repeat;
+	height: 16px;
+	width: 16px;
+	background-position: center;
+	background-image: url("../images/tosprite/down.png");/** sprite-ref: sprite;*/
+}
+
+.filter-cl {
+	background-image: url(../images/tosprite/remove.png); /** sprite-ref: sprite;*/
+	background-repeat: no-repeat;
+	width:16px;
+	height: 16px;
+}
+
+.filter-ap {
+	background-image: url(../images/tosprite/apply.png); /** sprite-ref: sprite;*/
+	background-repeat: no-repeat;
+	width:16px;
+	height: 16px;
+}
+
+.info-btn {
+	background-image: url(../images/tosprite/info2.png); /** sprite-ref: sprite;*/
+	background-repeat: no-repeat;
+	width:16px;
+	height: 16px;
+}
+
+.more-btn {
+	background-repeat: no-repeat;
+	height: 14px;
+	width: 13px;
+	background-position: center;
+	background-image: url("../images/tosprite/more.png"); /** sprite-ref: sprite;*/
+}
+
+
+.ce .l .lhead .sh {
+	background-repeat: no-repeat;
+	height: 13px;
+	width: 13px;
+	background-image: url(../images/tosprite/plus.png); /** sprite-ref: sprite;*/
+}
+
+.ce .l .lhead .sh.act {
+	background-repeat: no-repeat;	
+	height: 13px;
+	width: 13px;
+	background-image: url(../images/tosprite/minus.png); /** sprite-ref: sprite;*/
+}

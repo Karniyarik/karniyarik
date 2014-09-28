@@ -1,0 +1,1727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category name="Root" id="0">
+	<category name="Hayvanlar" id="1" />
+	<category name="Sanat ve Eğlence" id="2">
+		<category name="Sanat" id="2.1">
+			<category name="Çizim" id="2.1.1" />
+			<category name="Figür, Heykel" id="2.1.2" />
+			<category name="Resim" id="2.1.3" />
+			<category name="Fotoğraf" id="2.1.4" />
+			<category name="Poster, Baskı" id="2.1.5" />
+		</category>
+		<category name="Koleksiyon" id="2.2">
+			<category name="Madeni Para" id="2.2.1" />
+			<category name="Koleksiyon Silahları" id="2.2.1"
+				keywords="Kılıç, Silah, Tüfek" />
+			<category name="Pul" id="2.2.1" />
+		</category>
+		<category name="Hobi" id="2.3" />
+		<category name="Muzik Enstrümanı" id="2.4" />
+		<category name="Parti" id="2.5" keywords="Yaş Günü">
+			<category name="Balon" id="2.5.1" />
+			<category name="Konfeti" id="2.5.2" />
+			<category name="Başlık" id="2.5.3" />
+			<category name="Zarf" id="2.5.4" />
+			<category name="Davetiye" id="2.5.5" />
+			<category name="Noisemakers" id="2.5.6" />
+		</category>
+	</category>
+	<category name="Bebek Çocuk" id="3">
+		<category name="Bebek Güvenliği" id="3.1" />
+		<category name="Bebek Oyuncakları" id="3.2" keywords="Oyuncak" />
+		<category name="Taşıma" id="3.3"
+			keywords="Ana Kucağı, Oto Koltuğu, Bebek Arabaları ve Pusetler, İkiz Bebek Arabaları, Seyahat, Kangurular" />
+		<category name="Bebek Bezi" id="3.4" />
+		<category name="Sağlık ve Beslenme" id="3.5">
+			<category name="Bebek Mamaları" id="3.5.1" />
+			<category name="Beslenme Gereçleri" id="3.5.2"
+				keywords="Bardaklar,Biberon Emzikleri ve Yalancı Emzikler,Biberonlar,Pişirici ve Doğrayıcılar, Önlükler, Yemek Setleri, Biberon Isıtıcı ve Sterilizatörler" />
+			<category name="Sağlık Ürünleri" id="3.5.1"
+				keywords="Buhar Makineleri, Dereceler, Tartılar" />
+		</category>
+		<category name="Anne Bakım ve İç Giyim" id="3.6">
+			<category name="Göğüs Koruyusucu ve Pedler" id="3.6.1" />
+			<category name="Anne İç Giyim" id="3.6.2" />
+			<category name="Bakım Çantaları" id="3.6.3" />
+			<category name="Göğüs Pompaları" id="3.6.4" />
+		</category>
+		<category name="Bebek Kozmetik" id="3.7" />
+		<category name="Bebek Banyo ve Tuvalet" id="3.8" />
+		<category name="Bebek Giyim ve Tekstil" id="3.9"
+			keywords="Bebek Battaniyeleri, Bebek Bodyler, Bebek Setleri, Organik Bebek Giysileri, Bebek Takımları, Bebek Patiği, Önlük" />
+	</category>
+	<category name="İş ve Endüstri" id="4">
+		<category name="Tarım" id="4.1" />
+		<category name="İnşaat" id="4.2" />
+		<category name="Finans ve Sigorta" id="4.3" />
+		<category name="Yemek" id="4.4" />
+		<category name="Orman" id="4.5" />
+		<category name="Ağır Makina" id="4.6" keywords="Doğrama, Fork Lift" />
+		<category name="Hotel ve Barınma" id="4.7" />
+		<category name="Hukuk, Yürütme" id="4.8"
+			keywords="Cop, Kelepçe,Bilek Kelepçesi,El Kelepçesi,Ayak Kelepçesi, Metal Dedektörü" />
+		<category name="Tıbbi" id="4.9"
+			keywords="Tıp,Hastahane Elbisesi, Tıbbi Eldiven,Tıbbi Maske, Tıbbi Erzak, Fırça" />
+		<category name="Güvenlik Ekipmanları" id="4.10" keywords="">
+			<category name="Kurşun Geçirmez Yelek" id="4.10.1" keywords="" />
+			<category name="Yanmaz Giysi" id="4.10.2" keywords="" />
+			<category name="İtfaiye Maskesi" id="4.10.3" keywords="" />
+			<category name="Gas Maskesi" id="4.10.4" keywords="" />
+			<category name="Gözlük" id="4.10.5" keywords="" />
+			<category name="Kask" id="4.10.6" keywords="" />
+			<category name="Kimyasal Giysi" id="4.10.7" keywords="Zararlı" />
+			<category name="Yüksek Görünüm Oranlı Giysi" id="4.10.8" />
+		</category>
+		<category name="Parekende" id="4.11">
+			<category name="Yazarkasa ve POS Cihazları" id="4.11.1" />
+			<category name="Poşet" id="4.11.2" />
+		</category>
+		<category name="Labaratuvar" id="4.12" keywords="Kimyasallar, Cam" />
+	</category>
+	<category name="Kamera ve Optik" id="5">
+		<category name="Kamera Aksesuarları ve Optik Aksesuarları"
+			id="5.1">
+			<category name="Kamera Aksesuarları" id="5.1.1"
+				keywords="Kablolar, Uzaktan Kumandalar, Dijital Kamera, Film,Flaş" />
+			<category name="Optik Aksesuarları" id="5.1.2" keywords="Tripod, Monopod" />
+			<category name="Lens Aksesuarları" id="5.1.3"
+				keywords="Lens Koruyucu, Lens Filtresi, Lens Örtüsü, Koruyucu" />
+		</category>
+		<category name="Kamera" id="5.2" keywords="Fotoğraf Makinası">
+			<category name="Dijital Kamera" id="5.2.1" />
+			<category name="Film Kamera" id="5.2.2" keywords="Analog Kamera" />
+			<category name="Güvenlik Kamerası" id="5.2.3" />
+			<category name="Video Kamera" id="5.2.4" />
+			<category name="Web Kamera" keywords="Webcam" id="5.2.5" />
+		</category>
+		<category name="Optik" id="5.3">
+			<category name="Dürbün" id="5.3.1" />
+			<category name="Mikroskop" id="5.3.2" />
+			<category name="Gece Görüş Dürbünü" id="5.3.3" />
+			<category name="Telemetre" id="5.3.4" keywords="Optik telemetre" />
+			<category name="Teleskop" id="5.3.5" keywords="" />
+		</category>
+		<category name="Diğer" id="5.4"
+			keywords="Fotoğraf Kağıdı, Karanlık Oda, Album" />
+	</category>
+	<category name="Giyim ve Aksesuar" id="6" keywords="Casual">
+		<category name="Giyim" id="6.1">
+			<category name="Kostümler" id="6.1" />
+			<category name="Elbiseler" id="6.2"
+				keywords="Kimono, Gelinlik, Resmi Elbise, Cüppe, Avukat, Hakim" />
+			<category name="Palto" id="6.3"
+				keywords="Spor Palto, Trench Coat, TrenchCoat" />
+			<category name="Ceket" id="6.4"
+				keywords="Rüzgarlık, Yağmurluk, Parka, Deri Ceket" />
+			<category name="Pantolon" id="6.5"
+				keywords="Kapri, Kargo Pantolon, Kot pantolon, Kotpantolon, Haki" />
+			<category name="Şort" id="6.6" keywords="Bermuda, Kargo şort" />
+			<category name="Etek" id="6.7" />
+			<category name="Takım Elbise" id="6.8" />
+			<category name="Gecelik" id="6.9"
+				keywords="Gecelik, Sabahlık, Pijama, BabyDoll" />
+			<category name="Yüzme Giysisi" id="6.10" keywords="Mayo, Bikini, Deniz" />
+			<category name="Gömlek ve Tişört" id="6.11" keywords="Uzun kollu, Body" />
+			<category name="İç Giyim ve Çorap" id="6.12"
+				keywords="İç etek, İçetek, jüpon, kombinezon, jupon">
+				<category name="Sütyen" id="6.12.1" keywords="Südyen, Lingerie, Straplez" />
+				<category name="Bayan Külot" id="6.12.2"
+					keywords="G-String, Tanga, Boyleg, Hipster, Jartiyer, Bayan don" />
+				<category name="Erkek Külot" id="6.12.3" keywords="Erkek Don, Boxer" />
+				<category name="Baby Doll" id="6.12.4" keywords="" />
+				<category name="Büstiyer" id="6.12.5" />
+				<category name="Atlet" id="6.12.6" />
+				<category name="Çorap" id="6.12.7" />
+				<category name="Korse" id="6.12.8" />
+			</category>
+			<category name="Üniforma" id="6.13" />
+			<category name="Eşofman" id="6.14" />
+			<category name="Hamile" id="3.15" />
+		</category>
+		<category name="Giyim Aksesuarları" id="6.2"
+			keywords="tabanca kılıfı, anahtarlık, kravat, şal, atkı, omuz askısı,mahmuz,">
+			<category name="Önlük" id="6.2.1" />
+			<category name="Kemer" id="6.2.2" />
+			<category name="Eldiven" id="6.2.3" />
+			<category name="Saç Aksesuarları" id="6.2.4"
+				keywords="Saç bandı, saçbandı, hotoz, topuz, tarak, toka, klips" />
+			<category name="Şapka" id="6.2.5" keywords="Bere" />
+		</category>
+		<category name="Ayakkabı" id="6.3">
+			<category name="Bot ve Çizme" id="6.3.1" keywords="Outdoor" />
+			<category name="Spor" id="6.3.2" />
+			<category name="Klasik" id="6.3.3" />
+			<category name="Sandalet ve Terlik" id="6.3.4" />
+			<category name="Günlük" id="6.3.4" keywords="Casual" />
+		</category>
+		<category name="Takı ve Mücevherat" id="6.4"
+			keywords="Bijuteri, Mücevher, Elmas">
+			<category name="Bilezik" id="6.4.1" />
+			<category name="Bileklik" id="6.4.2" />
+			<category name="Küpe" id="6.4.3" />
+			<category name="Yüzük" id="6.4.4" />
+			<category name="Kol Saati" id="6.4.5" />
+		</category>
+	</category>
+	<category name="Elektronik" id="7">
+		<category name="Müzik ve Ses" id="7.1" keywords="Audio">
+			<category name="Müzik ve Ses Aksesuarları" id="7.1.1">
+				<category name="MP3 Oynatıcı Aksesuarları" id="7.1.1.1"
+					keywords="MP3 Player" />
+				<category name="Uydu Radyo Aksesuarları" id="7.1.1.2"
+					keywords="Satellite Radio" />
+				<category name="Turntable Aksesuarları" id="7.1.1.3" />
+			</category>
+			<category name="Müzik ve Ses Komponentleri" id="7.1.2"
+				keywords="Parça">
+				<category name="Ses Amplifikatörü" id="7.1.2.1"
+					keywords="Amplifier, Yükselteç" />
+				<category name="Ses Receiver" id="7.1.2.2" keywords="Alıcı" />
+				<category name="Ses Örnekleyici" id="7.1.2.3" keywords="Sampler" />
+				<category name="Kulaklıklar" id="7.1.2.4" keywords="Headphone" />
+				<category name="Mikrofonlar" id="7.1.2.5" keywords="Microphone" />
+				<category name="Sinyal İşleyici" id="7.1.2.6"
+					keywords="Signal Processor, Efekt İşleyici, Ekolayzır, Equalizer" />
+				<category name="Hoperlörler" id="7.1.2.7"
+					keywords="Speaker,Computer Speakers,Studio Monitors" />
+			</category>
+			<category name="Müzik Oynatıcıları, ve Kaydediciler" id="7.1.3"
+				keywords="Player, Recorder">
+				<category name="CD Oynatıcı" id="7.1.3.1" keywords="CD Player" />
+				<category name="Karaoke" id="7.1.3.2" />
+				<category name="MP3 Oynatıcı" id="7.1.3.3" keywords="MP3 Player" />
+				<category name="MiniDisk Oynatıcu" id="7.1.3.4" keywords="Minidisc" />
+				<category name="Müzik Seti" id="7.1.3.5" keywords="Mini, Midi" />
+				<category name="Turntable" id="7.1.3.6" />
+				<category name="Ses Kaydedici" id="7.1.3.7" />
+			</category>
+		</category>
+		<category name="İletişim" id="7.2">
+			<category name="Cevap Makineleri" id="7.2.1" keywords="Answering Machine" />
+			<category name="Telsizler" id="7.2.2" />
+			<category name="Kulaklık" id="7.2.3" keywords="Headset" />
+			<category name="Intercom" id="7.2.4" />
+			<category name="Çağrı Cihazı" id="7.2.5" />
+			<category name="Telefon" id="7.2.6">
+				<category name="Cep Telefonu" id="7.2.5.1" />
+				<category name="Cep Telefonu Aksesuarları" id="7.2.5.2" />
+				<category name="Telefon Aksesuarları" id="7.2.5.3" />
+				<category name="Kablolu Telefonlar" id="7.2.5.4" keywords="Corded" />
+				<category name="Telsiz Telefonlar" id="7.2.5.5" keywords="Cordless" />
+				<category name="Uydu Telefonu" id="7.2.5.6" keywords="Satellite" />
+			</category>
+		</category>
+		<category name="Elektronik Parçaları" id="7.3" keywords="Komponent">
+			<category name="Konnectör" id="7.3.1" keywords="Keystone Jack,RCA" />
+			<category name="Dönüştürücü" id="7.3.2" keywords="Convertor" />
+			<category name="Modülatör" id="7.3.3" keywords="Modulator,RF" />
+			<category name="Splitter" id="7.3.4" keywords="RF,UHF" />
+			<category name="Transformatör" id="7.3.5" keywords="Balun" />
+		</category>
+		<category name="Bilgisayar" id="7.4">
+			<category name="Bilgisayar Aksesuarları" id="7.4.1">
+				<category name="El Bilgisayarı ve PDA Aksesuarları" id="7.4.1.1" />
+				<category name="Laptop Aksesuarları" id="7.4.1.2" keywords="Docking Station" />
+				<category name="Mouse Pad" id="7.4.1.3" />
+			</category>
+			<category name="Bilgisayar Parçaları" id="7.4.2" keywords="Donanım Ürünleri">
+				<category name="Ses Kartı" id="7.4.2.1" keywords="Audio Card" />
+				<category name="Bilgisayar Rafı" id="7.4.2.2" keywords="Rack" />
+				<category name="Soğutucu" id="7.4.2.3" />
+				<category name="I/O Kartları" id="7.4.2.4" keywords="Card" />
+				<category name="Barkod Okuyucu" id="7.4.2.5" keywords="Barcode Scanner" />
+				<category name="Klavye" id="7.4.2.6" keywords="Keyboard" />
+				<category name="Joystick ve Gamepad" id="7.4.2.7" keywords="Game Controller" />
+				<category name="Grafik Tabletler" id="7.4.2.8" keywords="Graphic Tablet" />
+				<category name="Switch Box Ve Çoklayıcılar" id="7.4.2.9"
+					keywords="KVM Swicth" />
+				<category name="Mouse, Trackball, Touchpad" id="7.4.2.10" />
+				<category name="Anakart" id="7.4.2.11" keywords="Motherboard" />
+				<category name="Powersupply" id="7.4.2.12" keywords="Güç sağlayıcı" />
+				<category name="İşlemci" id="7.4.2.13" keywords="Processor" />
+				<category name="Depolama Araçları" id="7.4.2.14" keywords="Storage Devices">
+					<category name="CD DVD Blu-Ray Yazıcı" id="7.4.2.14.1" />
+					<category name="Floppy" id="7.4.2.14.2" />
+					<category name="Harddisk" id="7.4.2.14.3" keywords="Hard disk" />
+					<category name="Taşınabilir Diskler" id="7.4.2.14.3"
+						keywords="Portable Harddisk, Hard disk" />
+					<category name="CD DVD Blu-Ray Okuyucu" id="7.4.2.14.4"
+						keywords="Drive, Sürücü" />
+					<category name="Solid State" id="7.4.2.14.5" keywords="Solid State" />
+					<category name="Teyp Sürücü" id="7.4.2.14.6" keywords="Tape Drive" />
+				</category>
+				<category name="TV Kartı" id="7.4.2.15" keywords="TV Tuner" />
+				<category name="Bilgisayar Kasası" id="7.4.2.16" keywords="Tower Case" />
+				<category name="USB ve Firewire" id="7.4.2.17" />
+				<category name="Ekran Kartı" id="7.4.2.18" />
+			</category>
+			<category name="Masaüstü Bilgisayar" id="7.4.3" />
+			<category name="El Bilgisayarı ve PDA" id="7.4.4"
+				keywords="Handheld, PDA Telefon, PDA Phone" />
+			<category name="Laptop" id="7.4.5"
+				keywords="Taşınabilir Bilgisayar, Notebook" />
+			<category name="Sunucu" id="7.4.6" keywords="Server" />
+		</category>
+		<category name="Elektronik Saat" id="7.5" />
+		<category name="Elektronik Aksesuarlar" id="7.6">
+			<category name="Antenler" id="7.6.1" />
+			<category name="Boş Medya" id="7.6.2" keywords="Yazılabilir">
+				<category name="Boş Teyp" id="7.6.2.1" keywords="Tape" />
+				<category name="Boş CD" id="7.6.2.2" />
+				<category name="Boş DVD" id="7.6.2.3" />
+				<category name="Boş Video Teyp" id="7.6.2.4" />
+				<category name="Boş Minidisk" id="7.6.2.5" />
+			</category>
+			<category name="Kablolar ve Adaptörler" id="7.6.3">
+				<category name="Kablolar" id="7.6.3.1">
+					<category name="Ağ Kabloları" id="7.6.3.1.1" />
+					<category name="Depolama Kabloları" id="7.6.3.1.2" />
+					<category name="Sistem ve Güç Kabloları" id="7.6.3.1.3" />
+					<category name="Video Kabloları" id="7.6.3.1.4" />
+				</category>
+				<category name="Adaptörler" id="7.6.3.2">
+					<category name="Bellek Adaptörleri" id="7.6.3.2.1" />
+					<category name="Ağ Adaptörleri" id="7.6.3.2.2" />
+					<category name="Güç Adaptörleri" id="7.6.3.2.3" />
+					<category name="Depolama Adaptörleri" id="7.6.3.2.4" />
+				</category>
+			</category>
+			<category name="Bellek" id="7.6.4">
+				<category name="Flash bellek" id="7.6.4.1" />
+				<category name="RAM" id="7.6.4.2" keywords="DIMM,SIMM" />
+				<category name="ROM" id="7.6.4.3" />
+			</category>
+			<category name="Güç" id="7.6.5">
+				<category name="Pil" id="7.6.5.1">
+					<category name="Kamera Pilleri" id="7.6.5.1.1" />
+					<category name="Telsiz Telefon Pilleri" id="7.6.5.1.2" />
+					<category name="Laptop Pilleri" id="7.6.5.1.3" />
+					<category name="Cep Telefonu Pilleri" id="7.6.5.1.4" />
+				</category>
+				<category name="Şarj Aleti" id="7.6.5.1">
+					<category name="Cep Telefonu Şarj Aleti" id="7.6.5.1.1" />
+				</category>
+				<category name="UPS" id="7.6.5.2" />
+			</category>
+		</category>
+		<category name="Deniz Elektroniği" id="7.7">
+			<category name="Harita Çizici" id="7.7.1" />
+			<category name="Balık Bulucu" id="7.7.2" />
+			<category name="Deniz Radarı" id="7.7.3" />
+		</category>
+		<category name="Ağ Elektroniği" id="7.8">
+			<category name="Bridge ve Router" id="7.8.1" />
+			<category name="VOIP" id="7.8.2" />
+			<category name="Çoklayıcı" id="7.8.3" keywords="Multiplexer" />
+			<category name="Hublar ve Switchler" id="7.8.4" />
+			<category name="Modemler" id="7.8.5" />
+			<category name="Network Kartları" id="7.8.6" keywords="Ethernet" />
+			<category name="Transceiver ve Repeater" id="7.8.6" />
+			<category name="Bluetooth" id="7.8.7" />
+			<category name="NAS" id="7.8.8" keywords="Network Attached Storage" />
+		</category>
+		<category name="Taşınabilir Cihazlar" id="7.9">
+			<category name="Hesap Makinası" id="7.9.1" keywords="Calculator" />
+			<category name="Elektronik Sözlük ve Tercüman" id="7.9.2" />
+			<category name="GPS" id="7.9.3" />
+			<category name="Uzaktan Kumanda" id="7.9.4" />
+		</category>
+		<category name="Yazıcı, Kopyalama, Tarama ve Fax" id="7.10">
+			<category name="Fotokopi Makinası" id="7.10.1" />
+			<category name="Fax Makinası" id="7.10.2" />
+			<category name="Multifunction Makinalar" id="7.10.3"
+				keywords="Yazıcı,Fotokopi,Tarayıcı,Fax,Scanner" />
+			<category name="Yazıcı" id="7.10.4" keywords="Printer">
+				<category name="Dot Matrix Yazıcı" id="7.10.4.1"
+					keywords="Nokta Vuruşlu Yazıcı" />
+				<category name="Inkjet Yaıcılar" id="7.10.4.2" />
+				<category name="Lazer Yazıcılar" id="7.10.4.3" keywords="Laser Printer" />
+				<category name="Fotoğraf Yazıcıları" id="7.10.4.4" />
+			</category>
+			<category name="Tarayıcılar" id="7.10.5" keywords="Scanner" />
+			<category name="Aksesuarlar" id="7.10.6">
+				<category name="Fotokopi Aksesuarları" id="7.10.6.1" />
+				<category name="Yazıcı Aksesuarları" id="7.10.6.2"
+					keywords="Toner, Kartuş, Printer" />
+				<category name="Tarayıcı Aksesuarları" id="7.10.6.3" />
+			</category>
+		</category>
+		<category name="Video" id="7.11">
+			<category name="Monitörler" id="7.11.1" keywords="LCD, CRT, TFT" />
+			<category name="Projeksiyon Cihazı" id="7.11.2" keywords="Projector" />
+			<category name="Televizyon" id="7.11.3">
+				<category name="CRT Televizyon" id="7.11.3.1" />
+				<category name="LCD Televizyon" id="7.11.3.2" />
+				<category name="Taşınabilir Televizyon" id="7.11.3.3" />
+				<category name="Projeksiyon Televizyon" id="7.11.3.4" />
+			</category>
+			<category name="Video Aksesuarları" id="7.11.4">
+				<category name="Bilgisayar Ekranı Aksesuarları" id="7.11.4.1" />
+				<category name="Projeksiyon Aksesuarları" id="7.11.4.2" />
+				<category name="Televizyon Aksesuarları" id="7.11.4.3" />
+			</category>
+			<category name="Video Oynatıcı" id="7.11.5">
+				<category name="DVD Oynatıcı" id="7.11.5.1"
+					keywords="DVD, HD-DVD, Blu-Ray, Player" />
+				<category name="DVD Kaydedici" id="7.11.5.2"
+					keywords="DVD, HD-DVD, Blu-Ray, Recorder" />
+				<category name="VCD Oynatıcı" id="7.11.5.3" keywords="Player" />
+			</category>
+		</category>
+		<category name="Oyun Konsolları" id="7.13">
+			<category name="XBox" id="7.13.1" />
+			<category name="Dreamcast" id="7.13.2" />
+			<category name="Gamecube" id="7.13.3" />
+			<category name="Jaguar" id="7.13.4" />
+			<category name="Neo Geo" id="7.13.5" />
+			<category name="Nintendo" id="7.13.6" />
+			<category name="Playstation" id="7.13.7" />
+			<category name="Playstation 2" id="7.13.8" />
+			<category name="Playstation 3" id="7.13.9" />
+			<category name="Sega" id="7.13.10" />
+			<category name="Nintendo" id="7.13.11" />
+			<category name="Wii" id="7.13.12" />
+			<category name="GameBoy" id="7.13.13" />
+			<category name="Atarı Lynx" id="7.13.14" />
+			<category name="Game Gear" id="7.13.15" />
+			<category name="N-Gage" id="7.13.16" />
+			<category name="Aksesuarlar" id="7.13.17" />
+		</category>
+	</category>
+	<category name="Mobilya ve Eşya" id="9">
+		<category name="Bebek ve Çocuk" id="9.1">
+			<category name="Yürüteç, Hoppala" id="9.1.1" />
+			<category name="Beşik, Yatak" id="9.1.2" />
+			<category name="Ana Kucakları" id="9.1.3" />
+			<category name="Oto Koltukları" id="9.1.4" />
+			<category name="Bebek Arabası" id="9.1.5" />
+			<category name="Mama Sandalyesi" id="9.1.6" />
+			<category name="Aksesuarlar" id="9.1.7" />
+			<category name="Bebek Odası" id="9.1.8" />
+		</category>
+		<category name="Yatak Odası" id="9.2">
+			<category name="Gardrop" id="9.2.1" />
+			<category name="Tuvalet Masası" id="9.2.2" />
+			<category name="Yatak, Baza ve Ranzalar" id="9.2.3" />
+			<category name="Etejer, Çekmece" id="9.2.4" />
+			<category name="Karyola Başlığı" id="9.2.5" />
+			<category name="Komodin" id="9.2.6" />
+		</category>
+		<category name="Koltuk, Sandalyeler" id="9.3" keywords="Chaises">
+			<category name="Ofis,Büro Sandalyeleri" id="9.3.1" />
+			<category name="Bar Sandalyeleri" id="9.3.2" keywords="Bar Stools" />
+			<category name="Oturma Odası Koltuk, Sandalyeleri" id="9.3.4" />
+		</category>
+		<category name="Bilgisayar Modilyası" id="9.4">
+		</category>
+		<category name="Masa, Ofis Mobilyası" id="9.5">
+		</category>
+		<category name="Yemek Odası Mobilyası" id="9.6">
+			<category name="Yemek Masaları" id="9.6.1" />
+			<category name="Yemek Sandalyeleri" id="9.6.2" />
+			<category name="Mutfak Tabureleri" id="9.6.3" />
+			<category name="Büfeler ve Konsollar" id="9.6.4" />
+		</category>
+		<category name="Mutfak Mobilyası" id="9.6"
+			keywords="Mutfak Kapakları, Dolap İskeletleri, Mutfak Dolabı" />
+		<category name="Oturma Odası" id="9.7">
+			<category name="Oturma Odası Masası" id="9.7.1"
+				keywords="Kokteyl Masası, Kahve Masası, Oyun Masası" />
+			<category name="Sedir, Kanepe, Divan, Koltuk" id="9.7.2" />
+			<category name="Sehpa" id="9.7.3" keywords="Zigon" />
+			<category name="Vitrin" id="9.7.4" />
+			<category name="Minder" id="9.7.5" />
+		</category>
+		<category name="Genç Odası" id="9.8">
+		</category>
+		<category name="Kitaplık, Kütüphane" id="9.9" />
+	</category>
+
+<!--  KAAN -->
+	<category name="Sağlık ve Güzellik" id="11">
+		<category name="Sağlık Hizmetleri" id="11.1">
+			<category name="Eklem İltihabı Bakımı" id="11.1.1" />
+			<category name="Biyometrik Ölçüm Araçları" id="11.1.2">
+				<category name="Kan Şekeri Ölçüm Cihazları" id="11.1.2.1" />
+				<category name="Tansiyon Aletleri" id="11.1.2.2" />
+				<category name="Vücut Yağı Ölçüm Cihazları" id="11.1.2.3" />
+				<category name="Alkolmetreler" id="11.1.2.4" />
+				<category name="Kolestrol Ölçüm Cihazları" id="11.1.2.5" />
+				<category name="Gebelik Durumu Göstericiler" id="11.1.2.6" />
+				<category name="Kalp Atış Hızı Ölçüm Cihazları" id="11.1.2.7" />
+				<category name="Pedometreler" id="11.1.2.8" />
+				<category name="Termometreler" id="11.1.2.9" />
+				<category name="Tartılar" id="11.1.2.10" />
+			</category>
+			<category name="Gebelik Önleyiciler" id="11.1.3">
+				<category name="Prezervatifler" id="11.1.3.1" />
+			</category>
+			<category name="Şeker Hastalığı Bakımı" keywords="Diyabet"
+				id="11.1.4" />
+			<category name="Uyuşturucu Testleri" keywords="Kokain, Haşhaş, Marihuana"
+				id="11.1.5" />
+			<category name="İlk Yardım" id="11.1.6">
+				<category name="Antiseptikler ve Temizleyiciler" id="11.1.6.1" />
+				<category name="Bandjalar ve Bantlar" id="11.1.6.2" />
+				<category name="İlk Yardım Çantaları" id="11.1.6.3" />
+				<category name="Sıcak ve Soğuk Terapiler" id="11.1.6.4" />
+				<category name="Pişik Tedavi Ediciler" keywords="Kurdeşen"
+					id="11.1.6.5" />
+			</category>
+			<category name="Fitness ve Beslenme" id="11.1.7">
+				<category name="Elektrolitler" id="11.1.7.1" />
+				<category name="Beslenme Çubukları" id="11.1.7.2" />
+				<category name="Vitamin ve Destekleyici Ürünler" id="11.1.7.3" />
+				<category name="Diyet Ürünleri" id="11.1.7.4" />
+			</category>
+			<category name="Bel Gevşekliği Yardımı" id="11.1.8" />
+			<category name="İlaçlar" id="11.1.9">
+				<category name="Allerji ve Sinüs İlaçları" id="11.1.9.1" />
+				<category name="Öksürük, Soğuk Algınlığı ve Grip İlaçlar"
+					id="11.1.9.2" />
+				<category name="Mide ve Bağırsak Tedavisi İlaçları"
+					keywords="gastrointestinal" id="11.1.9.3" />
+				<category name="Ağrı Kesiciler" id="11.1.9.4" />
+				<category name="Reçeteli İlaçlar" id="11.1.9.5" />
+			</category>
+			<category name="Gebelik Testleri" id="11.1.10" />
+			<category name="Sigara Bıraktırıcılar" id="11.1.11" />
+			<category name="Destek ve Askılar" id="11.1.12" />
+		</category>
+		<category name="Kişisel Bakım" id="11.2">
+			<category name="Sırt Bakımı" id="11.2.1" />
+			<category name="Kozmetik" id="11.2.2">
+				<category name="Banyo ve Vücut" id="11.2.2.1">
+					<category name="Kalıp sabun" id="11.2.2.1.1" />
+					<category name="Banyo ve Vücut Hediye Setleri" id="11.2.2.1.2" />
+					<category name="Banyo Fırçası" id="11.2.2.1.3" />
+					<category name="Vücut Temizleyiciler" id="11.2.2.1.4" />
+					<category name="Banyo Köpüğü ve Tuzları" id="11.2.2.1.5" />
+					<category name="Lifler ve Keseler" id="11.2.2.1.6" />
+				</category>
+				<category name="Kozmetik Malzemeleri" id="11.2.2.2">
+					<category name="Kirpik Kıvırıcılar" id="11.2.2.2.1" />
+					<category name="Makyaj Malzemeleri" id="11.2.2.2.2">
+						<category name="Makyaj Fırçaları" id="11.2.2.2.2.1" />
+						<category name="Makyaj Aynaları" id="11.2.2.2.2.2" />
+					</category>
+					<category name="Tırnak Malzemeleri" id="11.2.2.2.3">
+						<category name="Kütikül Gidericiler" id="11.2.2.2.3.1" />
+						<category name="Kütikül Makasları" id="11.2.2.2.3.2" />
+						<category name="Tırnak Makasları" id="11.2.2.2.3.3" />
+						<category name="Törpüler ve Zımparalı Törpüler" id="11.2.2.2.3.4" />
+					</category>
+					<category name="Cilt bakım ürünleri" keywords="Süngertaşları"
+						id="11.2.2.2.4" />
+					<category name="Cımbızlar" id="11.2.2.2.5" />
+				</category>
+				<category name="Makyaj" id="11.2.2.3">
+					<category name="Gözler" id="11.2.2.3.1">
+						<category name="Göz farı" id="11.2.2.3.1.1" />
+						<category name="Kaş kalemleri" id="11.2.2.3.1.2" />
+						<category name="Göz kalemleri" id="11.2.2.3.1.3" />
+						<category name="Takma kirpikler" id="11.2.2.3.1.4" />
+						<category name="Rimel" id="11.2.2.3.1.5" />
+					</category>
+					<category name="Yüz ve Yanaklar" id="11.2.2.3.2">
+						<category name="Bornzlaştırıcılar" id="11.2.2.3.2.1" />
+						<category name="Fondöten ve kapatıcılar" id="11.2.2.3.2.2" />
+						<category name="Pudralar" id="11.2.2.3.2.3" />
+						<category name="Ruj ve allıklar" id="11.2.2.3.2.4" />
+					</category>
+					<category name="Dudaklar" id="11.2.2.3.3">
+						<category name="Dudak parlatıcılar" id="11.2.2.3.3.1" />
+						<category name="Dudak kalemleri" id="11.2.2.3.3.2" />
+						<category name="Rujlar" id="11.2.2.3.3.3" />
+					</category>
+				</category>
+				<category name="Tırnak bakımı" id="11.2.2.4">
+					<category name="Kütikül krem ve yağları" id="11.2.2.4.1" />
+					<category name="Oje Çıkarıcılar" id="11.2.2.4.2" />
+					<category name="Ojeler" id="11.2.2.4.3" />
+				</category>
+				<category name="Parfüm ve Kokular" id="11.2.2.5">
+					<category name="Cilt Bakımı" id="11.2.2.6">
+						<category name="Akne Tedavisi" id="11.2.2.6.1" />
+						<category name="Temizleyiciler" id="11.2.2.6.2" />
+						<category name="Dudak bakımı" id="11.2.2.6.3" />
+						<category name="Losyonlar" id="11.2.2.6.4" />
+						<category name="Güneş Korumaları" id="11.2.2.6.5" />
+						<category name="Güneşlenme Ürünleri" id="11.2.2.6.6" />
+					</category>
+				</category>
+				<category name="Deodorant ve Terlemeyi Önleyici Ürünler "
+					id="11.2.3" />
+				<category name="Kulak Bakmı" id="11.2.4">
+					<category name="Kulak çubukları" id="11.2.4.1" />
+					<category name="Kulak tıkaçları" id="11.2.4.2" />
+				</category>
+				<category name="Bayan Hijyen Ürünleri" id="11.2.5">
+					<category name="Pedler ve Koruyucular" id="11.2.5.1" />
+					<category name="Tamponlar" id="11.2.5.2" />
+				</category>
+				<category name="Ayak Bakımı" id="11.2.6">
+					<category name="Mantar Ürünleri" id="11.2.6.1" />
+					<category name="Bunion Koruyucular" id="11.2.6.2" />
+					<category name="Nasır ve Yara Bakımı" id="11.2.6.3" />
+					<category name="Ayak Kokusu Gidericiler" id="11.2.6.4" />
+					<category name="Tabanlık ve Destekleyiciler" id="11.2.6.5" />
+				</category>
+				<category name="Saç Bakımı" id="11.2.7">
+					<category name="Fırça ve Taraklar" id="11.2.7.1" />
+					<category name="Bigudiler" id="11.2.7.2" />
+					<category name="Maşalar" id="11.2.7.3" />
+					<category name="Saç Boyama" id="11.2.7.4" />
+					<category name="Saç Kurutma Makineleri" id="11.2.7.5" />
+					<category name="Saç Makasları" id="11.2.7.6" />
+					<category name="Şampuan ve Şekillendiriciler" id="11.2.7.7" />
+					<category name="Şekillendirici Jöle ve Spreyler" id="11.2.7.8" />
+				</category>
+			</category>
+			<category name="Masaj Aletleri" id="11.2.8" />
+			<category name="Ağız Bakımı" id="11.2.9">
+				<category name="Protez Dişler" id="11.2.9.1" />
+				<category name="Diş İpliği" id="11.2.9.2" />
+				<category name="Dişeti Temizleyiciler" id="11.2.9.3" />
+				<category name="Gargaralar" id="11.2.9.4" />
+				<category name="Diş Fırçaları" id="11.2.9.5" />
+				<category name="Diş Macunları" id="11.2.9.6" />
+				<category name="Beyazlatıcılar" id="11.2.9.7" />
+			</category>
+			<category name="Tıraş ve Manikür" id="11.2.10">
+				<category name="Tıraş Losyonları" id="11.2.10.1" />
+				<category name="Elektrikli Tıraş Makinesi Aksesuarları" id="11.2.10.2" />
+				<category name="Elektrikli Tıraş Makineleri" id="11.2.10.3" />
+				<category name="Manikür Makasları" id="11.2.10.4" />
+				<category name="Usturalar ve Tıraş Bıçakları" id="11.2.10.5" />
+				<category name="Tıraş Fırçaları" id="11.2.10.6" />
+				<category name="Tıraş Kremleri" id="11.2.10.7" />
+				<category name="Kantaşları" id="11.2.10.8" />
+			</category>
+			<category name="Solaryum Tankları" keywords="Bronzlaştırıcı Tanklar"
+				id="11.2.11" />
+			<category name="Göz bakım Ürünleri" id="11.2.11">
+				<category name="Kontak Lens Bakımı" id="11.2.11.1" />
+				<category name="Kontak Lensler" id="11.2.11.2" />
+				<category name="Göz Damlaları" id="11.2.11.3" />
+				<category name="Gözlük Aksesuarları" id="11.2.11.4" />
+				<category name="Gözlük Çerçeveleri" id="11.2.11.5" />
+				<category name="Gözlük Camları" id="11.2.11.6" />
+				<category name="Gözlükler" id="11.2.11.7" />
+				<category name="Güneş Gözlükleri" id="11.2.11.8" />
+			</category>
+		</category>
+	</category>
+	<category name="Yazılım" id="16">
+		<category name="Bilgisayar Yazılımları" id="16.1">
+			<category name="Çocuk Yazılımları" id="16.1.1" />
+			<category name="Derleyiciler ve Programlama Araçları" id="16.1.2" />
+			<category name="Eğitim Yazılımları" id="16.1.3" />
+			<category name="El Bilgisayarı ve PDA Yazılımları" id="16.1.4" />
+			<category name="Çoklu Ortam Yazılımları" keywords="Multimedia"
+				id="16.1.5" />
+			<category name="Ofis, Vergi ve Muhasebe Yazılımları" id="16.1.6" />
+			<category name="İşletim Sistemleri" id="16.1.7" />
+			<category name="Profesyonel ve Teknik Yazılımlar" id="16.1.8" />
+			<category name="Yardımcı Yazılımlar" id="16.1.9" />
+		</category>
+		<category name="Video Oyunları" id="16.2">
+			<category name="Game Boy Oyunları" id="16.2.1" />
+			<category name="PlayStation Oyunları" id="16.2.2" />
+			<category name="XBox Oyunları" id="16.2.3" />
+			<category name="Atari Lynx Oyunları" id="16.2.4" />
+			<category name="Dreamcast Oyunları" id="16.2.5" />
+			<category name="Game Gear Oyunları" id="16.2.6" />
+			<category name="Gamecube Oyunları" id="16.2.7" />
+			<category name="Jaguar Oyunları" id="16.2.8" />
+			<category name="Mac Oyunları" id="16.2.8" />
+			<category name="N-Gage Oyunları" id="16.2.9" />
+			<category name="Neo Geo Oyunları" id="16.2.11" />
+			<category name="Nintendo Oyunları" keywords="Nintendo Entertainment System"
+				id="16.2.12" />
+			<category name="PC Oyunları" id="16.2.13" />
+			<category name="Portatif PlayStation Oyunları" id="16.2.14" />
+			<category name="Sega Genesis Oyunları" id="16.2.15" />
+			<category name="Sega Master Sistem Oyunları" id="16.2.16" />
+			<category name="Super Nintendo Oyunları" id="16.2.17" />
+			<category name="Turbografx 16 Oyunları" id="16.2.18" />
+			<category name="Wii Oyunları" id="16.2.19" />
+		</category>
+	</category>
+	<category name="Oyuncaklar ve Oyunlar" id="18">
+		<category name="Oyun Takımı" id="18.1">
+			<category name="Oyun Evleri" id="18.1.1" />
+			<category name="Oyun Setleri" id="18.1.2" />
+			<category name="Kum Havuzları" id="18.1.3" />
+			<category name="Kaydıraklar" id="18.1.4" />
+			<category name="Yatak ve Puset Oyuncakları" id="18.1.5" />
+		</category>
+		<category name="Bulmacalar ve Oyunlar" id="18.2">
+			<category name="Masa Oyunları" id="18.2.1" />
+			<category name="Kağıt Oyunları" id="18.2.2" />
+			<category name="Zar ve Domino Oyunları" id="18.2.3" />
+			<category name="Yapboz Bulmacıları" id="18.2.4" />
+		</category>
+		<category name="Oyuncaklar" id="18.3">
+			<category name="Plaj ve Su Oyuncakları" id="18.3.1" />
+			<category name="Yapı Oyunları" id="18.3.2" />
+			<category name="Oyuncak Bebekler ve Action Figure" id="18.4">
+				<category name="Action Figure" id="18.4.1" />
+				<category name="Oyuncak Bebek Aksesuarları" id="18.4.2" />
+				<category name="Oyuncak Bebek Evleri" id="18.4.3" />
+				<category name="Oyuncak Bebekler" id="18.4.4" />
+				<category name="Kuklalar" id="18.4.5" />
+				<category name="Peluş Oyuncaklar" id="18.4.6" />
+			</category>
+			<category name="Uçurtmalar ve Uçan Oyuncaklar" id="18.4" />
+			<category name="Öğretici Oyuncaklar" id="18.5" />
+			<category name="Müzikal Oyuncaklar" id="18.6" />
+			<category name="Portatif Eletronik Oyuncaklar" id="18.7" />
+			<category name="Spor Oyuncaklarları" id="18.8" />
+			<category name="Oyuncak Arabalar" id="18.9">
+				<category name="Savaş Araçları Oyuncakları" id="18.9.1" />
+				<category name="Uzaktan Kumandali Araç Aksesuarları" id="18.9.2" />
+				<category name="Uzaktan Kumandalı Araçlar" id="18.9.3" />
+				<category name="Araçlar" id="18.9.4" />
+				<category name="Elektrikli Araçlar" id="18.9.5" />
+				<category name="Akülü ve Pedalli Araçlar" id="18.9.6" />
+				<category name="Tren ve Uçak Setleri" id="18.9.7" />
+				<category name="Elektrikli Tren Aksesuarları" id="18.9.8" />
+				<category name="Elektrikli Tren" id="18.9.9" />
+			</category>
+			<category name="Kurmalı Oyuncaklar" id="18.10" />
+		</category>
+	</category>
+	<category name="Ev ve Bahçe" id="12">
+		<category name="Banyo" id="12.1">
+			<category name="Banyo Kutuları" id="12.1.1" />
+			<category name="Banyo Bezleri" id="12.1.2" />
+			<category name="Banyo Paspas ve Halıları" id="12.1.3" />
+			<category name="Yüz Havlusu Tutucuları" id="12.1.4" />
+			<category name="İlaç Dolabı" id="12.1.5" />
+			<category name="Duş Perdesi Halkaları" id="12.1.6" />
+			<category name="Duş Perdeleri" id="12.1.7" />
+			<category name="Sabunluk" id="12.1.8" />
+			<category name="Tuvalet Fırçaları" id="12.1.9" />
+			<category name="Tuvalet Kağıdı Tutucuları" id="12.1.10" />
+			<category name="Diş Fırçalıkları" id="12.1.11" />
+			<category name="Havlu Askıları ve Tutucuları" keywords="Raf"
+				id="12.1.12" />
+		</category>
+		<category name="Yatak Odası" id="12.2">
+			<category name="Yatak Takımları" id="12.2.1">
+				<category name="Yatak Örtüsü" id="12.2.1.1" />
+				<category name="Nevresim Takımları" id="12.2.1.2" />
+				<category name="Yastık Kılıfları" id="12.2.1.3" />
+				<category name="Çarşaflar" id="12.2.1.4" />
+			</category>
+			<category name="Örtüler" id="12.2.2">
+				<category name="Battaniyeler" id="12.2.2.1">
+					<category name="Elektrikli Battaniyeler" id="12.2.2.1.1" />
+				</category>
+				<category name="Yorganlar" id="12.2.2.2" />
+			</category>
+			<category name="Yorgan ve Yorgan Takımları" id="12.2.3" />
+			<category name="Yastıklar" id="12.2.4" />
+		</category>
+		<category name="Dekor" id="12.3">
+			<category name="İşaret Levhaları" id="12.3.1" />
+			<category name="Kuş Banyoları" id="12.3.2" />
+			<category name="Kuş Evleri" id="12.3.3" />
+			<category name="Kitaplıklar" id="12.3.4" />
+			<category name="Mumluklar" id="12.3.5" />
+			<category name="Mumlar" id="12.3.6" />
+			<category name="Kapı ve Pencereler" id="12.3.7">
+				<category name="Kapı Zilleri" id="12.3.7.1" />
+				<category name="Kapı Tokmakları" id="12.3.7.2" />
+				<category name="Kapı Paspasları" id="12.3.7.3" />
+				<category name="Pancur ve Gölgelikler" id="12.3.7.4" />
+				<category name="Perdeler" id="12.3.7.5" />
+			</category>
+			<category name="Bayraklar ve Rüzgar Yön Ölçerleri" id="12.3.8" />
+			<category name="Fıskiye ve Havuzlar" id="12.3.9" />
+			<category name="Bahçe ve Kaldırım Taşları" id="12.3.10" />
+			<category name="Ev Kokuları" id="12.3.11" />
+			<category name="Posta Kutuları" id="12.3.12" />
+			<category name="Aynalar" id="12.3.13" />
+			<category name="Resim Çerçeveleri" id="12.3.14" />
+			<category name="Madeni Levhalar" id="12.3.15" />
+			<category name="Yağmur Zincirleri" id="12.3.16" />
+			<category name="Yağış Ölçer" keywords="Yağmur Ölçer" id="12.3.17" />
+			<category name="Halılar" id="12.3.18" />
+			<category name="Sezonluk ve Tatil Dekorasyonları" id="12.3.19" />
+			<category name="Koltuk Kılıfı" keywords="Kanepe Kılıfı" id="12.3.20" />
+			<category name="Güneş Saatleri" id="12.3.21" />
+			<category name="Masa Örtüleri" id="12.3.22" />
+			<category name="Vazolar" id="12.3.23" />
+			<category name="Rüzgar Gülleri" id="12.3.24" />
+			<category name="Rüzgar Çanları" id="12.3.25" />
+			<category name="Rüzgar Tekerlekleri" id="12.3.26" />
+		</category>
+		<category name="Yangın ve Gaz Güvenliği" id="12.4">
+			<category name="Karbonmonoksit Detektörleri" id="12.4.1" />
+			<category name="Yangın Alarmları" id="12.4.2" />
+			<category name="Yangın Södürücü Dolapları" id="12.4.3" />
+			<category name="Yangın Söndürücüler" id="12.4.4" />
+			<category name="Yangın Püskürtücüler" keywords="Sprinkler"
+				id="12.4.5" />
+			<category name="Radon Detektörleri" id="12.4.6" />
+			<category name="Duman Detektörleri" id="12.4.7" />
+		</category>
+		<category name="Şömineler ve Sobalar" id="12.5" />
+		<category name="Ev Güvenliği" id="12.6">
+			<category name="Ev Otomasyonu" id="12.6.1" />
+			<category name="Hareket Sensorleri" id="12.6.2" />
+			<category name="Güvenlik Işıkları" id="12.6.3" />
+			<category name="Güvenlik Mönitörleri ve Kayıt Cihazları" id="12.6.4" />
+			<category name="Güvenlik Sistemi Sensörleri" id="12.6.5" />
+		</category>
+		<category name="Ev Aletleri" id="12.7">
+			<category name="İklimleme Aygıtları" id="12.7.1">
+				<category name="Klima Aksesuarları" id="12.7.1.1" />
+				<category name="Klimalar" id="12.7.1.2" />
+				<category name="Hava temizleyiciler" id="12.7.1.3" />
+				<category name="Nem gidericiler" id="12.7.1.4" />
+				<category name="Vantilatörler" id="12.7.1.5" />
+				<category name="HVAC Üniteleri" id="12.7.1.6" />
+				<category name="Nemlendiriciler" id="12.7.1.7" />
+				<category name="Radyant ısıtıcılar" id="12.7.1.8" />
+			</category>
+			<category name="Garaj Kapısı Açacakları" id="12.7.2" />
+			<category name="Çamaşır Yıkama Aletleri" id="12.7.3">
+				<category name="Ütü ve buhar makineleri" id="12.7.3.1" />
+				<category name="Karma çamaşır yıkama üniteleri" id="12.7.3.2" />
+				<category name="Kurutucular" id="12.7.3.3" />
+				<category name="Çamaşır makineleri" id="12.7.3.4" />
+			</category>
+			<category name="Park sensörleri" id="12.7.4" />
+			<category name="Dikiş makineleri" id="12.7.5" />
+			<category name="Buharlı temizleyiciler" id="12.7.6" />
+			<category name="Vakumlu temizleyiciler" id="12.7.7">
+				<category name="Elektrik süpürgesi aletleri" id="12.7.7.1" />
+				<category name="Elektrik süpürgeleri" id="12.7.7.2" />
+			</category>
+			<category name="Su Isıtıcıları" id="12.7.8">
+				<category name="Pozitif Çubuklar" id="12.7.8.1" />
+				<category name="Isıtıcı Unsurlar" id="12.7.8.2" />
+				<category name="Isıtıcı Tavalar" id="12.7.8.3" />
+				<category name="Isıtıcı Raflar" id="12.8.3.4" />
+				<category name="Havalandırma Izgaraları" id="12.7.8.5" />
+				<category name="Sıcak Su Silindirleri" id="12.7.8.6" />
+				<category name="İmmersiyon Isıtıcılar" id="12.7.8.7" />
+			</category>
+		</category>
+		<category name="Ev Teçhizatı" id="12.8">
+			<category name="Temizlik ürünleri" id="12.8.1">
+				<category name="Süpürgeler" id="12.8.1.1" />
+				<category name="Temizleme kimyasalları" id="12.8.1.2" />
+				<category name="Toz toplayıcılar" id="12.8.1.3" />
+				<category name="Moplar" id="12.8.1.4" />
+				<category name="Vantilatörler" id="12.8.1.5" />
+				<category name="Süngerler" id="12.8.1.6" />
+				<category name="Lastikli cam sileceği" id="12.8.1.7" />
+			</category>
+			<category name="Çöp poşetleri" id="12.8.2" />
+			<category name="Peçeteler ve tuvalet kağıtları" id="12.8.3">
+				<category name="Yüz mendilleri" id="12.8.3.1" />
+				<category name="Kağıt havlular" id="12.8.3.2" />
+				<category name="Tuvalet kağıtları" id="12.8.3.3" />
+			</category>
+			<category name="Çamaşır Yıkama Ürünleri" id="12.8.3">
+				<category name="Kurutma Askıları" id="12.8.3.1" />
+				<category name="Yumuşatıcılar" id="12.8.3.2" />
+				<category name="Ütü Tahtaları" id="12.8.3.3" />
+				<category name="Çamaşır Sepetleri" id="12.8.3.4" />
+				<category name="Çamaşır Deterjanları" id="12.8.3.5" />
+			</category>
+			<category name="Ampüller" id="12.8.4">
+				<category name="Kompak florosan lambalar" id="12.8.4.1" />
+				<category name="Florosan lambalar" id="12.8.4.2" />
+				<category name="Akkor ampüller" id="12.8.4.3" />
+			</category>
+			<category name="Aydınlatma Aksesuarları" id="12.8.5" />
+			<category name="Böcek kontrolü" id="12.8.6">
+				<category name="Zirai ilaçlar" id="12.8.6.1" />
+				<category name="Haşare kovucular" id="12.8.6.2" />
+				<category name="Kapanlar" id="12.8.6.3" />
+			</category>
+			<category name="Ayakkabı bakımı" id="12.8.7">
+				<category name="Ayakkabı çantaları" id="12.8.8.1" />
+				<category name="Ayakkabı fırçaları" id="12.8.8.2" />
+				<category name="Ayakkabı kurutucuları" id="12.8.8.3" />
+				<category name="Ayakkabı boyaları ve parlatıcılar" id="12.8.8.4" />
+				<category name="Ayakkabı kalıpları" id="12.8.8.5" />
+			</category>
+			<category name="Depolama ve Düzenleme" id="12.8.9">
+				<category name="Sepetler" id="12.8.9.1" />
+				<category name="Askılar" id="12.8.9.2" />
+				<category name="Kancalar" id="12.8.9.3" />
+				<category name="Elbise Askıları" id="12.8.9.4" />
+			</category>
+			<category name="Çöp Kutuları ve Çöp Sepetleri" id="12.8.10" />
+		</category>
+		<category name="Mutfak ve Yemek Aletleri" id="12.9">
+			<category name="Araç gereçler" id="12.9.1">
+				<category name="Mikrodalga fırın aksesuarları" id="12.9.1.1" />
+				<category name="Hamur yapma aletleri" id="12.9.1.2" />
+			</category>
+			<category name="Aletler" id="12.9.2">
+				<category name="Blendırlar" id="12.9.2.1" />
+				<category name="Ekmek Yapma Makineleri" id="12.9.2.2" />
+				<category name="KAhve öğütücüleri" id="12.9.2.3" />
+				<category name="Kahve ve espresso makineleri" id="12.9.2.4">
+					<category name="Filtre kahve makineleri" id="12.9.2.4.1" />
+					<category name="Espresso makineleri" id="12.9.2.4.2" />
+					<category name="Frenç pres" keywords="French Press" id="12.9.2.4.3" />
+					<category name="Süzgeçler" id="12.9.2.4.4" />
+					<category name="Ocak üstü espresso demlikleri " id="12.9.2.4.5" />
+				</category>
+				<category name="Setüstü ocaklar" id="12.9.2.5" />
+				<category name="Buharda pişiriciler/ Yavaş pişiriciler" id="12.9.2.6" />
+				<category name="Fritözler" id="12.9.2.7" />
+				<category name="Bulaşık makineleri" id="12.9.2.8" />
+				<category name="Yumurta pişiriciler" id="12.9.2.9" />
+				<category name="Elektrikli gril ve kalburlar" id="12.9.2.10" />
+				<category name="Elektrikli su ısıtıcıları" id="12.9.2.11" />
+				<category name="Yemek dehidratörü" id="12.9.2.12" />
+				<category name="Yemek öğütücü ve presleri" id="12.9.2.13" />
+				<category name="Kıyma makineleri" id="12.9.2.14" />
+				<category name="Doğrayıcılar" id="12.9.2.15" />
+				<category name="Dondurucular" id="12.9.2.16" />
+				<category name="Çöp öğütücüler" id="12.9.2.17" />
+				<category name="Isıtıcı tablolar/ Elektrikli ısıtıcılar"
+					id="12.9.2.18" />
+				<category name="Dondurma makineleri" id="12.9.2.19" />
+				<category name="Buz şekillendiriciler" id="12.9.2.20" />
+				<category name="Meyve suyu sıkıcılar" id="12.9.2.21" />
+				<category name="Bıçak bileğileri" id="12.9.2.22" />
+				<category name="Mikrodalga fırınlar" id="12.9.2.23" />
+				<category name="Mikserler" id="12.9.2.24" />
+				<category name="Mangallar" id="12.9.2.25" />
+				<category name="Fırınlar" id="12.9.2.26" />
+				<category name="Hamur yapma gereçleri" id="12.9.2.27" />
+				<category name=" Mısır patlatma makineleri" id="12.9.2.28" />
+				<category name="Buzdolapları" id="12.9.2.29" />
+				<category name="Pilav pişiricileri" id="12.9.2.30" />
+				<category name="Sandviç yapma makineleri" id="12.9.2.31" />
+				<category name="Buharlı pişiriciler " id="12.9.2.32" />
+				<category name="Ekmek ocakları" id="12.9.2.33" />
+				<category name="Ekmek kızartma makineleri" id="12.9.2.34" />
+				<category name="Çöp sıkıştırıcları" id="12.9.2.35" />
+				<category name="Waffle makineleri" id="12.9.2.36" />
+				<category name="Su damıtma cihazları" id="12.9.2.37" />
+				<category name="Yoğurt yapma makineleri" id="12.9.2.38" />
+			</category>
+			<category name="Hamur pişirme setleri" id="12.9.3">
+				<category name="pişirme ve kurabiye kalıpları" id="12.9.3.1" />
+				<category name="Ekmek kalıpları" id="12.9.3.2" />
+				<category name=" Kek kalıpları" id="12.9.3.3" />
+				<category name="Çörek kalıpları" id="12.9.3.4" />
+				<category name="Turta ve kiş kalıpları" id="12.9.3.5" />
+				<category name="Pizza tavaları" id="12.9.3.6" />
+				<category name="Pizza ocakları" id="12.9.3.7" />
+				<category name="Ramekin ve sufle kalıpları" id="12.9.3.8" />
+				<category name="Rosto tavaları" id="12.9.3.9" />
+			</category>
+			<category name="İçki setleri" id="12.9.4">
+				<category name="Biraz muslukları" id="12.9.4.1" />
+				<category name="Bardak altlıkları" id="12.9.4.2" />
+				<category name="Tirbüşonlar" id="12.9.4.3" />
+				<category name="Sürahiler" id="12.9.4.4" />
+				<category name="Karıştırıcılar ve İçeçek Aletleri" id="12.9.4.5" />
+			</category>
+			<category name="Yemek pişirme setleri" id="12.9.5">
+				<category name="Güveçler" id="12.9.5.1" />
+				<category name=" Buhar kazanları" id="12.9.5.2" />
+				<category name="Döküm tencereler" id="12.9.5.3" />
+				<category name=" Izgaralar" id="12.9.5.4" />
+				<category name="Düdüklü tencereler" id="12.9.5.5" />
+				<category name="Sos kapları" id="12.9.5.6" />
+				<category name="Tava ve kızartma tavaları" id="12.9.5.7" />
+				<category name="Derin tencereler" id="12.9.5.8" />
+				<category name="Demlik su ısıtıcıları" id="12.9.5.9" />
+				<category name="VoK tavalar" id="12.9.5.10" />
+			</category>
+			<category name="Yemek taşıma kapları" id="12.9.6">
+				<category name="Soğutucular" id="12.9.6.1" />
+				<category name="Yalıtımlı çantalar" id="12.9.6.2" />
+				<category name="Sefer tasları" id="12.9.6.3" />
+				<category name="Piknik sepetleri" id="12.9.6.4" />
+			</category>
+			<category name="Yiyecek saklama" id="12.9.7">
+				<category name="Kurabiye kavanozları" id="12.9.7.1" />
+				<category name="Yiyecek saklama kapları" id="12.9.7.2" />
+				<category name="Yiyecek saklama paketleri" id="12.9.7.3" />
+			</category>
+			<category name="Mutfak araç ve gereçleri" id="12.9.8">
+				<category name="Konserve açacakları" id="12.9.8.1" />
+				<category name="Süzgeç ve filtreler" id="12.9.8.2" />
+				<category name="Çatal bıçak takımı" id="12.9.8.3" />
+				<category name="Kesme tahtaları" id="12.9.8.4" />
+				<category name="Elektrikli bıçaklar" id="12.9.8.5" />
+				<category name="Folyolar" id="12.9.8.6" />
+				<category name="Düzenleyiciler" id="12.9.8.7" />
+				<category name="Fırın eldiveni ve tutacaklar" id="12.9.8.8" />
+			</category>
+			<category name="Sofra takımı" id="12.9.9">
+				<category name="Cezveler ve çay demlikleri" id="12.9.9.1" />
+				<category name="Yemek takımı" id="12.9.9.2" />
+				<category name="İçeçek Gereçleri" id="12.9.9.4">
+					<category name="Mataralar" id="12.9.9.4.1" />
+					<category name="Bardaklar" id="12.9.9.4.2" />
+					<category name="Su bardakları" id="12.9.9.4.2.1" />
+					<category name="Kısa bardaklar" id="12.9.9.4.2.2" />
+					<category name="Pint bardakları" id="12.9.9.4.2.3" />
+					<category name="Shot bardakları" id="12.9.9.4.2.4" />
+				</category>
+				<category name="İçki Kadehleri" id="12.9.9.4.3" />
+				<category name="Konyak/ brendi kadehleri" id="12.9.9.4.3.1" />
+				<category name="Şampanya kadehleri" id="12.9.9.4.3.2" />
+				<category name="Margarita bardakları" id="12.9.9.4.3.3" />
+				<category name="Martini bardakları" id="12.9.9.4.3.4" />
+				<category name="Şarap bardakları" id="12.9.9.4.3.5" />
+				<category name="Bira bardakları" id="12.9.9.4.3.5" />
+			</category>
+			<category name="Kupalar" id="12.9.9.4.3" />
+			<category name="Çatal bıçak takımı" id="12.9.9.4.4" />
+			<category name="Karıştırıcı ve değirmenler" id="12.9.9.4.5" />
+			<category name="Nihaleler" id="12.9.9.4.6" />
+		</category>
+		<category name="Çimenlik Alan ve Bahçe" id="12.10">
+		</category>
+		<category name="Işıklandırma" id="12.11">
+		</category>
+		<category name="Bitkiler" id="12.12">
+		</category>
+		<category name="Havuz ve Spa" id="12.13">
+		</category>
+		<category name="Sigara Aksesuarları" id="12.14">
+		</category>
+	</category>
+	
+<!--  FEHMI -->
+	<category name="Çantalar" id="a">
+		<category name="Sırt Çantaları" id="a.1" />
+		<category name="Evrak Çantaları" id="a.2" />
+		<category name="Kamera Çantaları" id="a.3" />
+		<category name="El Çantaları" id="a.4" />
+		<category name="Kamp Çantaları" id="a.5" />
+		<category name="Bel Çantaları" id="a.6" />
+		<category name="Elbise Çantaları" id="a.7" />
+		<category name="Dizüstü Bilgisayar Çantaları" id="a.8">
+			<category name="Dizüstü Bilgisayar Sırt Çantaları" id="a.8.1" />
+			<category name="Dizüstü Bilgisayar El Çantaları" id="a.8.2" />
+		</category>
+		<category name="Çanta Aksesuvarları" id="a.9" />
+		<category name="Kurye Çantaları" id="a.10" />
+		<category name="Cep Telefonu Kılıfları" id="a.11" />
+		<category name="Bavullar" id="a.12" />
+		<category name="Makyaj Çantaları" id="a.13" />
+		<category name="Cüzdan ve Bozuk Para Çantaları" id="a.14" />
+	</category>
+	<category name="Yetişkin" id="b">
+		<category name="Erotik" id="b.1">
+			<category name="Erotik Giyim" id="b.1.1" />
+			<category name="Erotik Videolar" id="b.1.2" />
+			<category name="Kişisel Yağlar" id="b.1.3" />
+			<category name="Seks Oyuncakrı" id="b.1.4" />
+			<category name="Cinsel ve Erotik Kitaplar" id="b.1.5" />
+		</category>
+		<category name="Silahlar" id="b.2">
+			<category name="Tabanca Aksesuvarları" id="b.2.1">
+				<category name="Cephane" id="b.2.1.1" />
+				<category name="Tabanca Kabzaları" id="b.2.1.2" />
+				<category name="Tabanca Kılıfları" id="b.2.1.3" />
+				<category name="Tabanca Rayları" id="b.2.1.4" />
+			</category>
+			<category name="Tabancalar" id="b.2.2" />
+			<category name="Göz Yaşı ve Biber Gazları" id="b.2.3" />
+			<category name="Kuru Sıkı ve Elektrikli Tabancalar" id="b.2.4" />
+		</category>
+	</category>
+	<category name="Medya" id="13">
+		<category name="Kitaplar" id="13.1">
+			<category name="Kurgusal" id="13.1.1">
+				<category name="Çizgi Romanlar" id="13.1.1.1" />
+				<category name="Korku" id="13.1.1.2" />
+				<category name="Edebiyat" id="13.1.1.3" />
+				<category name="Polisiye" id="13.1.1.4" />
+				<category name="Romantizm" id="13.1.1.5" />
+				<category name="Bilim Kurgu ve Fantazi" id="13.1.1.6" />
+			</category>
+			<category name="Kurgusal Olmayan" id="13.1.2">
+				<category name="Doga ve Hayvan Kitapları" id="13.1.2.1" />
+				<category name="Mimari Kitapları" id="13.1.2.2" />
+				<category name="Sanat Kitapları" id="13.1.2.3" />
+				<category name="Biyografiler" id="13.1.2.4" />
+				<category name="Beden, Akıl ve Ruh Kitapları" id="13.1.2.5" />
+				<category name="Ticaret ve Ekonomi Kitapları" id="13.1.2.6" />
+				<category name="Çocuk Kitapları" id="13.1.2.7" />
+				<category name="Bilgisayar Kitapları" id="13.1.2.8" />
+				<category name="Yemek Kitapları" id="13.1.2.9" />
+				<category name="El Sanatı, Hobi ve Aktivite Kitapları" id="13.1.2.10" />
+				<category name="Drama Kitapları" id="13.1.2.11" />
+				<category name="Eğitim" id="13.1.2.12">
+					<category name="Yabancı Dil Kitapları" id="13.1.2.12.1" />
+					<category name="Çalışma Kitapları" id="13.1.2.12.2" />
+				</category>
+				<category name="Akrabalık Kitapları" id="13.1.2.13" />
+				<category name="Oyun Kitapları" id="13.1.2.14" />
+				<category name="Bahçivanlık Kitapları" id="13.1.2.15" />
+				<category name="Sağlık ve Spor Kitapları" id="13.1.2.16" />
+				<category name="Tarih Kitapları" id="13.1.2.17" />
+				<category name="Ev Geliştirme Kitapları" id="13.1.2.18" />
+				<category name="Mizah Kitapları" id="13.1.2.19" />
+				<category name="Lisan Sanatları" id="13.1.2.20" />
+				<category name="Hukuk Kitapları" id="13.1.2.21" />
+				<category name="Edebi Kitaplar" id="13.1.2.22" />
+				<category name="Matematik Kitapları" id="13.1.2.23" />
+				<category name="Tıp Kitapları" id="13.1.2.24" />
+				<category name="Muzik Kitapları" id="13.1.2.25" />
+				<category name="Sahne Sanatları Kitapları" id="13.1.2.26" />
+				<category name="Evcil Hayvan Kitapları" id="13.1.2.27" />
+				<category name="Felsefe Kitapları" id="13.1.2.28" />
+				<category name="Fotoğrafçılık Kitapları" id="13.1.2.29" />
+				<category name="Şiir" id="13.1.2.30" />
+				<category name="Siyasi Bilimler Kitapları" id="13.1.2.31" />
+				<category name="Psikoloji Kitapları" id="13.1.2.32" />
+				<category name="Bulmaca Kitaplari" id="13.1.2.33" />
+				<category name="Referans Kitapları" id="13.1.2.34" />
+				<category name="Dini Kitaplar" id="13.1.2.35" />
+				<category name="Bilim Kitapları" id="13.1.2.36" />
+				<category name="Kişisel Gelişim Kitapları" id="13.1.2.37" />
+				<category name="Sosyal Bilimler Kitapları" id="13.1.2.38" />
+				<category name="Spor Kitapları" id="13.1.2.39" />
+				<category name="Teknoloji Kitapları" id="13.1.2.40" />
+				<category name="Ulaşım Kitapları" id="13.1.2.41" />
+				<category name="Seyahat Kitapları" id="13.1.2.42" />
+				<category name="Gerçek Suç Kitapları" id="13.1.2.43" />
+			</category>
+		</category>
+		<category name="DVD ve Videolar" id="13.2">
+			<category name="Aksiyon" id="13.2.1" />
+			<category name="Çocuk" id="13.2.2" />
+			<category name="Komedi" id="13.2.3" />
+			<category name="Dram" id="13.2.4" />
+			<category name="Yabancı" id="13.2.5" />
+			<category name="Korku" id="13.2.6" />
+			<category name="Sahne Sanatları Videoları" id="13.2.7" />
+			<category name="Dini Videolar" id="13.2.8" />
+			<category name="Bilim Kurgu" id="13.2.9" />
+			<category name="Spor Videoları" id="13.2.10" />
+			<category name="Televizyon Şovları" id="13.2.11" />
+			<category name="Kovboy Filmi" id="13.2.12" />
+		</category>
+		<category name="Magazin ve Gazeteler" id="13.3" />
+		<category name="Muzik" id="13.4">
+			<category name="Blues" id="13.4.1">
+				<category name="Chicago Blues" id="13.4.1.1" />
+				<category name="Country Blues" id="13.4.1.2" />
+				<category name="Delta Blues" id="13.4.1.3" />
+				<category name="East Coast Blues" id="13.4.1.4">
+					<category name="Piedmont Blues" id="13.4.1.4.1" />
+				</category>
+				<category name="Electric Blues" id="13.4.1.5" />
+				<category name="Harmonica Blues" id="13.4.1.6" />
+				<category name="Jump Blues ve Piano Blues" id="13.4.1.7" />
+				<category name="Louisiana Blues" id="13.4.1.8" />
+				<category name="Modern Electric Blues" id="13.4.1.9" />
+				<category name="Texas Blues" id="13.4.1.10" />
+			</category>
+			<category name="Klasik" id="13.4.2">
+				<category name="Avant-Garde" id="13.4.2.1" />
+				<category name="Bale" id="13.4.2.2" />
+				<category name="Chamber" id="13.4.2.3" />
+				<category name="Koro" id="13.4.2.4" />
+				<category name="Konçerto" id="13.4.2.5" />
+				<category name="Muzikal Tiyatro" id="13.4.2.6" />
+				<category name="Opera" id="13.4.2.7" />
+				<category name="Orkestra Müziği" id="13.4.2.8" />
+				<category name="Senfoni" id="13.4.2.9" />
+			</category>
+			<category name="Elektronik Müzik" id="13.4.3">
+				<category name="Dans" id="13.4.3.1">
+					<category name="Disko" id="13.4.3.1.1" />
+					<category name="House" id="13.4.3.1.2" />
+					<category name="Rave" id="13.4.3.1.3" />
+				</category>
+				<category name="Electronica" id="13.4.3.2">
+					<category name="Acid House" id="13.4.3.2.1" />
+					<category name="Ambient" id="13.4.3.2.2" />
+					<category name="Downbeat" id="13.4.3.2.3" />
+					<category name="Drill'n'bass" id="13.4.3.2.4" />
+					<category name="Electro" id="13.4.3.2.5" />
+					<category name="Gabba" id="13.4.3.2.6" />
+					<category name="Happy Hardcore" id="13.4.3.2.7" />
+					<category name="IDM" id="13.4.3.2.8" />
+					<category name="Jungle/Drum'n'bass" id="13.4.3.2.9" />
+					<category name="Techno" id="13.4.3.2.10" />
+					<category name="Trance" id="13.4.3.2.11" />
+					<category name="Trip-Hop" id="13.4.3.2.12" />
+				</category>
+				<category name="Hip-Hop ve Rap" id="13.4.3.3">
+					<category name="Gangsta Rap" id="13.4.3.3.1" />
+					<category name="Hip-Hop" id="13.4.3.3.2" />
+				</category>
+				<category name="Jazz" id="13.4.3.4">
+					<category name="Big Band ve Swing" id="13.4.3.4.1">
+						<category name="Salon Dansı" id="13.4.3.4.1.1" />
+						<category name="Big Band" id="13.4.3.4.1.2" />
+						<category name="Swing" id="13.4.3.4.1.3" />
+					</category>
+					<category name="Bop" id="13.4.3.4.2" />
+					<category name="Cool Jazz" id="13.4.3.4.3" />
+					<category name="Free Jazz" id="13.4.3.4.4" />
+					<category name="Fusion" id="13.4.3.4.5" />
+					<category name="Hard Bop" id="13.4.3.4.6" />
+					<category name="New Orleans ve Classic Jazz" id="13.4.3.4.7" />
+					<category name="Soul Jazz ve Groove" id="13.4.3.4.8" />
+				</category>
+				<category name="R;ampB ve Soul" id="13.4.3.4.3">
+					<category name="Doo Wop" id="13.4.3.4.3.1" />
+					<category name="Funk" id="13.4.3.4.3.2" />
+					<category name="Motown" id="13.4.3.4.3.3" />
+					<category name="R;ampB" id="13.4.3.4.3.4" />
+					<category name="Soul" id="13.4.3.4.3.5" />
+				</category>
+				<category name="Rock ve Pop" id="13.4.3.4.4">
+					<category name="Alternative ve Indie-Rock" id="13.4.3.4.4.1">
+						<category name="Alternative Country-Rock" id="13.4.3.4.4.1.1" />
+						<category name="Alternative Folk" id="13.4.3.4.4.1.2" />
+						<category name="Alternative Pop/Rock" id="13.4.3.4.4.1.3" />
+						<category name="Alternative Singer/Songwriter" id="13.4.3.4.4.1.4" />
+						<category name="Emo" id="13.4.3.4.4.1.5" />
+						<category name="Grunge" id="13.4.3.4.4.1.6" />
+						<category name="Indie Pop" id="13.4.3.4.4.1.7" />
+						<category name="Indie Rock" id="13.4.3.4.4.1.8" />
+						<category name="Industrial" id="13.4.3.4.4.1.9" />
+						<category name="Math Rock" id="13.4.3.4.4.1.10" />
+						<category name="Noise Pop" id="13.4.3.4.4.1.11" />
+						<category name="Post-Rock/Experimental" id="13.4.3.4.4.1.12" />
+						<category name="Punk-Pop" id="13.4.3.4.4.1.13" />
+						<category name="Twee Pop" id="13.4.3.4.4.1.14" />
+					</category>
+					<category name="Art-Rock ve Experimental" id="13.4.3.4.4.2" />
+					<category name="British Invasion" id="13.4.3.4.4.3" />
+					<category name="Europop" id="13.4.3.4.4.4" />
+					<category name="Folk ve Country Rock" id="13.4.3.4.4.5">
+						<category name="Country-Rock" id="13.4.3.4.4.5.1" />
+						<category name="Folk-Rock" id="13.4.3.4.4.5.2" />
+						<category name="Singer/Songwriter" id="13.4.3.4.4.5.3" />
+					</category>
+					<category name="Foreign Language Rock" id="13.4.3.4.4.6" />
+					<category name="Hard Rock ve Metal" id="13.4.3.4.4.7">
+						<category name="Death Metal/Black Metal" id="13.4.3.4.4.7.1" />
+						<category name="Glam Rock" id="13.4.3.4.4.7.2" />
+						<category name="Hard Rock" id="13.4.3.4.4.7.3" />
+						<category name="Heavy Metal" id="13.4.3.4.4.7.4" />
+					</category>
+					<category name="Pop" id="13.4.3.4.4.8" />
+					<category name="Psychedelic ve Garage" id="13.4.3.4.4.9">
+						<category name="Psychedelic" id="13.4.3.4.4.9.1" />
+					</category>
+					<category name="Punk ve New Wave" id="13.4.3.4.4.10">
+						<category name="Hardcore Punk" id="13.4.3.4.4.10.1" />
+						<category name="New Wave" id="13.4.3.4.4.10.2" />
+						<category name="Post-Punk" id="13.4.3.4.4.10.3" />
+						<category name="Punk" id="13.4.3.4.4.10.4" />
+					</category>
+					<category name="Rock And Roll ve Roots" id="13.4.3.4.4.11">
+						<category name="Blues-Rock" id="13.4.3.4.4.11.1" />
+						<category name="Cajun" id="13.4.3.4.4.11.2" />
+						<category name="Instrumental Rock" id="13.4.3.4.4.11.3" />
+						<category name="Jam Bands" id="13.4.3.4.4.11.4" />
+						<category name="Latin Rock" id="13.4.3.4.4.11.5" />
+						<category name="Rock ve Roll" id="13.4.3.4.4.11.6" />
+						<category name="Rockabilly" id="13.4.3.4.4.11.7" />
+						<category name="Roots Rock" id="13.4.3.4.4.11.8" />
+						<category name="Surf" id="13.4.3.4.4.11.9" />
+					</category>
+					<category name="Soft Rock" id="13.4.3.4.4.12">
+						<category name="Adult Contemporary" id="13.4.3.4.4.12.1" />
+						<category name="Easy Listening" id="13.4.3.4.4.12.2" />
+						<category name="New Age" id="13.4.3.4.4.12.3" />
+						<category name="Pop/Rock" id="13.4.3.4.4.12.4" />
+					</category>
+				</category>
+				<category name="Dünya" id="13.4.4">
+					<category name="Afrika" id="13.4.4.1" />
+					<category name="Avustralya Müziği" id="13.4.4.2" />
+					<category name="Kelt ve Britanya Adaları" id="13.4.4.3" />
+					<category name="Orta Asya" id="13.4.4.4" />
+					<category name="Doğu Avrupa" id="13.4.4.5" />
+					<category name="Uzak Doğu" id="13.4.4.6" />
+					<category name="Latin Amerika" id="13.4.4.7" />
+					<category name="Latin Jazz ve World Fusion" id="13.4.4.8" />
+					<category name="Akdeniz" id="13.4.4.9" />
+					<category name="Orta Doğu" id="13.4.4.10" />
+					<category name="Reggae ve Caribbean" id="13.4.4.11" />
+					<category name="İskandinavya" id="13.4.4.12" />
+					<category name="Güney Asya" id="13.4.4.13" />
+					<category name="Güney Pasifik" id="13.4.4.14" />
+					<category name="Güneydoğu" id="13.4.4.15" />
+					<category name="Tropikal" id="13.4.4.16" />
+					<category name="Batı Avrupa" id="13.4.4.17" />
+					<category name="Dünya Ritmi" id="13.4.4.18">
+						<category name="Etnik" id="13.4.4.18.1" />
+					</category>
+					<category name="Sheet Music" id="13.4.4.19" />
+				</category>
+			</category>
+		</category>
+	</category>
+	<category name="Motorlu Taşıtlar" id="14">
+		<category name="Ses ve Görüntü" id="14.1">
+			<category name="Araba CD Çalarları" id="14.1.1" />
+			<category name="Araba Stereo Yükselticileri" id="14.1.2" />
+			<category name="Araba Stereo Dengeleyicileri" id="14.1.3" />
+			<category name="Araba Stereo Alıcıları" id="14.1.4" />
+			<category name="Araba Stereo Hoparlöri" id="14.1.5" />
+			<category name="Araba Stereo Subwoofer" id="14.1.6" />
+			<category name="Araba Sarsıntı Korumaları" id="14.1.7" />
+			<category name="Araba Video Cihazları" id="14.1.8" />
+		</category>
+		<category name="Otomotiv Bakımı" id="14.2">
+			<category name="Otomotiv Temizliği" id="14.2.1">
+				<category name="Sprey Temizleyiciler" id="14.2.1.1" />
+				<category name="Araba Yıkama Fırçaları" id="14.2.1.2" />
+				<category name="Araba Yıkama Kimyasalları" id="14.2.1.3" />
+				<category name="Halı Temizleyicileri" id="14.2.1.4" />
+				<category name="Cam Temizleyicileri" id="14.2.1.5" />
+				<category name="Araç Lastiği Yıkama ve Parlatma" id="14.2.1.6" />
+				<category name="Döşeme Temizleyicileri" id="14.2.1.7" />
+				<category name="Cila ve Koruyucular" id="14.2.1.8" />
+			</category>
+			<category name="Otomotiv Dekor" id="14.2.2">
+				<category name="Anten Topları" id="14.2.2.1" />
+				<category name="Araba Kokuları" id="14.2.2.2" />
+				<category name="Otomotiv Çıkartmaları" id="14.2.2.3" />
+				<category name="Otomotiv Bayrakları" id="14.2.2.4" />
+				<category name="Tampon Çıkartmaları" id="14.2.2.5" />
+				<category name="Araba Koltuk Kılıfları" id="14.2.2.6" />
+				<category name="Araba Koltuk Duzenleyicileri" id="14.2.2.7" />
+				<category name="Gösterge Aksesuvarları" id="14.2.2.8" />
+			</category>
+			<category name="Sivilar" id="14.2.3">
+				<category name="Antifriz" id="14.2.3.1" />
+				<category name="Fren Yağı" id="14.2.3.2" />
+				<category name="Soğutma Sistemi Katkıları" id="14.2.3.3" />
+				<category name="Motor Yağ Gidericileri" id="14.2.3.4" />
+				<category name="Yakıt Sistemi Temizleyicileri" id="14.2.3.5" />
+				<category name="Yağlar" id="14.2.3.6" />
+				<category name="Hidrolik Debriyaj Yağı" id="14.2.3.7" />
+				<category name="Motor Yağı" id="14.2.3.8" />
+				<category name="Performans Katkıları" id="14.2.3.9" />
+				<category name="Güç Direksiyon Yağı" id="14.2.3.10" />
+				<category name="Şanzıman Yağı" id="14.2.3.11" />
+				<category name="Ön Cam Suyu" id="14.2.3.12" />
+			</category>
+			<category name="Lastik Bakımı" id="14.2.4">
+				<category name="Cant Kapağı" id="14.2.4.1" />
+				<category name="Lastik Kılıfı" id="14.2.4.2" />
+				<category name="Lastik İşaretçileri" id="14.2.4.3" />
+				<category name="Lastik Basınç Sensörleri ve Ölçüm Cihazları"
+					id="14.2.4.4" />
+				<category name="Lastik Sübap Kapakları" id="14.2.4.5" />
+			</category>
+		</category>
+		<category name="Otomativ Dış Donanım" id="14.3">
+			<category name="Splitters Otomativ Diffüzörleri ve Otomativ Dağıtıcılar"
+				id="14.3.1" />
+			<category name="Otomativ Kapı Parçaları" id="14.3.2" />
+			<category name="Otomativ Kapılar" id="14.3.3" />
+			<category name="Otomativ Pencere Parçaları" id="14.3.4" />
+			<category name="Tampon Parçaları" id="14.3.5" />
+			<category name="Tamponlar" id="14.3.6" />
+			<category name="Güneşlikler" id="14.3.7" />
+			<category name="Tavanlar" id="14.3.8" />
+			<category name="Plakalar" id="14.3.9" />
+			<category name="Spoyler" id="14.3.10" />
+			<category name="Sunroof" id="14.3.11" />
+			<category name="Kamyon Yatağı Parçaları" id="14.3.12" />
+			<category name="Kamyon Yatakları" id="14.3.13" />
+			<category name="Vinç Parçaları" id="14.3.14" />
+		</category>
+		<category name="Otomativ İç Donanım" id="14.4">
+			<category name="Otomativ Kolçaklar" id="14.4.1" />
+			<category name="Otomativ Arkalıklar" id="14.4.2" />
+			<category name="Otomativ Halılar" id="14.4.3" />
+			<category name="Otomativ Sigortalar" id="14.4.4" />
+			<category name="Araba Paspasları" id="14.4.5" />
+			<category name="Araba Koltuk Minderleri" id="14.4.6" />
+			<category name="Araba Koltukları" id="14.4.7" />
+			<category name="Çakmak Girişleri" id="14.4.8" />
+			<category name="Bardak Tutucular" id="14.4.9" />
+			<category name="Tavan Döşemeleri" id="14.4.10" />
+			<category name="İç Aydınlatma" id="14.4.11" />
+			<category name="Güç Ayarlı Koltuklar" id="14.4.12" />
+			<category name="Güç Ayarlı Pencereler" id="14.4.13" />
+			<category name="Güneşlikler" id="14.4.14" />
+		</category>
+		<category name="Otomativ Kilit Sistemleri" id="14.5">
+			<category name="Çocuk Güvenlik Kilitleri" id="14.5.1" />
+			<category name="İmmobiliser" id="14.5.2" />
+			<category name="Kilit Göbekleri" id="14.5.3" />
+			<category name="Güç Ayarlı Kapı Kilitleri" id="14.5.4" />
+			<category name="Anahtarsız Uzaktan Kumandalı Sistemler" id="14.5.5" />
+			<category name="Direksiyon Kilitleri" id="14.5.6" />
+		</category>
+		<category name="Otomativ İzleme Donanımı" id="14.6">
+			<category name="Otomativ Yolculuk Bilgisayarları" id="14.6.1" />
+			<category name="Araba Alarmları" id="14.6.2" />
+			<category name="Motor Kontrol Birimi Parçaları" id="14.6.3" />
+			<category name="Yakıt Ölçerler" id="14.6.4" />
+			<category name="Kilometre Sayacı" id="14.6.5" />
+			<category name="Radar Dedektörleri ve Sinyal Bozucu" id="14.6.6" />
+			<category name="Hız Ölçerler" id="14.6.7" />
+			<category name="Takometre" id="14.6.8" />
+			<category name="Araç Takip Sistemleri" id="14.6.9" />
+		</category>
+		<category name="Otomativ Parçalar" id="14.7">
+			<category name="Havalandırma Parçaları" id="14.7.1">
+				<category name="Otomativ Hava Filtreleri" id="14.7.1.1" />
+				<category name="Otomativ Hava Manifoltları" id="14.7.1.2" />
+				<category name="Otomativ Hava Pompası Parçaları" id="14.7.1.3" />
+				<category name="Otomativ Hava Pompaları" id="14.7.1.4" />
+			</category>
+			<category name="Otomativ Aküler" id="14.7.2">
+				<category name="Akü Parçaları" id="14.7.2.1" />
+				<category name="Yakıt Hücreleri" id="14.7.2.2" />
+				<category name="Hibrid Aküler" id="14.7.2.3" />
+			</category>
+			<category name="Otomativ Kemerleri" id="14.7.3" />
+			<category name="Otomativ Frenleri" id="14.7.4">
+				<category name="Otomativ Fren Parçaları" id="14.7.4.1" />
+				<category name="Otomativ Manuel Fren Parçaları" id="14.7.4.2" />
+				<category name="Park Fren Parçaları" id="14.7.4.3" />
+			</category>
+			<category name="Otomativ Klima Kontrolü" id="14.7.5">
+				<category name="Otomativ Klime Parçaları" id="14.7.5.1" />
+				<category name="Otomativ Fan Parçaları" id="14.7.5.2" />
+				<category name="Otomativ Buz Çözücü Parçaları" id="14.7.5.3" />
+				<category name="Otomativ Isıtıcı Parçaları" id="14.7.5.4" />
+				<category name="Otomativ Isı Kontrolleri" id="14.7.5.5" />
+			</category>
+			<category name="Otomativ Motor Parçaları" id="14.7.6">
+				<category name="Alternatör Parçaları" id="14.7.6.1" />
+				<category name="Alternatörler" id="14.7.6.2" />
+				<category name="Otomativ Kompresörleri" id="14.7.6.3" />
+				<category name="Otomativ Vakum Pompası Parçaları" id="14.7.6.4" />
+				<category name="Eksantrik Mili Parçaları" id="14.7.6.5" />
+				<category name="Eksantrik Mili" id="14.7.6.6" />
+				<category name="Karbürotör Parçaları" id="14.7.6.7" />
+				<category name="Karbüratörler" id="14.7.6.8" />
+				<category name="Debriyaj Parçaları" id="14.7.6.9" />
+				<category name="Komprasör Parçaları" id="14.7.6.10" />
+				<category name="Krank Mili Parçaları" id="14.7.6.11" />
+				<category name="Krank Milleri" id="14.7.6.12" />
+				<category name="Silindir Başlıkları ve Parçaları" id="14.7.6.13" />
+				<category name="Motor Zamanlama Parçaları" id="14.7.6.14">
+					<category name="Motor Zamanlama Kuşakları" id="14.7.6.14.1" />
+				</category>
+				<category name="Volanlar ve Volan Parçaları" id="14.7.6.15" />
+				<category name="Contalar" id="14.7.6.16" />
+				<category name="Jenaratör Parçaları" id="14.7.6.17" />
+				<category name="Kontak Parçaları" id="14.7.6.18">
+					<category name="Kapasitör Boşaltım Kontak Parçaları" id="14.7.6.18.1" />
+					<category name="Distribütör Parçaları" id="14.7.6.18.2" />
+					<category name="Kontak Bobinleri" id="14.7.6.18.3" />
+					<category name="Bujiler" id="14.7.6.18.4" />
+				</category>
+				<category name="Piston Parçaları" id="14.7.6.19">
+					<category name="Şaft Mili" id="14.7.6.19.1" />
+					<category name="Piston Halkaları" id="14.7.6.19.2" />
+					<category name="Pistonlar" id="14.7.6.19.3" />
+				</category>
+				<category name="Radyatör Parçaları" id="14.7.6.20" />
+				<category name="Radyatörler" id="14.7.6.21" />
+				<category name="Marş Motoru Parçaları" id="14.7.6.22" />
+				<category name="Marş Motorları" id="14.7.6.23" />
+				<category name="Kompresör Parçaları" id="14.7.6.24" />
+			</category>
+			<category name="Otomativ Çıkış Donanımı" id="14.7.7">
+				<category name="Katalitik Konvertörle" id="14.7.7.1" />
+				<category name="Egsoz Dolaşım Parçaları" id="14.7.7.2" />
+				<category name="Egsoz Manifoltları" id="14.7.7.3" />
+				<category name="Susturucular ve Susturucu Parçaları" id="14.7.7.4" />
+				<category name="Oksijen Sensörleri ve Parçaları" id="14.7.7.5" />
+				<category name="Egzoz Borusu ve Egzoz Borusu Parçaları" id="14.7.7.6" />
+			</category>
+			<category name="Otomativ Yakıt Sistemleri" id="14.7.8">
+				<category name="Yakıt Enjeksiyonu Parçaları" id="14.7.8.1" />
+				<category name="Yakıt Enjektörleri" id="14.7.8.2" />
+				<category name="Yakıt Boruları ve Parçaları" id="14.7.8.3" />
+				<category name="Yakıt Pompası Parçaları" id="14.7.8.4" />
+				<category name="Yakıt Pompaları" id="14.7.8.5" />
+				<category name="Yakıt Göstergeleri ve Yakıt Filtreleri" id="14.7.8.6" />
+				<category name="Yakıt Tankı Parçaları" id="14.7.8.7" />
+				<category name="Yakıt Tankları" id="14.7.8.8" />
+				<category name="Azotlu Sistemler" id="14.7.8.9" />
+			</category>
+			<category name="Otomativ Sübaplar ve Otomativ Sübap Parçaları"
+				id="14.7.9" />
+			<category name="Otomativ Görünümü" id="14.7.10">
+				<category name="Otomativ Sis Lambaları" id="14.7.10.1" />
+				<category name="Otomativ Uyarı Işıkları" id="14.7.10.2" />
+				<category name="Otomativ Farlar" id="14.7.10.3" />
+				<category name="Otomativ Aydınlatma Parçaları" id="14.7.10.4">
+					<category name="Otomativ Aydınlatma Lambaları" id="14.7.10.4.1" />
+				</category>
+				<category name="Otomativ Ayna Parçaları" id="14.7.10.5" />
+				<category name="Otomativ Aynaları" id="14.7.10.6" />
+				<category name="Otomativ Arka Farları" id="14.7.10.7" />
+				<category name="Dönüş Sinyali Parçaları" id="14.7.10.8" />
+				<category name="Pencere ve Ön Camlar" id="14.7.10.9" />
+				<category name="Ön Cam Onarma Takımları" id="14.7.10.10" />
+				<category name="Ön Cam Silme Parçaları" id="14.7.10.11" />
+				<category name="Ön Cam Siliciler" id="14.7.10.12" />
+			</category>
+			<category name="Otomativ Tekerler Sistemleri" id="14.7.11">
+				<category name="Otomativ Jantları ve Otomativ Tekerlekleri"
+					id="14.7.11.1" />
+				<category name="Otomativ Lastikleri" id="14.7.11.2" />
+				<category name="Otomativ Tekerlek Parçaları" id="14.7.11.3" />
+				<category name="Lastik Aksesuarları" id="14.7.11.4" />
+			</category>
+			<category name="Yağ Dolaşımı" id="14.7.12">
+				<category name="Yağ Filtreleri" id="14.7.12.1" />
+				<category name="Yağ Pompalama Parçaları" id="14.7.12.2" />
+				<category name="Yağ Pompaları" id="14.7.12.3" />
+				<category name="Karter Yağ Hazneleri" id="14.7.12.4" />
+			</category>
+			<category name="Direksiyon Parçaları" id="14.7.13">
+				<category name="Dingil Pimi" id="14.7.13.1" />
+				<category name="Güç Kontrollü Parçalar" id="14.7.13.2" />
+				<category name="Direksiyon Kontrolleri" id="14.7.13.3">
+					<category name="Seyir Kontrol Parçaları" id="14.7.13.3.1" />
+					<category name="Far Kontrol Parçaları" id="14.7.13.3.2" />
+					<category name="Işıt Kısma Cihazları" id="14.7.13.3.3" />
+					<category name="Silecek Hızı Kontrolü Parçaları" id="14.7.13.3.4" />
+				</category>
+				<category name="Direksiyonlar" id="14.7.13.4" />
+			</category>
+			<category name="Süspansiyon Parçaları" id="14.7.14">
+				<category name="Amortisörler" id="14.7.14.1" />
+			</category>
+			<category name="Vites Parçaları" id="14.7.15">
+				<category name="Şaft Parçaları" id="14.7.15.1" />
+				<category name="Bilyalı Rulmanlar" id="14.7.15.2" />
+				<category name="Bağlantı Biyelleri" id="14.7.15.3" />
+				<category name="Diferansiyel" id="14.7.15.4" />
+				<category name="Aks Parçaları" id="14.7.15.5" />
+				<category name="Akslar" id="14.7.15.6" />
+				<category name="Vites Kutusu Parçaları" id="14.7.15.7" />
+				<category name="Vites Kutuları" id="14.7.15.8" />
+				<category name="Vitesler" id="14.7.15.9" />
+				<category name="Hareket Edebilir Kol Parçaları" id="14.7.15.10">
+					<category name="Hareket Edebilir Kol Kılıfları" id="14.7.15.10.1" />
+				</category>
+				<category name="Hareket Edebilir Kollar" id="14.7.15.11" />
+				<category name="Transfer Kutusu Parçaları" id="14.7.15.12" />
+			</category>
+		</category>
+		<category name="Otomativ Güvenlik Donanımı" id="14.8">
+			<category name="Motorsiklet Kaskları" id="14.8.1" />
+		</category>
+		<category name="Araçlar" id="14.9">
+			<category name="ATV'ler" id="14.9.1" />
+			<category name="Arabalar, Kamyonlar ve Kamyonetler" id="14.9.2" />
+			<category name="Go Cart" id="14.9.3" />
+			<category name="Motorsikletler" id="14.9.4" />
+			<category name="Otomatik Scooter" id="14.9.5" />
+			<category name="Dinlence Taşıtı" id="14.9.6" />
+		</category>
+	</category>
+	<category name="Ofis Malzemeleri" id="15">
+		<category name="Dosyalama ve Düzenleme" id="15.1">
+			<category name="Dosyalar ve Dosya Malzemeleri" id="15.1.1" />
+			<category name="CD/DVD Düzenleyiciler" id="15.1.2">
+				<category name="CD/DVD Çantaları ve Kapları" id="15.1.2.1" />
+				<category name="Mücevher Çantaları" id="15.1.2.2" />
+			</category>
+			<category name="Takvimler, Ajandalar ve Planlayıcılar" id="15.1.3" />
+			<category name="Kasalar" id="15.1.4" />
+			<category name="Masaüstü Düzenleyicileri" id="15.1.5" />
+			<category name="Dosya Dolapları" id="15.1.6" />
+			<category name="Dosya Klasörleri" id="15.1.7" />
+			<category name="Dosyalama Kutuları" id="15.1.8" />
+			<category name="Kat Kat Düzenleme" id="15.1.9" />
+		</category>
+		<category name="Genel Malzemeler" id="15.2">
+			<category name="Yapıştırıcılar" id="15.2.1">
+				<category name="Yapıştırıcı Bantlar" id="15.2.1.1" />
+			</category>
+			<category name="Düzelticiler" id="15.2.2">
+				<category name="Daksiller, Kalem ve Bantlar" id="15.2.2.1" />
+				<category name="Silgiler" id="15.2.2.2" />
+			</category>
+			<category name="Ataşlar ve Kıskaçlar" id="15.2.3" />
+			<category name="Kağıt Ürünleri" id="15.2.4">
+				<category name="Cilt Kağıdı" id="15.2.4.1" />
+				<category name="Sayfa İşaretleri" id="15.2.4.2" />
+				<category name="Kartvizitler" id="15.2.4.3" />
+				<category name="Kapak Kağıdı" id="15.2.4.4" />
+				<category name="Zarflar" id="15.2.4.5" />
+				<category name="Fişler" id="15.2.4.6" />
+				<category name="Etiketler" id="15.2.4.7" />
+				<category name="Defterler ve Not Defterleri" id="15.2.4.8" />
+				<category name="Yazıcı ve Fotokopi Kağıdı" id="15.2.4.9" />
+				<category name="Şeffaf Dosya" id="15.2.4.10" />
+			</category>
+			<category name="Lastik Bant" id="15.2.5" />
+			<category name="Zımbalar" id="15.2.6" />
+			<category name="Yapışkan Not Kağıtları ve Etiketler" id="15.2.7" />
+			<category name="Raptiyeler ve İğneler" id="15.2.8" />
+		</category>
+		<category name="İsim Levhaları" id="15.3" />
+		<category name="Ofis Malzemesi" id="15.4">
+			<category name="Dikte" id="15.4.1" />
+			<category name="Etiket Kalemleri" id="15.4.2" />
+			<category name="Pul" id="15.4.3" />
+			<category name="Kağıt Öğütücüler" id="15.4.4" />
+			<category name="Kayıt Cihazları" id="15.4.5" />
+			<category name="Daktilolar" id="15.4.6" />
+		</category>
+		<category name="Ofis Araç Gereçleri" id="15.5">
+			<category name="Çağrı Zilleri" id="15.5.1" />
+			<category name="Panolar" id="15.5.2" />
+			<category name="Büyüteçler" id="15.5.3" />
+			<category name="Ofis Cetvelleri" id="15.5.4" />
+			<category name="Kalemtıraşlar" id="15.5.5" />
+			<category name="Lastik Damgalar" id="15.5.6" />
+			<category name="Makaslar" id="15.5.7" />
+			<category name="Zımbalar" id="15.5.8" />
+			<category name="Yazı" id="15.5.9">
+				<category name="Tebeşirler" id="15.5.9.1" />
+				<category name="Renkli Kalemler" id="15.5.9.2" />
+				<category name="Keçeli Kalemler" id="15.5.9.3" />
+				<category name="Kurşun Kalemler" id="15.5.9.4" />
+				<category name="Tükenmez Kalemler" id="15.5.9.5" />
+			</category>
+		</category>
+		<category name="Kağıt Ambalajları" id="15.6">
+			<category name="Delik Zımbası" id="15.6.1" />
+			<category name="Kagit Kesicileri" id="15.6.2" />
+			<category name="Kağıt Kesme Aksesuarları" id="15.6.3">
+				<category name="Kağıt Kesme Standları" id="15.6.3.1" />
+			</category>
+			<category name="Kağıt Katlama Makinaları" id="15.6.4" />
+			<category name="Kağıt Tutacakları" id="15.6.5" />
+			<category name="Kağıt Tutucular" id="15.6.6" />
+			<category name="Kağıt Ağırlıkları" id="15.6.7" />
+		</category>
+		<category name="Sunum Malzemeleri" id="15.7">
+			<category name="Tahtalar" id="15.7.1" />
+			<category name="Gösterim Tahtaları" id="15.7.2">
+				<category name="Duyuru Panoları" id="15.7.2.1" />
+				<category name="Köpük Panolar" id="15.7.2.2" />
+				<category name="Montaj Panoları" id="15.7.2.3" />
+				<category name="Poster Panoları" id="15.7.2.4" />
+			</category>
+			<category name="Çizim Sehpaları" id="15.7.3" />
+			<category name="Lazer İşaretçileri" id="15.7.4" />
+			<category name="Kürsüler" id="15.7.5" />
+			<category name="Slaytlar" id="15.7.6" />
+			<category name="Beyaz Tahtalar" id="15.7.7" />
+		</category>
+		<category name="Sevkiyat Malzemeleri" id="15.8">
+			<category name="Paketleme Malzemeleri" id="15.8.1" />
+			<category name="Paketleme Bantı" id="15.8.2" />
+			<category name="Sevkiyat Kutuları" id="15.8.3" />
+		</category>
+		<category name="Tabelalar" id="15.9" />
+	</category>
+	<category name="Yiyecek, İçecek ve Tütün" id="8">
+		<category name="İçecekler" id="8.1">
+			<category name="Bira" id="8.1.1" />
+			<category name="Kakao" id="8.1.2" />
+			<category name="Kahve" id="8.1.3" />
+			<category name="Meyve Suyu" id="8.1.4" />
+			<category name="Likör ve Damıtılmış Alkollü İçki" id="8.1.5">
+				<category name="Konyak" id="8.1.5.1" />
+				<category name="Cin" id="8.1.5.2" />
+				<category name="Likörler" id="8.1.5.3" />
+				<category name="Rom" id="8.1.5.4" />
+				<category name="Schnapps" id="8.1.5.5" />
+				<category name="Tekila" id="8.1.5.6" />
+				<category name="Votka" id="8.1.5.7" />
+				<category name="Viski" id="8.1.5.8">
+					<category name="Amerikan Viskisi" id="8.1.5.8.1" />
+					<category name="Irlanda Viskisi" id="8.1.5.8.2" />
+					<category name="İskoç Viskisi" id="8.1.5.8.3" />
+				</category>
+				<category name="" id="8.1.5.9" />
+			</category>
+			<category name="Süt" id="8.1.6" />
+			<category name="Gazoz" id="8.1.7" />
+			<category name="Çay ve Bitki Çayları" id="8.1.8" />
+			<category name="Su" id="8.1.9">
+				<category name="Maden Suyu" id="8.1.9.10" />
+				<category name="Maden Sodası" id="8.1.9.11" />
+			</category>
+			<category name="Şarap" id="8.1.10">
+				<category name="Tatlı Şarap" id="8.1.10.1">
+					<category name="Port" id="8.1.10.1.1" />
+					<category name="Sherry" id="8.1.10.1.2" />
+					<category name="Vermouth" id="8.1.10.1.3" />
+				</category>
+			</category>
+		</category>
+		<category name="Yiyecekler" id="8.2">
+			<category name="Aperatifler ve Ara Öğün" id="8.2.1">
+				<category name="Cips" id="8.2.1.1" />
+				<category name="Kraker" id="8.2.1.2" />
+				<category name="Patlamış Mısır ve Patlamış Mısır Kekleri"
+					id="8.2.1.3" />
+				<category name="Pirinç Kekleri" id="8.2.1.4" />
+				<category name="Soya Kekleri" id="8.2.1.5" />
+			</category>
+			<category name="Pişmiş Ürünler" id="8.2.2">
+				<category name="Simitler" id="8.2.2.1" />
+				<category name="Ekmekler ve Çörekler" id="8.2.2.2" />
+				<category name="Kekler ve Çikolatalı Kekler" id="8.2.2.3" />
+				<category name="Kurabiyeler" id="8.2.2.4" />
+				<category name="Muffin" id="8.2.2.5" />
+			</category>
+			<category name="Şeker ve Sakız" id="8.2.3" />
+			<category name="Konserve ve Paket Ürünler" id="8.2.4" />
+			<category name="Baharatlar, Çeşniler ve Soslar" id="8.2.5">
+				<category name="Barbekü Sosu" id="8.2.5." />
+				<category name="Yemeklik Yağlar" id="8.2.5.1" />
+				<category name="Zeytimn Yağları" id="8.2.5.2" />
+				<category name="Bitkisel Yağlar" id="8.2.5.3" />
+				<category name="Reçeller ve Jöleler" id="8.2.5.4" />
+				<category name="Ketçap" id="8.2.5.5" />
+				<category name="Mayonez" id="8.2.5.6" />
+				<category name="Hardal" id="8.2.5.7" />
+				<category name="Salata Sosları ve Salata Malzemeleri" id="8.2.5.8" />
+				<category name="Salsa" id="8.2.5.9" />
+				<category name="Baharatlar" id="8.2.5.10" />
+				<category name="Biftek Sosu" id="8.2.5.11" />
+				<category name="Sirke" id="8.2.5.12" />
+			</category>
+			<category name="Pişirme Malzemeleri" id="8.2.6">
+				<category name="Pişirme Karışımları" id="8.2.6.1" />
+				<category name="Kabartma Tozu" id="8.2.6.2" />
+				<category name="Un" id="8.2.6.3" />
+				<category name="Maya" id="8.2.6.4" />
+			</category>
+			<category name="Süt Ürünleri" id="8.2.7">
+				<category name="Peynir" id="8.2.7.1" />
+				<category name="Süzme Peynir" id="8.2.7.2" />
+				<category name="Dondurma" id="8.2.7.3" />
+				<category name="Yoğurt" id="8.2.7.4" />
+			</category>
+			<category name="Yiyecek Hediye Sepetleri " id="8.2.8" />
+			<category name="Meyveler ve Sebzeler" id="8.2.7.9">
+				<category name="Kurutulmuş Meyveler" id="8.2.9.1" />
+			</category>
+			<category name="Tahıllar, Pirinç ve Mısır Gevrekleri" id="8.2.10" />
+			<category name="Et ve Deniz Ürünleri" id="8.2.11" />
+			<category name="Çerezler" id="8.2.12" />
+			<category name="Makarna ve Erişte" id="8.2.13" />
+			<category name="Çorbalar ve Etsuyu" id="8.2.14" />
+		</category>
+		<category name="Tütün Ürünleri" id="8.3" />
+	</category>
+</category>

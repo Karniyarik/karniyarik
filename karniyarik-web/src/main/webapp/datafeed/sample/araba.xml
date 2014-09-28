@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arabalar xmlns="http://www.karniyarik.com"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.karniyarik.com/datafeed/xsd/car.xsd">
+	
+	<araba>
+		<isim>Satılık İkinci El Oto Porsche 911 Turbo</isim>
+		<marka>Porsche</marka>
+		<fiyat>177500.00</fiyat>
+		<birim>EUR</birim>
+		<id></id>
+		<kategori></kategori>
+		<url>http://www.test.com/araba/porsche-911-turbo/44149/</url>
+		<resim>http://www.test.com/img/cars/6068689227.JPG</resim>
+		<kilometre>25000</kilometre>
+		<modelyili>2008</modelyili>
+		<motorgucu>480</motorgucu>
+		<motorhacmi>4000</motorhacmi>
+		<renk>Siyah</renk>
+		<sehir>İstanbul</sehir>
+		<vites_tipi>Otomatik</vites_tipi>
+		<yakit_tipi>Benzin</yakit_tipi>		
+	</araba>
+</arabalar>

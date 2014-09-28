@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://www.karniyarik.com/schema">
+	<items name="model">
+		<item name="A4">
+			<alternatenames>
+				<name>A4i</name>
+				<name>A4i</name>
+			</alternatenames>
+			<references>
+				<reference id="brand.Audi"/>
+				<reference id="brand.Audi"/>
+			</references>
+		</item>
+		<item name="A4">
+			<alternatenames>
+				<name>A4i</name>
+				<name>A4i</name>
+			</alternatenames>
+			<references>
+				<reference id="brand.Audi"/>
+				<reference id="brand.Audi"/>
+			</references>
+		</item>		
+	</items>
+
+	<items name="model">
+		<item name="A4">
+			<alternatenames>
+				<name>A4i</name>
+				<name>A4i</name>
+			</alternatenames>
+			<references>
+				<reference id="brand.Audi"/>
+				<reference id="brand.Audi"/>
+			</references>
+		</item>
+		<item name="A4">
+			<alternatenames>
+				<name>A4i</name>
+				<name>A4i</name>
+			</alternatenames>
+			<references>
+				<reference id="brand.Audi"/>
+				<reference id="brand.Audi"/>
+			</references>
+		</item>		
+	</items>
+	
+</root>

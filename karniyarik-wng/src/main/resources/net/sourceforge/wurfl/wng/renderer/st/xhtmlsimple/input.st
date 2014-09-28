@@ -1,0 +1,1 @@
+<input $inputAttr(input=component)$ />

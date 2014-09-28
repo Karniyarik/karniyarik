@@ -1,0 +1,9 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>Karnıyarık Araba</ShortName>
+	<Description>Araba arama motoru</Description>
+	<InputEncoding>UTF-8</InputEncoding>
+	<Image width="16" height="16" type="image/x-icon">http://www.karniyarik.com/images/favicon.ico</Image>
+	<Url type="text/html" method="get" template="http://www.karniyarik.com/araba/{searchTerms}-fiyatlari" />
+	<Url type="application/x-suggestions+json" template="http://www.karniyarik.com/rest/autocomplete?c=2&amp;os=true&amp;term={searchTerms}"/>
+	<moz:SearchForm>searchFormURL</moz:SearchForm>
+</OpenSearchDescription>

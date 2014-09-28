@@ -1,0 +1,53 @@
+group common;
+
+// My nice template group file
+
+// A simple template
+sometemplate(anarg) ::= <<
+Look, here's my input: <anarg>
+blah blah
+>>
+
+// can also use " " around the template if it's one line
+anothertemplate(arg2) ::= "blah blah <arg2> blah"
+
+MyMap ::= [
+"mon":"Monday",
+"tue":"Tuesday",
+"wed":"Wednesday",
+default:"null"
+]
+
+attr(name,value) ::= <<
+$\ $$name$="$value$"
+>>
+
+nnAttr(name,value) ::= <<
+$if(value)$
+$\ $$name$="$value$"
+$endif$
+>>
+
+renderChildren(children) ::= << 
+	$children:{child | $child$}$ 
+>>
+
+renderChildren(children, separator) ::= << 
+<$children$; separator=$separator$> 
+>>
+
+oddRow() ::= "<tr class='odd'><td>$it$</td></tr>" 
+evenRow() ::= "<tr class='even'><td>$it$</td></tr>" 
+
+
+lastCell(even) ::= <<
+$if(even)$
+$row(it=it)$
+$else$
+<tr>
+$row(it=it)$
+$row(it="")$
+$endif$
+</tr>
+>>
+

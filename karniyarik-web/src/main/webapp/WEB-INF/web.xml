@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+	<welcome-file-list>
+		<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
+	<error-page>
+		<error-code>404</error-code>
+		<location>/404.jsp</location>
+	</error-page>
+	<error-page>
+		<error-code>403</error-code>
+		<location>/error.jsp</location>
+	</error-page>
+	<error-page>
+		<error-code>405</error-code>
+		<location>/error.jsp</location>
+	</error-page>
+	<error-page>
+		<error-code>500</error-code>
+		<location>/error.jsp</location>
+	</error-page>
+	<error-page>
+		<error-code>501</error-code>
+		<location>/error.jsp</location>
+	</error-page>
+	<error-page>
+		<error-code>502</error-code>
+		<location>/error.jsp</location>
+	</error-page>
+	<error-page>
+		<error-code>503</error-code>
+		<location>/error.jsp</location>
+	</error-page>
+	
+	
+	
+	<filter>
+		<filter-name>EncodingFilter</filter-name>
+		<filter-class>com.karniyarik.web.EncodingFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>EncodingFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+	
+	<filter>
+		<filter-name>UserAgentFilter</filter-name>
+		<filter-class>com.karniyarik.web.UserAgentFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>UserAgentFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>     
+
+     <filter>
+         <filter-name>UrlRewriteFilter</filter-name>
+         <filter-class>org.tuckey.web.filters.urlrewrite.UrlRewriteFilter</filter-class>
+         <init-param>
+             <param-name>logLevel</param-name>
+             <param-value>WARN</param-value>
+         </init-param>
+         <init-param>
+            <param-name>confReloadCheckInterval</param-name>
+            <param-value>60</param-value>
+        </init-param>
+        <init-param>
+            <param-name>statusEnabled</param-name>
+            <param-value>false</param-value>
+        </init-param>
+     </filter>
+     <filter-mapping>
+         <filter-name>UrlRewriteFilter</filter-name>
+         <url-pattern>/*</url-pattern>
+         <dispatcher>REQUEST</dispatcher>
+         <dispatcher>FORWARD</dispatcher>
+     </filter-mapping>
+
+	<filter>
+		<filter-name>WNGContextFilter</filter-name>
+		<filter-class>net.sourceforge.wurfl.wng.web.WNGContextFilter</filter-class>
+		
+		<!-- This is the default value -->
+		<!-- 
+		<init-param>
+			<param-name>wurflHolderKey</param-name>
+			<param-value>net.sourceforge.wurfl.core.WURFLHolder</param-value>
+		</init-param>
+		 -->
+	</filter>
+	<filter-mapping>
+		<filter-name>WNGContextFilter</filter-name>
+		<url-pattern>/m/*</url-pattern>
+		<dispatcher>REQUEST</dispatcher>
+        <dispatcher>FORWARD</dispatcher>
+	</filter-mapping>     
+     <!-- 
+     /urun/*
+     /araba/*
+     /emlak/*
+     /otel/*
+     /urun/*
+     /*/ne-kadar/*
+     /ne-kadar/*
+     %C3%BCr%C3%BCn/*
+     ürün/*
+     site/*
+     img/*
+     imgrsz/*
+     tarif/*
+     tarif
+     sehirfirsatlari/
+     sehirfirsatlari/*
+     sehirfirsatlari
+     sehir-firsati/* -->
+
+<!--	<servlet>-->
+<!--		<servlet-name>log4j-init</servlet-name>-->
+	<!--
+		<servlet-class>com.karniyarik.web.LogInitializationServlet</servlet-class>
+	-->
+<!--		<load-on-startup>1</load-on-startup>-->
+<!--	</servlet>-->
+
+	<servlet>
+		<servlet-name>image</servlet-name>
+		<servlet-class>com.karniyarik.web.servlet.image.ImageServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>image</servlet-name>
+		<url-pattern>/system/img</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>imgrsz</servlet-name>
+		<servlet-class>com.karniyarik.web.servlet.image.ImageResizeServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>imgrsz</servlet-name>
+		<url-pattern>/system/imgrsz</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>refreshindex</servlet-name>
+		<servlet-class>com.karniyarik.web.servlet.IndexRefreshServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>refreshindex</servlet-name>
+		<url-pattern>/system/refreshindex</url-pattern>
+	</servlet-mapping>
+	
+<!--	<servlet>-->
+<!--		<servlet-name>mergeindex</servlet-name>-->
+<!--		<servlet-class>com.karniyarik.web.servlet.IndexMergeServlet</servlet-class>-->
+<!--	</servlet>-->
+<!--	<servlet-mapping>-->
+<!--		<servlet-name>mergeindex</servlet-name>-->
+<!--		<url-pattern>/system/mergeindex</url-pattern>-->
+<!--	</servlet-mapping>-->
+
+<!--	<servlet>-->
+<!--		<servlet-name>backupindex</servlet-name>-->
+<!--		<servlet-class>com.karniyarik.web.servlet.IndexBackupServlet</servlet-class>-->
+<!--	</servlet>-->
+<!--	<servlet-mapping>-->
+<!--		<servlet-name>backupindex</servlet-name>-->
+<!--		<url-pattern>/system/backupindex</url-pattern>-->
+<!--	</servlet-mapping>-->
+	
+<!--	<servlet>-->
+<!--		<servlet-name>cleanindex</servlet-name>-->
+<!--		<servlet-class>com.karniyarik.web.servlet.IndexCleanServlet</servlet-class>-->
+<!--	</servlet>-->
+<!--	<servlet-mapping>-->
+<!--		<servlet-name>cleanindex</servlet-name>-->
+<!--		<url-pattern>/system/cleanindex</url-pattern>-->
+<!--	</servlet-mapping>-->
+	
+	<servlet>
+		<servlet-name>contactus</servlet-name>
+		<servlet-class>com.karniyarik.web.servlet.ContactServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>contactus</servlet-name>
+		<url-pattern>/system/contactus</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>addsite</servlet-name>
+		<servlet-class>com.karniyarik.web.servlet.AddSiteServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>addsite</servlet-name>
+		<url-pattern>/system/addsite</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>siteconfrefresh</servlet-name>
+		<servlet-class>com.karniyarik.web.servlet.SiteConfRefreshServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>siteconfrefresh</servlet-name>
+		<url-pattern>/system/siteconfrefresh</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>saveEmailAndCity</servlet-name>
+		<servlet-class>com.karniyarik.web.servlet.SaveEmailAndCityServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>saveEmailAndCity</servlet-name>
+		<url-pattern>/system/saveEmailAndCity</url-pattern>
+	</servlet-mapping>
+		
+	
+	
+	<servlet>
+		<servlet-name>sitesaveaction</servlet-name>
+		<servlet-class>com.karniyarik.web.site.servlet.SiteInfoSaveServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>sitesaveaction</servlet-name>
+		<url-pattern>/site/sitesaveaction</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>citydealrss</servlet-name>
+		<servlet-class>com.karniyarik.web.servlet.CityDealRssServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>citydealrss</servlet-name>
+		<url-pattern>/sehirfirsatlari/rss</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>citydealrss1</servlet-name>
+		<servlet-class>com.karniyarik.web.servlet.CityDealRssServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>citydealrss</servlet-name>
+		<url-pattern>/sehir-firsati/rss</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+        <servlet-name>KarniyarikWebAPI</servlet-name>
+        <servlet-class>com.sun.jersey.spi.container.servlet.ServletContainer</servlet-class>
+        <init-param>
+            <param-name>com.sun.jersey.config.property.packages</param-name>
+            <param-value>com.karniyarik.web.remote</param-value>
+        </init-param>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+	<servlet-mapping>
+    	<servlet-name>KarniyarikWebAPI</servlet-name>
+	    <url-pattern>/rest/*</url-pattern>
+	</servlet-mapping>
+	
+	 <servlet>
+        <servlet-name>StickyCaptcha</servlet-name>
+        <servlet-class>nl.captcha.servlet.SimpleCaptchaServlet</servlet-class>
+        <init-param>
+            <param-name>width</param-name>
+            <param-value>150</param-value>
+        </init-param>
+        <init-param>
+            <param-name>height</param-name>
+            <param-value>40</param-value>
+        </init-param>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>StickyCaptcha</servlet-name>
+        <url-pattern>/system/stickyImg</url-pattern>
+    </servlet-mapping>
+    
+	<resource-ref>
+		<description>Krnyrk DB Connection</description>
+		<res-ref-name>${datasource}</res-ref-name>
+		<res-type>javax.sql.DataSource</res-type>
+		<res-auth>Container</res-auth>
+	</resource-ref>
+
+	<resource-ref>
+		<description>Krnyrk Web DB Connection</description>
+		<res-ref-name>${webdatasource}</res-ref-name>
+		<res-type>javax.sql.DataSource</res-type>
+		<res-auth>Container</res-auth>
+	</resource-ref>
+	
+	<listener>
+		<listener-class>com.karniyarik.web.KarniyarikWebInitServlet</listener-class>
+	</listener>
+
+	<!--  WURFL -->
+	<context-param>
+	  <param-name>wurfl</param-name>
+	  <param-value>/WEB-INF/wurfl-latest.zip</param-value>
+	  <!-- http://downloads.sourceforge.net/project/wurfl/WURFL/latest/wurfl-latest.zip -->
+	</context-param>
+	<context-param>
+  		<param-name>wurflPatch</param-name>
+  		<param-value>/WEB-INF/web_browsers_patch.xml</param-value>
+	</context-param>
+	
+	<listener>
+	  <listener-class>
+	     net.sourceforge.wurfl.core.web.WURFLServletContextListener
+	  </listener-class>
+	</listener>	
+
+</web-app>

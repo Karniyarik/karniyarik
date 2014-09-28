@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE rdf:RDF 
+  [<!ENTITY vcard "http://www.w3.org/2006/vcard/ns#">
+  ]>
+
+<rdf:RDF
+    xmlns:gr="http://purl.org/goodrelations/v1#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns="http://www.karniyarik.com/goodrelations.rdf#"
+    xml:base="http://www.karniyarik.com/goodrelations.rdf">
+
+<owl:Ontology rdf:about="">
+  <owl:imports rdf:resource="http://purl.org/goodrelations/v1"/>
+  <owl:imports rdf:resource="http://www.w3.org/2006/vcard/ns"/>  
+  <rdfs:label xml:lang="en">RDF/XML data for Karniyarik Ltd., based on http://purl.org/goodrelations/</rdfs:label>
+</owl:Ontology>
+<gr:BusinessEntity rdf:ID="BusinessEntity">
+  <gr:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Karniyarik Ltd.</gr:legalName>
+  <rdfs:seeAlso rdf:resource="http://www.karniyarik.com/"/>
+  <vcard:adr>
+    <vcard:Address rdf:ID="address">
+      <vcard:street-address>KOSGEB Teknoloji Geliştirme Merkezi No:302  ODTÜ Teknokent</vcard:street-address>
+      <vcard:postal-code>06561 </vcard:postal-code>
+      <vcard:locality>Ankara</vcard:locality>
+      <vcard:country-name xml:lang="en">Turkey</vcard:country-name>
+      <vcard:tel>+90-312-2101300-312</vcard:tel>
+      <vcard:url rdf:resource="http://www.karniyarik.com/"/>
+      <vcard:email>info@karniyarik.com</vcard:email>
+    </vcard:Address>
+  </vcard:adr>
+  <gr:offers rdf:resource="#Offering_1"/>
+  <gr:hasPOS rdf:resource="#LOSOSP_1"/>
+  <rdfs:isDefinedBy rdf:resource=""/>
+</gr:BusinessEntity>
+
+<gr:Offering rdf:ID="Offering_1">
+  <rdfs:isDefinedBy rdf:resource=""/>
+  <gr:availableAtOrFrom rdf:resource="#LOSOSP_1"/>
+  <!-- step 2a -->
+  <!-- step 2b -->
+  <!-- step 3 -->
+  <gr:validFrom rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-01-01T00:00:00+02:00</gr:validFrom>
+  <gr:validThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-01-01T23:59:00+02:00</gr:validThrough>
+  <gr:eligibleRegions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TR</gr:eligibleRegions>
+  <gr:eligibleCustomerTypes rdf:resource="http://purl.org/goodrelations/v1#Enduser"/>
+  <!-- step 4 -->
+  <!-- step 5 -->
+</gr:Offering>
+
+<!-- step 1b -->
+<gr:LocationOfSalesOrServiceProvisioning rdf:ID="LOSOSP_1">
+  <rdfs:label xml:lang="en">Karniyarik LLC</rdfs:label>
+  <vcard:adr rdf:resource="#address"/>
+  <rdfs:isDefinedBy rdf:resource=""/>
+</gr:LocationOfSalesOrServiceProvisioning>
+
+
+</rdf:RDF>

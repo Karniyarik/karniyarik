@@ -1,0 +1,3 @@
+<card>
+  $children$
+</card>

@@ -1,0 +1,1648 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rootType>
+    <category instanceCount="0" id="1">
+        <category instanceCount="0" realPath="" id="1.1" name="Bilgisayar">
+            <category instanceCount="0" realPath="" id="1.1.1" name="Yazılım Ürünleri">
+                <category instanceCount="0" realPath="" id="1.1.1.1" name="Eğitim Yazılımları"/>
+                <category instanceCount="0" realPath="" id="1.1.1.2" name="Ticari Yazılımlar"/>
+                <category instanceCount="0" realPath="" id="1.1.1.3" name="Antivirüs Yazılımları"/>
+                <category instanceCount="0" realPath="" id="1.1.1.4" name="Oyun Yazılımları"/>
+				<category instanceCount="0" realPath="" id="1.1.1.5" name="Diğer Yazılımlar"/>				
+            </category>
+            <category instanceCount="0" realPath="" id="1.1.2" name="Aksesuar ve Sarf Malzemeleri">
+				<category instanceCount="0" realPath="" id="1.1.2.1" name="Diğer Bilgisayar Aksesuar ve Sarf Malzemeleri"/>
+                <category instanceCount="0" realPath="" id="1.1.2.2" name="Taşınabilir Disk Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.1.2.3" name="Barkod Aksesuarları"/>
+				<category instanceCount="0" realPath="" id="1.1.2.4" name="Notebook Aksesuarları"/>
+				<category instanceCount="0" realPath="" id="1.1.2.5" name="Toner ve Mürekkep Kartuşları"/>                
+                <category instanceCount="0" realPath="" id="1.1.2.6" name="CD ve DVD Saklama"/>
+                <category instanceCount="0" realPath="" id="1.1.2.7" name="Yazılabilir CD ve DVD"/>
+                <category instanceCount="0" realPath="" id="1.1.2.8" name="Temizlik Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.1.2.9" name="Kablolar"/>
+                <category instanceCount="0" realPath="" id="1.1.2.10" name="Mp3 Player Aksesuarları"/>				
+                <category instanceCount="0" realPath="" id="1.1.2.11" name="Usb Aksesuar"/> 
+                <category instanceCount="0" realPath="" id="1.1.2.12" name="Akım Koruyucular"/>
+                <category instanceCount="0" realPath="" id="1.1.2.13" name="Switch Box Ve Çoklayıcılar"/>      
+            </category>
+            <category instanceCount="0" realPath="" id="1.1.3" name="Bilgisayar Bileşenleri">
+                <category instanceCount="0" realPath="" id="1.1.3.1" name="Barkod Ürünleri">
+                    <category instanceCount="0" realPath="" id="1.1.3.1.1" name="Barkod Okuyucu"/>
+                    <category instanceCount="0" realPath="" id="1.1.3.1.2" name="Barkod Yazıcı"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.1.3.2" name="El Terminalleri"/>
+                <category instanceCount="0" realPath="" id="1.1.3.3" name="Hafıza Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.1.3.4" name="Ekran Kartları"/>
+				<category instanceCount="0" realPath="" id="1.1.3.5" name="PC Kasaları"/>
+				<category instanceCount="0" realPath="" id="1.1.3.6" name="Powersupply"/>
+                <category instanceCount="0" realPath="" id="1.1.3.7" name="Soğutucular / Overclock"/>
+                <category instanceCount="0" realPath="" id="1.1.3.8" name="Hard Diskler"/>
+				<category instanceCount="0" realPath="" id="1.1.3.9" name="Mouse"/>
+				<category instanceCount="0" realPath="" id="1.1.3.10" name="Klavye"/>
+                <category instanceCount="0" realPath="" id="1.1.3.11" name="Taşınabilir Diskler"/>
+                <category instanceCount="0" realPath="" id="1.1.3.12" name="Media Player"/>
+                <category instanceCount="0" realPath="" id="1.1.3.13" name="CD/DVD/Blu-Ray Yazıcılar"/>
+                <category instanceCount="0" realPath="" id="1.1.3.14" name="İşlemciler"/>
+                <category instanceCount="0" realPath="" id="1.1.3.15" name="Anakartlar"/>
+				<category instanceCount="0" realPath="" id="1.1.3.16" name="USB/Flash Bellekler"/>
+                <category instanceCount="0" realPath="" id="1.1.3.17" name="Yazıcılar">
+                    <category instanceCount="0" realPath="" id="1.1.3.17.1" name="Mürekkep Püskürtmeli"/>
+                    <category instanceCount="0" realPath="" id="1.1.3.17.2" name="Laser"/>     
+                    <category instanceCount="0" realPath="" id="1.1.3.17.3" name="Nokta Vuruşlu"/>                    
+					<category instanceCount="0" realPath="" id="1.1.3.17.4" name="Diğer Yazıcılar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.1.3.18" name="Ses Ve Görüntü Ürünleri">                    
+                    <category instanceCount="0" realPath="" id="1.1.3.18.1" name="Kulaklık / Mikrofon"/>
+                    <category instanceCount="0" realPath="" id="1.1.3.18.2" name="Ses Kartları"/>
+                    <category instanceCount="0" realPath="" id="1.1.3.18.3" name="TV Kartları"/>
+                    <category instanceCount="0" realPath="" id="1.1.3.18.4" name="Kameralar"/>
+                    <category instanceCount="0" realPath="" id="1.1.3.18.5" name="Speaker"/>                                        
+					<category instanceCount="0" realPath="" id="1.1.3.18.6" name="Diğer Ses ve Görüntü Sistemleri"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.1.3.19" name="Modemler"/>
+                <category instanceCount="0" realPath="" id="1.1.3.20" name="Network Ürünleri">
+                    <category instanceCount="0" realPath="" id="1.1.3.20.1" name="Kablosuz Aksesuarları"/>
+                    <category instanceCount="0" realPath="" id="1.1.3.20.2" name="Access Point / Router"/>                    
+                    <category instanceCount="0" realPath="" id="1.1.3.20.3" name="Ethernet Kartlar"/>
+                    <category instanceCount="0" realPath="" id="1.1.3.20.4" name="Switch"/>
+                    <category instanceCount="0" realPath="" id="1.1.3.20.5" name="Wireless Adaptör"/>
+                    <category instanceCount="0" realPath="" id="1.1.3.20.6" name="Bluetooth Ürünler"/>
+                    <category instanceCount="0" realPath="" id="1.1.3.20.7" name="NAS Sürücüler"/>
+					<category instanceCount="0" realPath="" id="1.1.3.20.8" name="Diğer Network Ürünleri"/>
+                </category>
+				
+                <category instanceCount="0" realPath="" id="1.1.3.21" name="Monitörler"/>
+                <category instanceCount="0" realPath="" id="1.1.3.22" name="Mp3 Player"/>                
+                <category instanceCount="0" realPath="" id="1.1.3.23" name="Kesintisiz Güç Kaynakları, UPS"/>
+                <category instanceCount="0" realPath="" id="1.1.3.24" name="USB / Firewire Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.1.3.25" name="Tarayıcılar"/>
+                <category instanceCount="0" realPath="" id="1.1.3.26" name="SSD"/>
+                <category instanceCount="0" realPath="" id="1.1.3.27" name="Ses Kayıt Cihazları"/>                
+                <category instanceCount="0" realPath="" id="1.1.3.28" name="Joystick / Gamepad"/>
+                <category instanceCount="0" realPath="" id="1.1.3.29" name="Internet Telefonları"/>
+                <category instanceCount="0" realPath="" id="1.1.3.30" name="Grafik Tabletler"/>                
+                <category instanceCount="0" realPath="" id="1.1.3.31" name="Diğer Bilgisayar Bileşenleri"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.1.4" name="Bilgisayarlar">
+                <category instanceCount="0" realPath="" id="1.1.4.1" name="Dizüstü Bilgisayarlar"/>
+                <category instanceCount="0" realPath="" id="1.1.4.2" name="Masaüstü Bilgisayar"/>
+                <category instanceCount="0" realPath="" id="1.1.4.3" name="Netbooklar (Mini Notebook)"/>                                
+                <category instanceCount="0" realPath="" id="1.1.4.4" name="Sunucular"/>                
+            </category>
+        </category>
+        <category instanceCount="0" realPath="" id="1.2" name="Ev Tekstil">
+			<category instanceCount="0" realPath="" id="1.2.1" name="Diğer Ev Tekstil"/>
+            <category instanceCount="0" realPath="" id="1.2.2" name="Yastıklar"/>
+            <category instanceCount="0" realPath="" id="1.2.3" name="Yorganlar"/>
+            <category instanceCount="0" realPath="" id="1.2.4" name="Nevresim Takımları ve Çarşaflar"/>
+            <category instanceCount="0" realPath="" id="1.2.5" name="Yer Paspasları"/>
+            <category instanceCount="0" realPath="" id="1.2.6" name="Yataklar"/>
+            <category instanceCount="0" realPath="" id="1.2.7" name="Yatak  Örtüleri"/>
+            <category instanceCount="0" realPath="" id="1.2.8" name="Uyku Setleri"/>
+            <category instanceCount="0" realPath="" id="1.2.9" name="Temizlik Bezleri ve Aparatları"/>
+            <category instanceCount="0" realPath="" id="1.2.10" name="Saklama Ürünleri"/>
+            <category instanceCount="0" realPath="" id="1.2.11" name="Pikeler"/>
+            <category instanceCount="0" realPath="" id="1.2.12" name="Perdeler"/>
+            <category instanceCount="0" realPath="" id="1.2.13" name="Örtüler"/>            
+            <category instanceCount="0" realPath="" id="1.2.14" name="Kilimler"/>
+            <category instanceCount="0" realPath="" id="1.2.15" name="Havlular"/>
+            <category instanceCount="0" realPath="" id="1.2.16" name="Halılar"/>            
+            <category instanceCount="0" realPath="" id="1.2.17" name="Duvar-Ahşap-Cam Sticker"/>            
+            <category instanceCount="0" realPath="" id="1.2.18" name="Battaniyeler"/>
+            <category instanceCount="0" realPath="" id="1.2.19" name="Banyo Takımları"/>
+            <category instanceCount="0" realPath="" id="1.2.20" name="Alezler"/>
+        </category>
+        <category instanceCount="0" realPath="" id="1.3" name="Ofis ve Kırtasiye">
+            <category instanceCount="0" realPath="" id="1.3.1" name="Kırtasiye Ürünleri">
+				<category instanceCount="0" realPath="" id="1.3.1.1" name="Diğer Kırtasiye Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.3.1.2" name="Zımba Telleri"/>            
+                <category instanceCount="0" realPath="" id="1.3.1.3" name="Etiktet Makineleri ve Etiketler"/>                
+                <category instanceCount="0" realPath="" id="1.3.1.4" name="Kağıtlar"/>
+                <category instanceCount="0" realPath="" id="1.3.1.5" name="Kalemler / Yazı Gereçleri"/>
+                <category instanceCount="0" realPath="" id="1.3.1.6" name="Bantlar"/>
+                <category instanceCount="0" realPath="" id="1.3.1.7" name="Klasörler ve Dosyalar"/>
+                <category instanceCount="0" realPath="" id="1.3.1.8" name="Sümen Takımları"/>
+                <category instanceCount="0" realPath="" id="1.3.1.9" name="Yazı Tahtaları ve Panolar"/>                
+                <category instanceCount="0" realPath="" id="1.3.1.10" name="Ayraç ve Seperatörler"/>
+                <category instanceCount="0" realPath="" id="1.3.1.11" name="Evrak Rafları"/>
+                <category instanceCount="0" realPath="" id="1.3.1.12" name="Zarflar"/>
+                <category instanceCount="0" realPath="" id="1.3.1.13" name="Ajanda,Takvim-Organizer"/>                                
+                <category instanceCount="0" realPath="" id="1.3.1.14" name="Kağıt Kıskaçları ve Zarf Açacakları"/>
+                <category instanceCount="0" realPath="" id="1.3.1.15" name="Ataçlar ve Toplu İğneler"/>
+                <category instanceCount="0" realPath="" id="1.3.1.16" name="Kalemlik ve Takvim Altlıkları"/>
+                <category instanceCount="0" realPath="" id="1.3.1.17" name="Bant Kesme Makinaları"/>
+                <category instanceCount="0" realPath="" id="1.3.1.18" name="Zımba Makinaları"/>
+                <category instanceCount="0" realPath="" id="1.3.1.19" name="Delgeçler"/>
+                <category instanceCount="0" realPath="" id="1.3.1.20" name="Yönlendirme Levhaları"/>
+                <category instanceCount="0" realPath="" id="1.3.1.21" name="Yapıştırıcılar"/>
+                <category instanceCount="0" realPath="" id="1.3.1.22" name="Teknik Çizim Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.3.1.23" name="Sanatsal Boya ve Hobi"/>
+                <category instanceCount="0" realPath="" id="1.3.1.24" name="Eğitim Ürünleri"/>                
+                <category instanceCount="0" realPath="" id="1.3.1.25" name="Post-It ve Notluk"/>
+                <category instanceCount="0" realPath="" id="1.3.1.26" name="Paket Lastikleri"/>
+                <category instanceCount="0" realPath="" id="1.3.1.27" name="Mantar-Halı Panolar"/>
+                <category instanceCount="0" realPath="" id="1.3.1.28" name="Makaslar ve Maket Bıçakları"/>
+                <category instanceCount="0" realPath="" id="1.3.1.29" name="Kaşe ve Istanpalar"/>
+                <category instanceCount="0" realPath="" id="1.3.1.30" name="Kartvizitlikler"/>
+                <category instanceCount="0" realPath="" id="1.3.1.31" name="Index - İşaretleyiciler"/>                
+                <category instanceCount="0" realPath="" id="1.3.1.32" name="Fihrist-Defter-Matbuu Evrak"/>
+                <category instanceCount="0" realPath="" id="1.3.1.33" name="Defter ve Bloknot"/>              
+                <category instanceCount="0" realPath="" id="1.3.1.34" name="Silgiler"/>                
+                <category instanceCount="0" realPath="" id="1.3.1.35" name="Pergeller"/>                                
+                <category instanceCount="0" realPath="" id="1.3.1.36" name="Kaplama Kağıtları"/>
+                <category instanceCount="0" realPath="" id="1.3.1.37" name="Kalemtraşlar"/>
+                <category instanceCount="0" realPath="" id="1.3.1.38" name="Cetveller"/>                
+                <category instanceCount="0" realPath="" id="1.3.1.39" name="Okul Çantaları"/>
+                <category instanceCount="0" realPath="" id="1.3.1.40" name="Fon Kartonu ve Elişi Kağıtları"/>
+                <category instanceCount="0" realPath="" id="1.3.1.41" name="Etiket ve Stickerler"/>
+                <category instanceCount="0" realPath="" id="1.3.1.42" name="Fırçalar"/>
+                <category instanceCount="0" realPath="" id="1.3.1.43" name="Defterler"/>                
+                <category instanceCount="0" realPath="" id="1.3.1.44" name="Boyalar ve Boya Kalemleri"/>				
+            </category>
+            <category instanceCount="0" realPath="" id="1.3.2" name="Ofis Makineleri">
+                <category instanceCount="0" realPath="" id="1.3.2.1" name="Yazarkasalar ve Teraziler"/>
+                <category instanceCount="0" realPath="" id="1.3.2.2" name="Tepegözler"/>
+                <category instanceCount="0" realPath="" id="1.3.2.3" name="Teleskop ve Mikroskop"/>
+				<category instanceCount="0" realPath="" id="1.3.2.4" name="Piller ve Şarj Cihazları"/>
+                <category instanceCount="0" realPath="" id="1.3.2.5" name="Projeksiyon Cihazları ve Aksesuarları">
+                    <category instanceCount="0" realPath="" id="1.3.2.5.1" name="Projeksiyon Cihazları"/>
+                    <category instanceCount="0" realPath="" id="1.3.2.5.2" name="Projeksiyon Aksesuarları"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.3.2.6" name="Hesap Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.3.2.7" name="Su Sebili-Buz Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.3.2.8" name="Slayt Mak.ve Episkoplar"/>
+                <category instanceCount="0" realPath="" id="1.3.2.9" name="Faks Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.3.2.10" name="Plastik Kart Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.3.2.11" name="Laminasyon Sistemleri"/>
+                <category instanceCount="0" realPath="" id="1.3.2.12" name="Para Sayma Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.3.2.13" name="Fotokopi Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.3.2.14" name="Kağıt Kesme Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.3.2.15" name="Evrak İmha Makineleri"/>                
+                <category instanceCount="0" realPath="" id="1.3.2.16" name="Ciltleme Sistemleri"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.3.3" name="Büro Mobilya ve Ekipmanları">
+                <category instanceCount="0" realPath="" id="1.3.3.1" name="Misafir ve Bekleme Koltukları"/>                
+                <category instanceCount="0" realPath="" id="1.3.3.2" name="Personel ve Yönetici Koltukları"/>
+                <category instanceCount="0" realPath="" id="1.3.3.3" name="Para Kasaları"/>
+                <category instanceCount="0" realPath="" id="1.3.3.4" name="Büro Dolapları ve Rafları"/>
+                <category instanceCount="0" realPath="" id="1.3.3.5" name="Soyunma Dolapları"/>			                                                
+                <category instanceCount="0" realPath="" id="1.3.3.6" name="Anahtar Dolapları"/>
+                <category instanceCount="0" realPath="" id="1.3.3.7" name="Ayaklı Küllük ve Çöp Kovaları"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.3.4" name="Kalemler / Yazı Gereçleri"/>
+			<category instanceCount="0" realPath="" id="1.3.5" name="Kalemler"/>                
+            <category instanceCount="0" realPath="" id="1.3.6" name="Şablonlar"/>            
+        </category>
+        <category instanceCount="0" realPath="" id="1.4" name="Telefon">
+            <category instanceCount="0" realPath="" id="1.4.1" name="Telsiz / Masaüstü Telefonlar">
+                <category instanceCount="0" realPath="" id="1.4.1.1" name="VoIP Telefonlar"/>
+                <category instanceCount="0" realPath="" id="1.4.1.2" name="Telsiz Telefon Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.4.1.3" name="Telsiz Telefonlar"/>
+                <category instanceCount="0" realPath="" id="1.4.1.4" name="Masaüstü Telefonlar"/>
+                <category instanceCount="0" realPath="" id="1.4.1.5" name="Masaüstü Telefon Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.4.1.6" name="Konferans Telefonları"/>
+                <category instanceCount="0" realPath="" id="1.4.1.7" name="Görüntülü Telefonlar"/>                
+            </category>
+            <category instanceCount="0" realPath="" id="1.4.2" name="Cep Telefonu">
+                <category instanceCount="0" realPath="" id="1.4.2.1" name="Bluetooth Ürünleri">
+                    <category instanceCount="0" realPath="" id="1.4.2.1.1" name="Bluetooth Araç Kitleri"/>
+                    <category instanceCount="0" realPath="" id="1.4.2.1.2" name="Bluetooth Kulaklıklar"/>
+                    <category instanceCount="0" realPath="" id="1.4.2.1.3" name="Bluetooth Gps Alıcılar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.4.2.2" name="Cep Telefonları"/>
+                <category instanceCount="0" realPath="" id="1.4.2.3" name="Şarj Cihazları"/>
+                <category instanceCount="0" realPath="" id="1.4.2.4" name="Kılıflar"/>
+                <category instanceCount="0" realPath="" id="1.4.2.5" name="Araç Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.4.2.6" name="Kulaklık Setleri"/>
+				<category instanceCount="0" realPath="" id="1.4.2.7" name="Operatör Başlıkları"/>
+                <category instanceCount="0" realPath="" id="1.4.2.8" name="Data Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.4.2.9" name="Piller"/>
+                <category instanceCount="0" realPath="" id="1.4.2.10" name="Multimedya Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.4.2.11" name="Temizlik - Hijyen Ürünler"/>
+                <category instanceCount="0" realPath="" id="1.4.2.12" name="Cep Telefonu Kaplamaları"/>                
+                <category instanceCount="0" realPath="" id="1.4.2.13" name="Kameralar"/>
+                <category instanceCount="0" realPath="" id="1.4.2.14" name="Elektromanyetik Koruyucular"/>
+                <category instanceCount="0" realPath="" id="1.4.2.15" name="Cep Telefonu Aksesuarları"/>                
+            </category>
+            <category instanceCount="0" realPath="" id="1.4.3" name="Telefon Santralleri">
+                <category instanceCount="0" realPath="" id="1.4.3.1" name="Telefon Santralleri"/>
+                 <category instanceCount="0" realPath="" id="1.4.3.2" name="Santral Aksesuarları"/>                
+            </category>
+            <category instanceCount="0" realPath="" id="1.4.4" name="Diğer İletişim Ürünleri">
+				<category instanceCount="0" realPath="" id="1.4.4.1" name="Navigasyon"/>
+                <category instanceCount="0" realPath="" id="1.4.4.2" name="Kontörler"/>
+                <category instanceCount="0" realPath="" id="1.4.4.3" name="Fct Sistemleri"/>
+                <category instanceCount="0" realPath="" id="1.4.4.4" name="Araç Takip Sistemleri"/>
+            </category>
+        </category>
+        <category instanceCount="0" realPath="" id="1.5" name="Beyaz Eşya ve Mutfak">
+            <category instanceCount="0" realPath="" id="1.5.1" name="Beyaz Eşya ve Ankastre">
+                <category instanceCount="0" realPath="" id="1.5.1.1" name="Su Sebili"/>
+                <category instanceCount="0" realPath="" id="1.5.1.2" name="Bulaşık Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.5.1.3" name="Çamaşır Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.5.1.4" name="Ocaklar"/>
+                <category instanceCount="0" realPath="" id="1.5.1.5" name="Buzdolapları"/>
+                <category instanceCount="0" realPath="" id="1.5.1.6" name="Fırınlar"/>
+                <category instanceCount="0" realPath="" id="1.5.1.7" name="Aspiratörler"/>
+                <category instanceCount="0" realPath="" id="1.5.1.8" name="Kurutma Makineleri"/>                
+                <category instanceCount="0" realPath="" id="1.5.1.9" name="Derin Dondurucular"/>
+                <category instanceCount="0" realPath="" id="1.5.1.10" name="Davlumbazlar"/>
+                <category instanceCount="0" realPath="" id="1.5.1.11" name="Ankastre Setler"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.5.2" name="Mutfak Gereçleri">
+				<category instanceCount="0" realPath="" id="1.5.2.1" name="Diğer"/>
+                <category instanceCount="0" realPath="" id="1.5.2.2" name="Meyve ve Sebzelik"/>
+                <category instanceCount="0" realPath="" id="1.5.2.3" name="Çay/Çaydanlık Setleri"/>
+                <category instanceCount="0" realPath="" id="1.5.2.4" name="Cezve Takımları"/>
+                <category instanceCount="0" realPath="" id="1.5.2.5" name="Düdüklü Tencereler / Aksesuarlar"/>
+                <category instanceCount="0" realPath="" id="1.5.2.6" name="Tencere Setleri"/>
+                <category instanceCount="0" realPath="" id="1.5.2.7" name="Mutfak Tartıları"/>
+                <category instanceCount="0" realPath="" id="1.5.2.8" name="Mutfak Ekipmanları"/>
+                <category instanceCount="0" realPath="" id="1.5.2.9" name="Bıçaklar"/>
+                <category instanceCount="0" realPath="" id="1.5.2.10" name="Tencereler"/>
+                <category instanceCount="0" realPath="" id="1.5.2.11" name="Termoslar"/>
+                <category instanceCount="0" realPath="" id="1.5.2.12" name="Tepsiler/Fırın Kapları"/>
+                <category instanceCount="0" realPath="" id="1.5.2.13" name="Tavalar"/>
+                <category instanceCount="0" realPath="" id="1.5.2.14" name="Tabaklar"/>
+                <category instanceCount="0" realPath="" id="1.5.2.15" name="Sürahi"/>
+                <category instanceCount="0" realPath="" id="1.5.2.16" name="Sosluk"/>
+                <category instanceCount="0" realPath="" id="1.5.2.17" name="Saklama Kapları/Kapakları"/>
+                <category instanceCount="0" realPath="" id="1.5.2.18" name="Rende"/>                
+                <category instanceCount="0" realPath="" id="1.5.2.19" name="Yemek/Kahvaltı Takımları"/>
+                <category instanceCount="0" realPath="" id="1.5.2.20" name="Mutfak Sarf Malzemeleri"/>
+                <category instanceCount="0" realPath="" id="1.5.2.21" name="Kavanoz"/>
+                <category instanceCount="0" realPath="" id="1.5.2.22" name="French Press/Kahve Makinesi"/>
+                <category instanceCount="0" realPath="" id="1.5.2.23" name="Fincanlar/Bardaklar"/>
+                <category instanceCount="0" realPath="" id="1.5.2.24" name="Baharat Setleri"/>
+                <category instanceCount="0" realPath="" id="1.5.2.25" name="Çatal/Kaşık/Bıçak ve Takımları"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.5.3" name="Elektrikli Mutfak Aletleri">
+				<category instanceCount="0" realPath="" id="1.5.3.1" name="Diğer"/>
+                <category instanceCount="0" realPath="" id="1.5.3.2" name="Su Arıtma/Tasarruf Cihazları"/>                
+                <category instanceCount="0" realPath="" id="1.5.3.3" name="Ekmek Yapma Makinesi"/>
+                <category instanceCount="0" realPath="" id="1.5.3.4" name="Mini/Midi Fırınlar"/>
+                <category instanceCount="0" realPath="" id="1.5.3.5" name="Elektrikli Tencere/Tavalar"/>
+                <category instanceCount="0" realPath="" id="1.5.3.6" name="Buharlı Pişiriciler"/>
+                <category instanceCount="0" realPath="" id="1.5.3.7" name="Mikrodalga Fırınlar"/>
+                <category instanceCount="0" realPath="" id="1.5.3.8" name="Meyva Sıkıcılar"/>
+                <category instanceCount="0" realPath="" id="1.5.3.9" name="Fritözler"/>
+                <category instanceCount="0" realPath="" id="1.5.3.10" name="Tost Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.5.3.11" name="Çay Kahve Makineleri / Filtre"/>
+                <category instanceCount="0" realPath="" id="1.5.3.12" name="Blender"/>
+                <category instanceCount="0" realPath="" id="1.5.3.13" name="Yoğurt Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.5.3.14" name="Waffle Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.5.3.15" name="Su Isıtıcılar"/>
+                <category instanceCount="0" realPath="" id="1.5.3.16" name="Semaverler"/>
+                <category instanceCount="0" realPath="" id="1.5.3.17" name="Mutfak Robotları"/>
+                <category instanceCount="0" realPath="" id="1.5.3.18" name="Mısır Patlatma Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.5.3.19" name="Mikserler"/>
+                <category instanceCount="0" realPath="" id="1.5.3.20" name="Meyve/Sebze Kurutucu"/>
+                <category instanceCount="0" realPath="" id="1.5.3.21" name="Krep Makinesi"/>
+                <category instanceCount="0" realPath="" id="1.5.3.22" name="Kıyma Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.5.3.23" name="Kahve Değirmeni/Öğütücü"/>
+                <category instanceCount="0" realPath="" id="1.5.3.24" name="Espresso/Cappuccino/Çikolata Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.5.3.25" name="Elektrikli Izgara-Barbekü"/>
+                <category instanceCount="0" realPath="" id="1.5.3.26" name="Elektrikli İçecek Soğutucular"/>
+                <category instanceCount="0" realPath="" id="1.5.3.27" name="Elektrikli Bıçaklar"/>
+                <category instanceCount="0" realPath="" id="1.5.3.28" name="Ekmek Kızartıcılar"/>
+                <category instanceCount="0" realPath="" id="1.5.3.29" name="Doğrayıcılar/Rondolar"/>
+                <category instanceCount="0" realPath="" id="1.5.3.30" name="Bıçak Bileyiciler"/>
+            </category>
+        </category>
+        <category instanceCount="0" realPath="" id="1.6" name="Yapı Market ve Hırdavat">
+            <category instanceCount="0" realPath="" id="1.6.1" name="Elektrik ve Aydınlatma">
+				<category instanceCount="0" realPath="" id="1.6.1.1" name="Diğer"/>
+                <category instanceCount="0" realPath="" id="1.6.1.2" name="Elektrik Tasarruf Cihazları"/>
+                <category instanceCount="0" realPath="" id="1.6.1.3" name="Zaman Saatleri"/>
+                <category instanceCount="0" realPath="" id="1.6.1.4" name="Uzatma Kablolar"/>
+                <category instanceCount="0" realPath="" id="1.6.1.5" name="Süs Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.6.1.6" name="Sigorta Kutuları"/>
+                <category instanceCount="0" realPath="" id="1.6.1.7" name="Masa Lambası"/>
+                <category instanceCount="0" realPath="" id="1.6.1.8" name="Sarkıt"/>
+                <category instanceCount="0" realPath="" id="1.6.1.9" name="Projektör"/>
+                <category instanceCount="0" realPath="" id="1.6.1.10" name="Ampul"/>
+                <category instanceCount="0" realPath="" id="1.6.1.11" name="Prizler"/>
+                <category instanceCount="0" realPath="" id="1.6.1.12" name="Avize"/>
+                <category instanceCount="0" realPath="" id="1.6.1.13" name="Anahtar"/>
+                <category instanceCount="0" realPath="" id="1.6.1.14" name="Lambader"/>
+                <category instanceCount="0" realPath="" id="1.6.1.15" name="Fişler"/>
+                <category instanceCount="0" realPath="" id="1.6.1.16" name="Armatür"/>
+                <category instanceCount="0" realPath="" id="1.6.1.17" name="Aplik"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.6.2" name="Kaldırma Ekipmanları">
+				<category instanceCount="0" realPath="" id="1.6.2.1" name="Diğer"/>
+                <category instanceCount="0" realPath="" id="1.6.2.2" name="Vinçler"/>
+                <category instanceCount="0" realPath="" id="1.6.2.3" name="Transpaletler"/>
+                <category instanceCount="0" realPath="" id="1.6.2.4" name="Paket Taşıma Arabaları"/>
+                <category instanceCount="0" realPath="" id="1.6.2.5" name="Krikolar"/>
+                <category instanceCount="0" realPath="" id="1.6.2.6" name="İstif Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.6.2.7" name="Platformlar"/>
+                <category instanceCount="0" realPath="" id="1.6.2.8" name="Ceraskal"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.6.3" name="Elektrikli El Aletleri">
+				<category instanceCount="0" realPath="" id="1.6.3.1" name="Diğer"/>
+                <category instanceCount="0" realPath="" id="1.6.3.2" name="Zımparalar"/>
+                <category instanceCount="0" realPath="" id="1.6.3.3" name="Torna Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.6.3.4" name="Tilki Kuyruğu"/>
+                <category instanceCount="0" realPath="" id="1.6.3.5" name="Tezgah Testere"/>
+                <category instanceCount="0" realPath="" id="1.6.3.6" name="Taşlamalar"/>
+                <category instanceCount="0" realPath="" id="1.6.3.7" name="Taş Motorları"/>
+                <category instanceCount="0" realPath="" id="1.6.3.8" name="Somun Sıkma Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.6.3.9" name="Şarjlı Tornavidalar"/>
+                <category instanceCount="0" realPath="" id="1.6.3.10" name="Saç ve Sünger Kesme"/>
+                <category instanceCount="0" realPath="" id="1.6.3.11" name="Metal Kesmeler"/>
+                <category instanceCount="0" realPath="" id="1.6.3.12" name="Polisaj Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.6.3.13" name="Planyalar"/>
+                <category instanceCount="0" realPath="" id="1.6.3.14" name="Matkaplar"/>
+                <category instanceCount="0" realPath="" id="1.6.3.15" name="Kırıcı / Deliciler"/>
+                <category instanceCount="0" realPath="" id="1.6.3.16" name="Lazer Ölçüm Cihazları"/>
+                <category instanceCount="0" realPath="" id="1.6.3.17" name="Kompresörler"/>
+                <category instanceCount="0" realPath="" id="1.6.3.18" name="Kaynak Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.6.3.19" name="Karot Makineleri ve Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.6.3.20" name="Karıştırıcılar"/>
+                <category instanceCount="0" realPath="" id="1.6.3.21" name="Jenaratörler"/>
+                <category instanceCount="0" realPath="" id="1.6.3.22" name="Isı Tabancaları"/>
+                <category instanceCount="0" realPath="" id="1.6.3.23" name="Gönye Kesmeler"/>
+                <category instanceCount="0" realPath="" id="1.6.3.24" name="Frezeler"/>
+                <category instanceCount="0" realPath="" id="1.6.3.25" name="Elektrikli Tornavidalar"/>
+                <category instanceCount="0" realPath="" id="1.6.3.26" name="Akülü Vidalamalar"/>
+                <category instanceCount="0" realPath="" id="1.6.3.27" name="Elektrikli Boya Tabancaları"/>
+                <category instanceCount="0" realPath="" id="1.6.3.28" name="Döşeme Tabancaları"/>
+                <category instanceCount="0" realPath="" id="1.6.3.29" name="Dijital Ölçü Aletleri"/>
+                <category instanceCount="0" realPath="" id="1.6.3.30" name="Dekupajlar"/>
+                <category instanceCount="0" realPath="" id="1.6.3.31" name="Daire - Sunta Kesme Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.6.3.32" name="Endüstriyel Tip Elektrik Süpürgesi"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.6.4" name="El Aletleri">
+                <category instanceCount="0" realPath="" id="1.6.4.1" name="Zımpara Kağıtları"/>
+                <category instanceCount="0" realPath="" id="1.6.4.2" name="Yapıştırıcılar / Silikonlar"/>
+                <category instanceCount="0" realPath="" id="1.6.4.3" name="Genel Bakım Spreyleri"/>
+                <category instanceCount="0" realPath="" id="1.6.4.4" name="Teknik Ölçüm Aletleri"/>
+                <category instanceCount="0" realPath="" id="1.6.4.5" name="Taşlama ve Kesici Diskler"/>
+                <category instanceCount="0" realPath="" id="1.6.4.6" name="Takım Çantaları"/>
+                <category instanceCount="0" realPath="" id="1.6.4.7" name="Su Terazileri (Eğim Ölçer)"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.8" name="Tornavidalar"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.9" name="Testereler"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.10" name="Avadanlık"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.11" name="Cetvel"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.12" name="Havya"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.13" name="Dremel Aksesuarları"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.14" name="Şerit Metreler"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.15" name="Çekiçler ve Baltalar"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.16" name="Rendeler"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.17" name="Kargaburun"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.18" name="Silikon Tabancası"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.19" name="Vidalama Dübel Seti"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.20" name="Penseler"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.21" name="Yan Keski"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.22" name="İngiliz Anahtarları"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.23" name="Lokma Takımları"/>
+				
+                <category instanceCount="0" realPath="" id="1.6.4.24" name="Seramik Malzemeleri">
+                    <category instanceCount="0" realPath="" id="1.6.4.24.1" name="Fırın Ekipmanları"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.24.2" name="Seramik Makinaları"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.24.3" name="Seramik El aletleri"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.24.4" name="Çamurlar"/>
+                    <category instanceCount="0" realPath="" id="1.6.4.24.5" name="Oksitler"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.6.4.25" name="Seramik Kesme Makinaları ve Aks"/>
+                <category instanceCount="0" realPath="" id="1.6.4.26" name="Pazar Arabaları"/>
+                <category instanceCount="0" realPath="" id="1.6.4.27" name="Merdivenler"/>
+                <category instanceCount="0" realPath="" id="1.6.4.28" name="Mengene ve İşkenceler"/>
+                <category instanceCount="0" realPath="" id="1.6.4.29" name="Matkap Uçları"/>
+                <category instanceCount="0" realPath="" id="1.6.4.30" name="Mala ve Fayans Tarakları"/>
+                <category instanceCount="0" realPath="" id="1.6.4.31" name="Kilitler"/>
+                <category instanceCount="0" realPath="" id="1.6.4.32" name="Kesme Kazıma Araçları"/>
+                <category instanceCount="0" realPath="" id="1.6.4.33" name="Kaynak Maskesi"/>
+                <category instanceCount="0" realPath="" id="1.6.4.34" name="Kapı ve Pencere Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.6.4.35" name="Kablo Makaraları"/>
+                <category instanceCount="0" realPath="" id="1.6.4.36" name="İskarpelalar"/>
+                <category instanceCount="0" realPath="" id="1.6.4.37" name="Isı Tabancası Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.6.4.38" name="İş Güvenliği Malzemeleri"/>
+                <category instanceCount="0" realPath="" id="1.6.4.39" name="Çok Amaçlı Setler"/>
+                <category instanceCount="0" realPath="" id="1.6.4.40" name="Aksesuar Setleri"/>
+                <category instanceCount="0" realPath="" id="1.6.4.41" name="Havalı Tabancalar"/>
+                <category instanceCount="0" realPath="" id="1.6.4.42" name="Havalı Tornavida Makinaları"/>
+                <category instanceCount="0" realPath="" id="1.6.4.43" name="Havalı Matkaplar"/>
+                <category instanceCount="0" realPath="" id="1.6.4.44" name="Havalı Taşlama Makinaları"/>
+                <category instanceCount="0" realPath="" id="1.6.4.45" name="Elmas Testereler"/>
+                <category instanceCount="0" realPath="" id="1.6.4.46" name="El Feneri"/>
+                <category instanceCount="0" realPath="" id="1.6.4.47" name="Dekupaj Testere Bıçakları"/>
+                <category instanceCount="0" realPath="" id="1.6.4.48" name="Blok Beton Karo Kırıcılar"/>
+            </category>
+        </category>
+        <category instanceCount="0" realPath="" id="1.7" name="Ev Elektroniği">
+            <category instanceCount="0" realPath="" id="1.7.1" name="Elektrikli Ev Aletleri">
+				<category instanceCount="0" realPath="" id="1.7.1.1" name="Diğer"/>
+                <category instanceCount="0" realPath="" id="1.7.1.2" name="Temizlik Malzemeleri"/>
+                <category instanceCount="0" realPath="" id="1.7.1.3" name="Hava Temizleme ve Nemlendirme Cihazları"/>
+                <category instanceCount="0" realPath="" id="1.7.1.4" name="Zemin Parlatma Makinesi"/>
+                <category instanceCount="0" realPath="" id="1.7.1.5" name="Işıldak ve Fenerler"/>
+                <category instanceCount="0" realPath="" id="1.7.1.6" name="Şarjlı Süpürgeler"/>
+                <category instanceCount="0" realPath="" id="1.7.1.7" name="Dekoratif ve Tasarruflu Aydınlatma"/>
+                <category instanceCount="0" realPath="" id="1.7.1.8" name="Haşere ve Sinek Kovucular"/>
+                <category instanceCount="0" realPath="" id="1.7.1.9" name="Çamaşırlıklar/Çamaşır Kurutucu ve Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.7.1.10" name="Süpürgeler"/>
+                <category instanceCount="0" realPath="" id="1.7.1.11" name="Halı Yıkama Makinaları"/>
+                <category instanceCount="0" realPath="" id="1.7.1.12" name="Süpürge Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.7.1.13" name="Elbise Yün Temizleme Cihazları"/>
+                <category instanceCount="0" realPath="" id="1.7.1.14" name="Ütüler"/>
+                <category instanceCount="0" realPath="" id="1.7.1.15" name="Ütü Masaları ve Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.7.1.16" name="Buharlı Temizlik Makinaları"/>
+                <category instanceCount="0" realPath="" id="1.7.1.17" name="Tasarruf Cihazları"/>
+                <category instanceCount="0" realPath="" id="1.7.1.18" name="Saklama Poşetleri"/>
+                <category instanceCount="0" realPath="" id="1.7.1.19" name="Dikiş Makinaları ve Aksesuarları"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.7.2" name="Ses ve Görüntü Sistemleri">
+                <category instanceCount="0" realPath="" id="1.7.2.1" name="Dvd ve Blu-Ray Oynatıcılar">
+                    <category instanceCount="0" realPath="" id="1.7.2.1.1" name="DVD Oynatıcılar"/>
+                    <category instanceCount="0" realPath="" id="1.7.2.1.2" name="Portatif DVD Oynatıcılar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.7.2.2" name="Ev Sinema Paketleri"/>
+                <category instanceCount="0" realPath="" id="1.7.2.3" name="Uydu Alıcıları"/>
+                <category instanceCount="0" realPath="" id="1.7.2.4" name="Uydu Alıcısı Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.7.2.5" name="Tv Askı Aparatları"/>
+                <category instanceCount="0" realPath="" id="1.7.2.6" name="Lcd Televizyonlar"/>
+                <category instanceCount="0" realPath="" id="1.7.2.7" name="Kablo ve Sarf Malzemeler">
+                    <category instanceCount="0" realPath="" id="1.7.2.7.1" name="Kablo ve Soketler"/>
+                    <category instanceCount="0" realPath="" id="1.7.2.7.2" name="Uzaktan Kumandalar"/>
+                    <category instanceCount="0" realPath="" id="1.7.2.7.3" name="Ekran Temizleme Ürünleri"/>
+                    <category instanceCount="0" realPath="" id="1.7.2.7.4" name="Pil"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.7.2.8" name="LED Televizyonlar"/>
+                <category instanceCount="0" realPath="" id="1.7.2.9" name="Müzik Sistemleri">
+                    <category instanceCount="0" realPath="" id="1.7.2.9.1" name="Alarm Saatli Radyolar"/>
+                    <category instanceCount="0" realPath="" id="1.7.2.9.2" name="Mikro Sistemler"/>
+                    <category instanceCount="0" realPath="" id="1.7.2.9.3" name="Mini Midi Sistemler"/>
+                    <category instanceCount="0" realPath="" id="1.7.2.9.4" name="Portatif Sistemler"/>
+                    <category instanceCount="0" realPath="" id="1.7.2.9.5" name="Kablosuz Müzik Sistemi"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.7.2.10" name="Ev Sinema Hoparlörleri"/>
+                <category instanceCount="0" realPath="" id="1.7.2.11" name="Güvenlik Sistemleri">
+					<category instanceCount="0" realPath="" id="1.7.2.11.1" name="Diğer Güvenlik Sistemleri"/>                    
+                    <category instanceCount="0" realPath="" id="1.7.2.11.2" name="Alarm Sistemleri"/>
+                    <category instanceCount="0" realPath="" id="1.7.2.11.3" name="Dedektörler"/>
+                    <category instanceCount="0" realPath="" id="1.7.2.11.4" name="Alarm Sistemleri Aksesuarları"/>
+                    <category instanceCount="0" realPath="" id="1.7.2.11.5" name="Güvenlik  Kamerası"/>                    
+                </category>
+                <category instanceCount="0" realPath="" id="1.7.2.12" name="Receiver"/>
+                <category instanceCount="0" realPath="" id="1.7.2.13" name="Plazma Televizyonlar"/>
+                <category instanceCount="0" realPath="" id="1.7.2.14" name="Kulaklıklar"/>                
+                <category instanceCount="0" realPath="" id="1.7.2.15" name="Hoparlör Ayakları ve Askıları"/>
+                <category instanceCount="0" realPath="" id="1.7.2.16" name="Tüplü Televizyonlar"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.7.3" name="Isıtma ve Soğutma">
+                <category instanceCount="0" realPath="" id="1.7.3.1" name="Vantilatörler"/>
+                <category instanceCount="0" realPath="" id="1.7.3.2" name="Sobalar ve Isıtıcılar">
+                    <category instanceCount="0" realPath="" id="1.7.3.2.1" name="İç ve Dış Mekan Isıtıcıları"/>
+                    <category instanceCount="0" realPath="" id="1.7.3.2.2" name="İç Mekan Isıtıcıları"/>
+                    <category instanceCount="0" realPath="" id="1.7.3.2.3" name="Infrared Isıtıcı Ayakları"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.7.3.3" name="Termosifonlar"/>
+                <category instanceCount="0" realPath="" id="1.7.3.4" name="Şofbenler"/>
+                <category instanceCount="0" realPath="" id="1.7.3.5" name="Radyatörler"/>
+                <category instanceCount="0" realPath="" id="1.7.3.6" name="Kombiler"/>
+                <category instanceCount="0" realPath="" id="1.7.3.7" name="Klimalar"/>
+                <category instanceCount="0" realPath="" id="1.7.3.8" name="Hava Perdeleri"/>
+            </category>
+        </category>
+        <category instanceCount="0" realPath="" id="1.8" name="Mobilya ve Dekorasyon">
+            <category instanceCount="0" realPath="" id="1.8.1" name="Banyo Ürünleri">
+                <category instanceCount="0" realPath="" id="1.8.1.1" name="Tuvalet Kağıtlıkları"/>
+                <category instanceCount="0" realPath="" id="1.8.1.2" name="Banyo Dolapları"/>
+                <category instanceCount="0" realPath="" id="1.8.1.3" name="Sabunluklar"/>
+                <category instanceCount="0" realPath="" id="1.8.1.4" name="Kirli Sepetleri"/>
+                <category instanceCount="0" realPath="" id="1.8.1.5" name="Musluklar ve Bataryalar"/>
+                <category instanceCount="0" realPath="" id="1.8.1.6" name="Duş Setleri"/>
+                <category instanceCount="0" realPath="" id="1.8.1.7" name="Çöp Kovaları"/>
+                <category instanceCount="0" realPath="" id="1.8.1.8" name="Fotoselli Musluklar"/>
+                <category instanceCount="0" realPath="" id="1.8.1.9" name="Klozet Kapak ve Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.8.1.10" name="Banyo Aksesuar Setleri"/>
+                <category instanceCount="0" realPath="" id="1.8.1.11" name="Su Tasarruf Aparatları"/>
+                <category instanceCount="0" realPath="" id="1.8.1.12" name="Havluluklar"/>
+                <category instanceCount="0" realPath="" id="1.8.1.13" name="Süngerlik ve Şampuanlıklar"/>
+                <category instanceCount="0" realPath="" id="1.8.1.14" name="Rezervuar ve Sifon Takımları"/>
+                <category instanceCount="0" realPath="" id="1.8.1.15" name="Duşakabinler"/>
+                <category instanceCount="0" realPath="" id="1.8.1.16" name="Pisuvar Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.8.1.17" name="Panel Radyatör"/>
+                <category instanceCount="0" realPath="" id="1.8.1.18" name="Küvetler"/>
+                <category instanceCount="0" realPath="" id="1.8.1.19" name="Klozet Fırçaları"/>
+                <category instanceCount="0" realPath="" id="1.8.1.20" name="Havlupan"/>
+                <category instanceCount="0" realPath="" id="1.8.1.21" name="Engelli Grubu"/>
+                <category instanceCount="0" realPath="" id="1.8.1.22" name="El Kurutma Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.8.1.23" name="Diş Fırcalıklar"/>
+                <category instanceCount="0" realPath="" id="1.8.1.24" name="Banyo ve Mutfak Eviyeleri"/>
+                <category instanceCount="0" realPath="" id="1.8.1.25" name="Banyo Havalandırma Fanı"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.8.2" name="Dekoratif">
+                <category instanceCount="0" realPath="" id="1.8.2.1" name="Dekoratif Tasarım"/>
+                <category instanceCount="0" realPath="" id="1.8.2.2" name="Yılbaşı Ağaçları Ve Süsleri"/>
+                <category instanceCount="0" realPath="" id="1.8.2.3" name="Yağlı Boya Tablolar"/>
+                <category instanceCount="0" realPath="" id="1.8.2.4" name="Vazolar"/>
+                <category instanceCount="0" realPath="" id="1.8.2.5" name="Reprodüksiyon Tablolar"/>
+                <category instanceCount="0" realPath="" id="1.8.2.6" name="Şömine Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.8.2.7" name="Satranç Setleri"/>
+                <category instanceCount="0" realPath="" id="1.8.2.8" name="Şamdanve MumluklarveTütsülükler"/>
+                <category instanceCount="0" realPath="" id="1.8.2.9" name="Puflar"/>
+                <category instanceCount="0" realPath="" id="1.8.2.10" name="Posterler"/>
+                <category instanceCount="0" realPath="" id="1.8.2.11" name="Biblo ve Dekoratif Ürünler"/>
+                <category instanceCount="0" realPath="" id="1.8.2.12" name="Nazar Boncukları"/>
+                <category instanceCount="0" realPath="" id="1.8.2.13" name="Mutfak Aksesuarları">
+                    <category instanceCount="0" realPath="" id="1.8.2.13.1" name="Dekoratif ŞekerlikveÇerezlikveReçellik"/>
+                    <category instanceCount="0" realPath="" id="1.8.2.13.2" name="Dekoratif TepsilerveKahvaltılıklar"/>
+                    <category instanceCount="0" realPath="" id="1.8.2.13.3" name="Dekoratif SürahilerveŞaraplıklarveLikörlükler"/>
+                    <category instanceCount="0" realPath="" id="1.8.2.13.4" name="Dekoratif Çay Ve Kahve SetiveBardak Altlığı"/>
+                    <category instanceCount="0" realPath="" id="1.8.2.13.5" name="Dekoratif Buzdolabı Mıknatısı"/>
+                    <category instanceCount="0" realPath="" id="1.8.2.13.6" name="Dekoratif BardaklarveKadehler"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.8.2.14" name="MumlarveTütsülerveKokular"/>
+                <category instanceCount="0" realPath="" id="1.8.2.15" name="Mücevher Sandıkları ve Askılıkları"/>
+                <category instanceCount="0" realPath="" id="1.8.2.16" name="Maketler ve Panolar"/>
+                <category instanceCount="0" realPath="" id="1.8.2.17" name="Kişiye Özel Ürünler"/>
+                <category instanceCount="0" realPath="" id="1.8.2.18" name="Gümüş Kaplama Ürünler"/>
+                <category instanceCount="0" realPath="" id="1.8.2.19" name="Gondollar ve Meyvelikler"/>
+                <category instanceCount="0" realPath="" id="1.8.2.20" name="Dekoratif Saatler"/>
+                <category instanceCount="0" realPath="" id="1.8.2.21" name="Duvar Kağıtları"/>
+                <category instanceCount="0" realPath="" id="1.8.2.22" name="Dekoratif Tabaklar"/>
+                <category instanceCount="0" realPath="" id="1.8.2.23" name="Canvas Tablolar"/>
+                <category instanceCount="0" realPath="" id="1.8.2.24" name="Dekoratif Duvar Stickerları"/>
+                <category instanceCount="0" realPath="" id="1.8.2.25" name="Antika Telefonlar"/>
+                <category instanceCount="0" realPath="" id="1.8.2.26" name="Dekoratif Yastıklar"/>
+                <category instanceCount="0" realPath="" id="1.8.2.27" name="Dekoratif Şömineler"/>
+                <category instanceCount="0" realPath="" id="1.8.2.28" name="Dekoratif Desenler"/>
+                <category instanceCount="0" realPath="" id="1.8.2.29" name="Dekoratif Aynalar"/>
+                <category instanceCount="0" realPath="" id="1.8.2.30" name="Cam Aksesuarlar"/>
+                <category instanceCount="0" realPath="" id="1.8.2.31" name="Aynalar ve Çerçeveler"/>
+                <category instanceCount="0" realPath="" id="1.8.2.32" name="Antik İmitasyon Eserler"/>
+                <category instanceCount="0" realPath="" id="1.8.2.33" name="Abajurlar"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.8.3" name="Mobilya">
+                <category instanceCount="0" realPath="" id="1.8.3.1" name="Yemek Odası"/>
+                <category instanceCount="0" realPath="" id="1.8.3.2" name="Vitrinler"/>
+                <category instanceCount="0" realPath="" id="1.8.3.3" name="Tv Sehpaları ve Müzik Seti Kabinleri"/>
+                <category instanceCount="0" realPath="" id="1.8.3.4" name="Şezlonglar"/>
+                <category instanceCount="0" realPath="" id="1.8.3.5" name="Sehpalar"/>
+                <category instanceCount="0" realPath="" id="1.8.3.6" name="Sandalyeler"/>
+                <category instanceCount="0" realPath="" id="1.8.3.7" name="Bilgisayar Masaları ve Çalışma Üniteleri"/>
+                <category instanceCount="0" realPath="" id="1.8.3.8" name="Raflar"/>
+                <category instanceCount="0" realPath="" id="1.8.3.9" name="Puf Mobilyalar"/>
+                <category instanceCount="0" realPath="" id="1.8.3.10" name="Puf Minderler"/>
+                <category instanceCount="0" realPath="" id="1.8.3.11" name="Portmantolar"/>
+                <category instanceCount="0" realPath="" id="1.8.3.12" name="Mutfak Dolapları ve Masaları"/>
+                <category instanceCount="0" realPath="" id="1.8.3.13" name="Koltuk ve Kanepeler"/>
+                <category instanceCount="0" realPath="" id="1.8.3.14" name="Karyola ve Yataklar"/>
+                <category instanceCount="0" realPath="" id="1.8.3.15" name="Gardıroplar"/>
+                <category instanceCount="0" realPath="" id="1.8.3.16" name="Ayakkabılıklar"/>
+                <category instanceCount="0" realPath="" id="1.8.3.17" name="Kitaplıklar"/>
+                <category instanceCount="0" realPath="" id="1.8.3.18" name="Hamaklar ve Salıncaklar"/>
+                <category instanceCount="0" realPath="" id="1.8.3.19" name="Genç ve Yatak Odası"/>
+                <category instanceCount="0" realPath="" id="1.8.3.20" name="Dolaplar"/>
+                <category instanceCount="0" realPath="" id="1.8.3.21" name="Dekoratif Aksesuarlar"/>
+                <category instanceCount="0" realPath="" id="1.8.3.22" name="Aydınlatma Ürünleri"/>
+            </category>
+        </category>
+        <category instanceCount="0" realPath="" id="1.9" name="Oyun ve Konsolları">
+            <category instanceCount="0" realPath="" id="1.9.1" name="Oyun Konsolları">
+                <category instanceCount="0" realPath="" id="1.9.1.1" name="PlayStation 3 Konsol"/>
+                <category instanceCount="0" realPath="" id="1.9.1.2" name="Nintendo Konsol"/>
+                <category instanceCount="0" realPath="" id="1.9.1.3" name="PlayStation 2 Konsol"/>
+                <category instanceCount="0" realPath="" id="1.9.1.4" name="Psp Konsol"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.9.2" name="Oyunlar"/>
+            <category instanceCount="0" realPath="" id="1.9.3" name="Oyun Konsolu Aksesuarları"/>
+        </category>
+        <category instanceCount="0" realPath="" id="1.10" name="Film">
+            <category instanceCount="0" realPath="" id="1.10.1" name="Western"/>
+            <category instanceCount="0" realPath="" id="1.10.2" name="Savaş ve Askeri"/>
+            <category instanceCount="0" realPath="" id="1.10.3" name="Özel Setler"/>
+            <category instanceCount="0" realPath="" id="1.10.4" name="Macera"/>
+            <category instanceCount="0" realPath="" id="1.10.5" name="Drama / Duygusal"/>
+            <category instanceCount="0" realPath="" id="1.10.6" name="Türk Sineması"/>
+            <category instanceCount="0" realPath="" id="1.10.7" name="Komedi"/>
+            <category instanceCount="0" realPath="" id="1.10.8" name="Korku / Gerilim"/>
+            <category instanceCount="0" realPath="" id="1.10.9" name="Animasyon / Canlandırma"/>
+            <category instanceCount="0" realPath="" id="1.10.10" name="Çocuklar İçin"/>
+            <category instanceCount="0" realPath="" id="1.10.11" name="Bilim Kurgu"/>
+            <category instanceCount="0" realPath="" id="1.10.12" name="Müzik / Konser"/>
+            <category instanceCount="0" realPath="" id="1.10.13" name="Klasikler"/>
+            <category instanceCount="0" realPath="" id="1.10.14" name="Dizi"/>
+            <category instanceCount="0" realPath="" id="1.10.15" name="Erotik"/>
+            <category instanceCount="0" realPath="" id="1.10.16" name="Spor / Yoga"/>
+            <category instanceCount="0" realPath="" id="1.10.17" name="Belgesel"/>
+            <category instanceCount="0" realPath="" id="1.10.18" name="Gençlik"/>
+            <category instanceCount="0" realPath="" id="1.10.19" name="Çizgi Film"/>
+            <category instanceCount="0" realPath="" id="1.10.20" name="Gösteri"/>
+            <category instanceCount="0" realPath="" id="1.10.21" name="Action/Film Figürleri ve Büstler"/>
+            <category instanceCount="0" realPath="" id="1.10.22" name="Eğitim / Sağlık"/>
+        </category>
+        <category instanceCount="0" realPath="" id="1.11" name="Kitap">
+            <category instanceCount="0" realPath="" id="1.11.1" name="Roman"/>
+            <category instanceCount="0" realPath="" id="1.11.2" name="Çizgi Roman"/>
+            <category instanceCount="0" realPath="" id="1.11.3" name="Çocuk"/>
+            <category instanceCount="0" realPath="" id="1.11.4" name="Tiyatro"/>
+            <category instanceCount="0" realPath="" id="1.11.5" name="Turizm - Gezi"/>
+            <category instanceCount="0" realPath="" id="1.11.6" name="Yabancı Dil Kitapları"/>
+            <category instanceCount="0" realPath="" id="1.11.7" name="Mizah"/>
+            <category instanceCount="0" realPath="" id="1.11.8" name="Genel Konular"/>
+            <category instanceCount="0" realPath="" id="1.11.9" name="Kuram"/>
+            <category instanceCount="0" realPath="" id="1.11.10" name="Siyaset"/>
+            <category instanceCount="0" realPath="" id="1.11.11" name="İnceleme"/>
+            <category instanceCount="0" realPath="" id="1.11.12" name="Bilim Teknik - Mühendislik"/>
+            <category instanceCount="0" realPath="" id="1.11.13" name="Anı - Anlatı"/>
+            <category instanceCount="0" realPath="" id="1.11.14" name="Öykü"/>
+            <category instanceCount="0" realPath="" id="1.11.15" name="Edebiyat"/>
+            <category instanceCount="0" realPath="" id="1.11.16" name="Şiir"/>
+            <category instanceCount="0" realPath="" id="1.11.17" name="Mektup"/>
+            <category instanceCount="0" realPath="" id="1.11.18" name="Deneme"/>
+            <category instanceCount="0" realPath="" id="1.11.19" name="Din"/>
+            <category instanceCount="0" realPath="" id="1.11.20" name="Araştırma"/>
+            <category instanceCount="0" realPath="" id="1.11.21" name="Felsefe"/>
+            <category instanceCount="0" realPath="" id="1.11.22" name="Gençlik"/>
+            <category instanceCount="0" realPath="" id="1.11.23" name="Derleme"/>
+            <category instanceCount="0" realPath="" id="1.11.24" name="Ekonomi / Pazarlama"/>
+            <category instanceCount="0" realPath="" id="1.11.25" name="Tarih"/>
+            <category instanceCount="0" realPath="" id="1.11.26" name="Kaynak Kitap"/>
+            <category instanceCount="0" realPath="" id="1.11.27" name="Eğitim ve Sınav Kitapları">
+                <category instanceCount="0" realPath="" id="1.11.27.1" name="Dgs"/>
+                <category instanceCount="0" realPath="" id="1.11.27.2" name="Ales"/>
+                <category instanceCount="0" realPath="" id="1.11.27.3" name="Ygs ve Lys Kitapları"/>
+                <category instanceCount="0" realPath="" id="1.11.27.4" name="Ders Kitapları ve Yardımcı Kitaplar"/>
+                <category instanceCount="0" realPath="" id="1.11.27.5" name="Sbs"/>
+                <category instanceCount="0" realPath="" id="1.11.27.6" name="Eğitim Yönetimi"/>
+                <category instanceCount="0" realPath="" id="1.11.27.7" name="Kpss"/>
+                <category instanceCount="0" realPath="" id="1.11.27.8" name="Görevde Yükselme Sınavları Kitapları"/>
+                <category instanceCount="0" realPath="" id="1.11.27.9" name="Spk"/>
+                <category instanceCount="0" realPath="" id="1.11.27.10" name="Öss"/>
+                <category instanceCount="0" realPath="" id="1.11.27.11" name="Açıköğretim Kitapları ve Setleri"/>
+                <category instanceCount="0" realPath="" id="1.11.27.12" name="Yaprak Testler"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.11.28" name="Hukuk Kitapları"/>
+            <category instanceCount="0" realPath="" id="1.11.29" name="İş Yönetimi"/>
+            <category instanceCount="0" realPath="" id="1.11.30" name="Bireysel Gelişim"/>
+            <category instanceCount="0" realPath="" id="1.11.31" name="Biyografi"/>
+            <category instanceCount="0" realPath="" id="1.11.32" name="Antoloji"/>
+            <category instanceCount="0" realPath="" id="1.11.33" name="Bilgisayar Kitapları"/>
+            <category instanceCount="0" realPath="" id="1.11.34" name="Söyleşi - Röportaj"/>
+            <category instanceCount="0" realPath="" id="1.11.35" name="Ruhsal Ve Metafizik"/>
+            <category instanceCount="0" realPath="" id="1.11.36" name="Günlük"/>
+            <category instanceCount="0" realPath="" id="1.11.37" name="Sanat"/>
+            <category instanceCount="0" realPath="" id="1.11.38" name="Sözlük"/>
+            <category instanceCount="0" realPath="" id="1.11.39" name="Sağlık"/>
+            <category instanceCount="0" realPath="" id="1.11.40" name="Psikoloji"/>
+            <category instanceCount="0" realPath="" id="1.11.41" name="Aile"/>
+            <category instanceCount="0" realPath="" id="1.11.42" name="Çocuk Bakımı"/>
+            <category instanceCount="0" realPath="" id="1.11.43" name="Hobi"/>
+            <category instanceCount="0" realPath="" id="1.11.44" name="Cinsellik"/>
+            <category instanceCount="0" realPath="" id="1.11.45" name="Ansiklopediler"/>
+            <category instanceCount="0" realPath="" id="1.11.46" name="Tıp Yayınları"/>
+            <category instanceCount="0" realPath="" id="1.11.47" name="Kültür"/>
+            <category instanceCount="0" realPath="" id="1.11.48" name="Sinema"/>
+            <category instanceCount="0" realPath="" id="1.11.49" name="Medya - İletişim"/>
+            <category instanceCount="0" realPath="" id="1.11.50" name="Reklam - Halkla İlişkiler"/>
+            <category instanceCount="0" realPath="" id="1.11.51" name="İşletme"/>
+            <category instanceCount="0" realPath="" id="1.11.52" name="Muhasebe - Finans"/>
+            <category instanceCount="0" realPath="" id="1.11.53" name="Fotoğraf - Fotoğrafçılık"/>
+            <category instanceCount="0" realPath="" id="1.11.54" name="İstatistik"/>
+            <category instanceCount="0" realPath="" id="1.11.55" name="Dergi"/>            
+        </category>
+        <category instanceCount="0" realPath="" id="1.12" name="Spor">
+            <category instanceCount="0" realPath="" id="1.12.1" name="Spor Kategorileri">
+                <category instanceCount="0" realPath="" id="1.12.1.1" name="Yüzme"/>
+                <category instanceCount="0" realPath="" id="1.12.1.2" name="Diğer Toplar"/>
+                <category instanceCount="0" realPath="" id="1.12.1.3" name="Voleybol">
+                    <category instanceCount="0" realPath="" id="1.12.1.3.1" name="Voleybol Topları"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.3.2" name="Voleybol Aksesuarları"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.12.1.4" name="Futbol">
+                    <category instanceCount="0" realPath="" id="1.12.1.4.1" name="Futbol Topları"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.4.2" name="Kaleci Eldivenleri"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.4.3" name="Top Pompaları"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.4.4" name="Futbol Aksesuarları"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.4.5" name="Hakem Malzemeleri"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.4.6" name="Dizlik - Bileklik - Tekmelik"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.4.7" name="Formalar / Şortlar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.12.1.5" name="Basketbol">
+                    <category instanceCount="0" realPath="" id="1.12.1.5.1" name="Basketbol Topları"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.5.2" name="Basketbol Aksesuarları"/>                    
+                </category>
+                <category instanceCount="0" realPath="" id="1.12.1.6" name="Masa Tenisi">
+                    <category instanceCount="0" realPath="" id="1.12.1.6.1" name="Masa Tenisi Masaları"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.6.2" name="Masa Tenisi (Ping Pong) Topları"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.6.3" name="Raketler"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.6.4" name="Masa Tenisi Aksesuarları"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.6.5" name="Masa Tenisi Ağları ve Demirleri"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.12.1.7" name="Dart">
+                    <category instanceCount="0" realPath="" id="1.12.1.7.1" name="Boardlar"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.7.2" name="Dartlar">
+                        <category instanceCount="0" realPath="" id="1.12.1.7.2.1" name="Çelik Uçlu Dartlar"/>
+                        <category instanceCount="0" realPath="" id="1.12.1.7.2.2" name="Plastik Uçlu Dartlar"/>
+                    </category>
+                    <category instanceCount="0" realPath="" id="1.12.1.7.3" name="Dart Aksesuarlar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.12.1.8" name="Masa Futbolu (Langırt)"/>
+                <category instanceCount="0" realPath="" id="1.12.1.9" name="Kayak - Snowboard"/>
+                <category instanceCount="0" realPath="" id="1.12.1.10" name="Boks">
+                    <category instanceCount="0" realPath="" id="1.12.1.10.1" name="Kum(Boks) Torbaları"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.10.2" name="Boks Eldivenleri."/>
+                    <category instanceCount="0" realPath="" id="1.12.1.10.3" name="Boks Aksesuarları"/>                    
+                </category>
+                <category instanceCount="0" realPath="" id="1.12.1.11" name="Paten-Kaykay-Scooter"/>
+                <category instanceCount="0" realPath="" id="1.12.1.12" name="Kayak"/>
+                <category instanceCount="0" realPath="" id="1.12.1.13" name="Dizlik ve Bileklikler"/>
+                <category instanceCount="0" realPath="" id="1.12.1.14" name="Badminton">
+                    <category instanceCount="0" realPath="" id="1.12.1.14.1" name="Badminton Raketleri"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.14.2" name="Badminton Topları"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.14.3" name="Badminton Ağları"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.12.1.15" name="Bisiklet - Motosiklet">
+                    <category instanceCount="0" realPath="" id="1.12.1.15.1" name="Bisikletler"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.15.2" name="Bisiklet Aksesuar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.12.1.16" name="Tenis">
+                    <category instanceCount="0" realPath="" id="1.12.1.16.1" name="Tenis Raketleri"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.16.2" name="Tenis Topları"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.16.3" name="Kordajlar (Strings)"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.16.4" name="Tenis Çantaları"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.16.5" name="Tenis Aksesuarları"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.12.1.17" name="Uzakdoğu Sporları">
+                    <category instanceCount="0" realPath="" id="1.12.1.17.1" name="Wu Shu ve Sanda"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.17.2" name="Minderler ve Çantalar"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.17.3" name="Do Alet ve Aksesuarlar"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.17.4" name="Darbe Yastıkları"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.17.5" name="Koruyucular"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.17.6" name="Ellikler"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.17.7" name="Kick Boxing"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.17.8" name="Diğer Uzakdoğu Sporları Aksesuarları"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.12.1.18" name="Saha-Salon Ekipmanları"/>
+                <category instanceCount="0" realPath="" id="1.12.1.19" name="Kupalar ve Madalyalar"/>
+                <category instanceCount="0" realPath="" id="1.12.1.20" name="Hentbol"/>
+                <category instanceCount="0" realPath="" id="1.12.1.21" name="Binicilik">
+                    <category instanceCount="0" realPath="" id="1.12.1.21.1" name="Atlar İçin Ürünler"/>
+                    <category instanceCount="0" realPath="" id="1.12.1.21.2" name="Biniciler İçin ürünler"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.12.1.22" name="Bilardo"/>
+                <category instanceCount="0" realPath="" id="1.12.1.23" name="Baseball"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.12.2" name="Spor Giyim ve Aksesuar">
+                <category instanceCount="0" realPath="" id="1.12.2.1" name="Spor Çantalar"/>
+                <category instanceCount="0" realPath="" id="1.12.2.2" name="Yelekler"/>
+                <category instanceCount="0" realPath="" id="1.12.2.3" name="Yağmurluklar"/>
+                <category instanceCount="0" realPath="" id="1.12.2.4" name="Sweatshırtler"/>
+                <category instanceCount="0" realPath="" id="1.12.2.5" name="Buff ve Bandana"/>
+                <category instanceCount="0" realPath="" id="1.12.2.6" name="Pantolon-Tek Alt"/>
+                <category instanceCount="0" realPath="" id="1.12.2.7" name="Mont.-Kaban"/>
+                <category instanceCount="0" realPath="" id="1.12.2.8" name="Şapkalar-Bereler"/>
+                <category instanceCount="0" realPath="" id="1.12.2.9" name="Eşofmanlar"/>
+                <category instanceCount="0" realPath="" id="1.12.2.10" name="Spor Formalar"/>
+                <category instanceCount="0" realPath="" id="1.12.2.11" name="Şort ve Kapri ve Mayo"/>
+                <category instanceCount="0" realPath="" id="1.12.2.12" name="Ayakkabılar"/>
+                <category instanceCount="0" realPath="" id="1.12.2.13" name="Body - Tshırt"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.12.3" name="Fitness - Kondisyon">
+                <category instanceCount="0" realPath="" id="1.12.3.1" name="Kondisyon Aletleri">
+                        <category instanceCount="0" realPath="" id="1.12.3.1.1" name="El Yayı"/>
+                        <category instanceCount="0" realPath="" id="1.12.3.1.2" name="Sağlık Topu"/>
+                        <category instanceCount="0" realPath="" id="1.12.3.1.3" name="Jimnastik - Aerobik Minderi"/>
+                        <category instanceCount="0" realPath="" id="1.12.3.1.4" name="Göğüs Yayı"/>
+                        <category instanceCount="0" realPath="" id="1.12.3.1.5" name="Küçük Kondisyon Setler"/>
+                        <category instanceCount="0" realPath="" id="1.12.3.1.6" name="Atlama İpi"/>
+                        <category instanceCount="0" realPath="" id="1.12.3.1.7" name="Kapı Barı"/>
+                        <category instanceCount="0" realPath="" id="1.12.3.1.8" name="Bük Bük"/>
+                        <category instanceCount="0" realPath="" id="1.12.3.1.9" name="Sık Sık"/>
+                        <category instanceCount="0" realPath="" id="1.12.3.1.10" name="Çek Çek"/>
+                        <category instanceCount="0" realPath="" id="1.12.3.1.11" name="Şınav Barı"/>
+                    <category instanceCount="0" realPath="" id="1.12.3.1.12" name="Diğer Kondisyon Aletleri"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.12.3.2" name="TV Spor Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.12.3.3" name="Termal Şortlar - Bel Korseleri"/>
+                <category instanceCount="0" realPath="" id="1.12.3.4" name="Terleme Eşofmanları"/>
+                <category instanceCount="0" realPath="" id="1.12.3.5" name="Pilates"/>
+                <category instanceCount="0" realPath="" id="1.12.3.6" name="Mekik Sehpaları"/>
+                <category instanceCount="0" realPath="" id="1.12.3.7" name="Dambıllar - El / Ayak Ağırlıkları">
+                    <category instanceCount="0" realPath="" id="1.12.3.7.1" name="Neopren ve Plastik Dambıllar"/>
+                    <category instanceCount="0" realPath="" id="1.12.3.7.2" name="Kauçuk Kaplı Dambıl Setler"/>
+                    <category instanceCount="0" realPath="" id="1.12.3.7.3" name="Ağırlık Kemerleri ve Eldivenleri"/>
+                    <category instanceCount="0" realPath="" id="1.12.3.7.4" name="Krom ve Döküm Dambıl Setler"/>
+                    <category instanceCount="0" realPath="" id="1.12.3.7.5" name="Barlar ve Plakalar"/>
+                    <category instanceCount="0" realPath="" id="1.12.3.7.6" name="El ve Ayak Ağırlıkları"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.12.3.8" name="Kondisyon Bisikletleri"/>
+                <category instanceCount="0" realPath="" id="1.12.3.9" name="Masaj Koltukları"/>
+                <category instanceCount="0" realPath="" id="1.12.3.10" name="Masaj Cihazları"/>
+                <category instanceCount="0" realPath="" id="1.12.3.11" name="Kondisyon Masaj Cihazları"/>
+                <category instanceCount="0" realPath="" id="1.12.3.12" name="Nabız Ölçerler-Kol Bilgisayarları"/>
+                <category instanceCount="0" realPath="" id="1.12.3.13" name="Ağırlık Sehpaları"/>
+                <category instanceCount="0" realPath="" id="1.12.3.14" name="Çalışma İstasyonları"/>
+                <category instanceCount="0" realPath="" id="1.12.3.15" name="Aerobik - Zayıflama Aletleri"/>
+                <category instanceCount="0" realPath="" id="1.12.3.16" name="Leg Magic"/>
+                <category instanceCount="0" realPath="" id="1.12.3.17" name="Kürek"/>
+                <category instanceCount="0" realPath="" id="1.12.3.18" name="Koşu Bantları"/>
+                <category instanceCount="0" realPath="" id="1.12.3.19" name="Koşu Bandı Aksesuarlar"/>
+                <category instanceCount="0" realPath="" id="1.12.3.20" name="Step"/>
+                <category instanceCount="0" realPath="" id="1.12.3.21" name="Kronometre - Adımsayar"/>
+                <category instanceCount="0" realPath="" id="1.12.3.22" name="Masaj-Sauna Kemerleri"/>
+                <category instanceCount="0" realPath="" id="1.12.3.23" name="Powerball"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.12.4" name="Sporcu Besinleri"/>
+        </category>
+        <category instanceCount="0" realPath="" id="1.13" name="Ayakkabı ve Çanta">
+            <category instanceCount="0" realPath="" id="1.13.1" name="Ayakkabı">
+                <category instanceCount="0" realPath="" id="1.13.1.1" name="Spor"/>
+                <category instanceCount="0" realPath="" id="1.13.1.2" name="Bot-Çizme">
+                    <category instanceCount="0" realPath="" id="1.13.1.2.1" name="Bot"/>
+                    <category instanceCount="0" realPath="" id="1.13.1.2.2" name="Çizme"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.13.1.3" name="OutdoorveTrekking"/>
+				<category instanceCount="0" realPath="" id="1.13.1.4" name="Günlük - Comfort"/>
+                <category instanceCount="0" realPath="" id="1.13.1.5" name="İş - Klasik"/>
+                <category instanceCount="0" realPath="" id="1.13.1.6" name="Sandalet"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.13.2" name="Terlik"/>
+            <category instanceCount="0" realPath="" id="1.13.3" name="Bakım Koruma Ürünleri"/>
+            <category instanceCount="0" realPath="" id="1.13.4" name="Çanta ve Aksesuarlar">
+                <category instanceCount="0" realPath="" id="1.13.4.1" name="Valiz ve Bavul"/>
+                <category instanceCount="0" realPath="" id="1.13.4.2" name="Cüzdan">
+                    <category instanceCount="0" realPath="" id="1.13.4.2.1" name="Erkek Cüzdanlar"/>
+                    <category instanceCount="0" realPath="" id="1.13.4.2.2" name="Kadın Cüzdanlar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.13.4.3" name="Çanta">
+                    <category instanceCount="0" realPath="" id="1.13.4.3.1" name="Erkek Çantalar"/>
+                    <category instanceCount="0" realPath="" id="1.13.4.3.2" name="Sırt Çantaları"/>
+                    <category instanceCount="0" realPath="" id="1.13.4.3.3" name="Plaj Çantaları"/>
+                    <category instanceCount="0" realPath="" id="1.13.4.3.4" name="Kadın Çantalar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.13.4.4" name="Kemer"/>
+                <category instanceCount="0" realPath="" id="1.13.4.5" name="Aksesuarlar"/>
+            </category>
+        </category>
+        <category instanceCount="0" realPath="" id="1.14" name="Hobi ve Oyun">
+            <category instanceCount="0" realPath="" id="1.14.1" name="Hobi">
+                <category instanceCount="0" realPath="" id="1.14.1.1" name="Yetişkinler İçin Oyunlar"/>
+                <category instanceCount="0" realPath="" id="1.14.1.2" name="Yetişkinler İçin Kostüm,Şaka,Parti Malzemeleri"/>
+                <category instanceCount="0" realPath="" id="1.14.1.3" name="Puzzlelar ve Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.14.1.4" name="Plastik Maket"/>
+                <category instanceCount="0" realPath="" id="1.14.1.5" name="Model Uçaklar"/>
+                <category instanceCount="0" realPath="" id="1.14.1.6" name="Metal Model Arabalar"/>
+                <category instanceCount="0" realPath="" id="1.14.1.7" name="Figür Modeller"/>
+                <category instanceCount="0" realPath="" id="1.14.1.8" name="Elektronik Hobi"/>
+                <category instanceCount="0" realPath="" id="1.14.1.9" name="Ahşap Maketler ve Aksesuarlar"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.14.2" name="Uzaktan Kumandalı Araçlar">
+                <category instanceCount="0" realPath="" id="1.14.2.1" name="Elektirikli Uçaklar"/>
+                <category instanceCount="0" realPath="" id="1.14.2.2" name="Elektirikli Arabalar"/>
+                <category instanceCount="0" realPath="" id="1.14.2.3" name="Tekneler"/>
+                <category instanceCount="0" realPath="" id="1.14.2.4" name="Helikopterler"/>
+                <category instanceCount="0" realPath="" id="1.14.2.5" name="Benzinli/Nitrolu Arabalar"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.14.3" name="Oyun Takımları">
+                <category instanceCount="0" realPath="" id="1.14.3.1" name="Tavlalar"/>
+                <category instanceCount="0" realPath="" id="1.14.3.2" name="Satrançlar"/>
+                <category instanceCount="0" realPath="" id="1.14.3.3" name="Okeyler"/>
+            </category>
+        </category>
+        <category instanceCount="0" realPath="" id="1.15" name="Bahçe">
+            <category instanceCount="0" realPath="" id="1.15.1" name="Bahçe Makineleri"/>
+            <category instanceCount="0" realPath="" id="1.15.2" name="Bahçe Küçük El Aletleri"/>
+            <category instanceCount="0" realPath="" id="1.15.3" name="Bahçe Aksesuar Ürünleri"/>
+            <category instanceCount="0" realPath="" id="1.15.4" name="Ağaç Fidanları"/>
+        </category>
+        <category instanceCount="0" realPath="" id="1.16" name="Oto Aksesuar">
+            <category instanceCount="0" realPath="" id="1.16.1" name="Oto Aksesuar Ürünleri">
+                <category instanceCount="0" realPath="" id="1.16.1.1" name="Basınçlı Yıkama Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.16.1.2" name="Yangın Söndürme Tüpleri"/>
+                <category instanceCount="0" realPath="" id="1.16.1.3" name="Yakıt Tasarruf Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.16.1.4" name="Yağ ve Motor Katkıları"/>
+                <category instanceCount="0" realPath="" id="1.16.1.5" name="Xenon Far Kit"/>
+                <category instanceCount="0" realPath="" id="1.16.1.6" name="Trafik Ürünleri">
+                    <category instanceCount="0" realPath="" id="1.16.1.6.1" name="Araç Sigortaları"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.6.2" name="Kriko"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.6.3" name="Reflektorler"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.6.4" name="Ecza Çantaları"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.6.5" name="Boyunluklar"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.6.6" name="Diğer Trafik Ürünleri"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.6.7" name="Çekme Halatlar"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.6.8" name="Benzin Bidonları"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.6.9" name="Seyyar Lamba"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.6.10" name="Takozlar"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.6.11" name="Acil Çıkış Çekici"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.16.1.7" name="Trafik Setleri"/>
+                <category instanceCount="0" realPath="" id="1.16.1.8" name="Torpido Kaplama Setleri"/>
+                <category instanceCount="0" realPath="" id="1.16.1.9" name="Oto Lastik-Bakım"/>
+                <category instanceCount="0" realPath="" id="1.16.1.10" name="Kış Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.16.1.11" name="Seyahat Malzemeleri"/>
+                <category instanceCount="0" realPath="" id="1.16.1.12" name="Paspaslar"/>
+                <category instanceCount="0" realPath="" id="1.16.1.13" name="Oto Yedek Parçalar">
+                    <category instanceCount="0" realPath="" id="1.16.1.13.1" name="Araç Aydınlatmaları">
+                        <category instanceCount="0" realPath="" id="1.16.1.13.1.1" name="Far Camları"/>
+                        <category instanceCount="0" realPath="" id="1.16.1.13.1.2" name="Far Lambaları"/>
+                    </category>
+					<category instanceCount="0" realPath="" id="1.16.1.13.2" name="Yedek Ayna Camları"/>                    
+                </category>
+                <category instanceCount="0" realPath="" id="1.16.1.14" name="Oto Yapıştırıcıları"/>
+                <category instanceCount="0" realPath="" id="1.16.1.15" name="Krom Aksesuarlar"/>
+                <category instanceCount="0" realPath="" id="1.16.1.16" name="Araç Bakım ve Temizlik Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.16.1.17" name="Oto Kokuları"/>
+                <category instanceCount="0" realPath="" id="1.16.1.18" name="Egzos Nikelajları"/>
+                <category instanceCount="0" realPath="" id="1.16.1.19" name="Oto Rüzgarlıkları"/>
+                <category instanceCount="0" realPath="" id="1.16.1.20" name="Oto Lastikleri"/>
+                <category instanceCount="0" realPath="" id="1.16.1.21" name="Oto El Aletleri"/>
+                <category instanceCount="0" realPath="" id="1.16.1.22" name="Araç Dış Aksesuarlar"/>
+                <category instanceCount="0" realPath="" id="1.16.1.23" name="Arac İçi Aksesuarlar"/>
+                <category instanceCount="0" realPath="" id="1.16.1.24" name="Kolçaklar"/>
+                <category instanceCount="0" realPath="" id="1.16.1.25" name="Araç Güvenlik Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.16.1.26" name="Brandalar"/>
+                <category instanceCount="0" realPath="" id="1.16.1.27" name="Motosiklet Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.16.1.28" name="Koltuk Kılıfları"/>
+                <category instanceCount="0" realPath="" id="1.16.1.29" name="Aydınlatma Ürünler">
+                    <category instanceCount="0" realPath="" id="1.16.1.29.1" name="Ledli Lambalar"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.29.2" name="Lambalar"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.29.3" name="Oto Aydınlatma Ampülleri">
+                        <category instanceCount="0" realPath="" id="1.16.1.29.3.1" name="Far Ampul (xenon Tip)"/>
+                        <category instanceCount="0" realPath="" id="1.16.1.29.3.2" name="Xenon Yedek Ampul"/>
+                        <category instanceCount="0" realPath="" id="1.16.1.29.3.3" name="Far Ampul (Normal)"/>
+                        <category instanceCount="0" realPath="" id="1.16.1.29.3.4" name="Tavan Ampul"/>
+                        <category instanceCount="0" realPath="" id="1.16.1.29.3.5" name="Stop Sinyal Ampul"/>
+                        <category instanceCount="0" realPath="" id="1.16.1.29.3.6" name="Park Ampulu"/>
+                        <category instanceCount="0" realPath="" id="1.16.1.29.3.7" name="Gösterge Ampulleri"/>
+                    </category>
+                    <category instanceCount="0" realPath="" id="1.16.1.29.4" name="Yan Sinyal Lambalar"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.29.5" name="Tepe Lambaları"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.29.6" name="Tavan Lamba"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.29.7" name="Stop Lambaları"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.29.8" name="Sis Farları"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.29.9" name="Neon Lamba"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.29.10" name="Led Stoplar"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.29.11" name="Kasa Lambaları"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.29.12" name="El Projektörleri ve El Fenerleri"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.29.13" name="Flash Lambalar"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.29.14" name="Angel Halka"/>
+                    <category instanceCount="0" realPath="" id="1.16.1.29.15" name="Angel Farlar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.16.1.30" name="Mobil Uydu Antenleri"/>
+                <category instanceCount="0" realPath="" id="1.16.1.31" name="Mobil Elektrik"/>
+                <category instanceCount="0" realPath="" id="1.16.1.32" name="Korna ve Siren"/>
+                <category instanceCount="0" realPath="" id="1.16.1.33" name="Koltuk Minderleri"/>
+                <category instanceCount="0" realPath="" id="1.16.1.34" name="Jantlar"/>
+                <category instanceCount="0" realPath="" id="1.16.1.35" name="Jant Kapakları"/>
+                <category instanceCount="0" realPath="" id="1.16.1.36" name="Güneşlik ve Perde"/>
+                <category instanceCount="0" realPath="" id="1.16.1.37" name="Cam Filmleri"/>
+                <category instanceCount="0" realPath="" id="1.16.1.38" name="Buzdolapları"/>
+                <category instanceCount="0" realPath="" id="1.16.1.39" name="Arma Sticker"/>
+                <category instanceCount="0" realPath="" id="1.16.1.40" name="Anatomik Spoiler"/>
+                <category instanceCount="0" realPath="" id="1.16.1.41" name="Anahtarlık"/>
+                <category instanceCount="0" realPath="" id="1.16.1.42" name="Akü ve Şarj Cihazları"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.16.2" name="Tuning (Auto Sport)">
+                <category instanceCount="0" realPath="" id="1.16.2.1" name="Vites Topuzları"/>
+                <category instanceCount="0" realPath="" id="1.16.2.2" name="Vites Körüğü"/>
+                <category instanceCount="0" realPath="" id="1.16.2.3" name="Vites Çerçevelerı"/>
+                <category instanceCount="0" realPath="" id="1.16.2.4" name="Tuning Kitler"/>
+                <category instanceCount="0" realPath="" id="1.16.2.5" name="Pedal Setleri"/>
+                <category instanceCount="0" realPath="" id="1.16.2.6" name="Kemer Yastığı ve Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.16.2.7" name="Kafalık Yayları"/>
+                <category instanceCount="0" realPath="" id="1.16.2.8" name="Göstergeler"/>
+                <category instanceCount="0" realPath="" id="1.16.2.9" name="Spor Koltuklar"/>
+                <category instanceCount="0" realPath="" id="1.16.2.10" name="Fitre Temizlik Kitleri"/>
+                <category instanceCount="0" realPath="" id="1.16.2.11" name="Egzos/Son Susturucu"/>
+                <category instanceCount="0" realPath="" id="1.16.2.12" name="Blow Off/Turbo"/>
+                <category instanceCount="0" realPath="" id="1.16.2.13" name="Kaliper Kapaklar"/>
+                <category instanceCount="0" realPath="" id="1.16.2.14" name="Hava Filitre"/>
+                <category instanceCount="0" realPath="" id="1.16.2.15" name="Teyp Çerçeveleri"/>
+                <category instanceCount="0" realPath="" id="1.16.2.16" name="Tekstil Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.16.2.17" name="Suspansiyon"/>
+                <category instanceCount="0" realPath="" id="1.16.2.18" name="Spor yaylar"/>
+                <category instanceCount="0" realPath="" id="1.16.2.19" name="Sol Ayak Dayamaları"/>
+                <category instanceCount="0" realPath="" id="1.16.2.20" name="Şeffaf ve Led Stoplar"/>
+                <category instanceCount="0" realPath="" id="1.16.2.21" name="Hava Filtreleri"/>
+                <category instanceCount="0" realPath="" id="1.16.2.22" name="Panjurlar"/>
+                <category instanceCount="0" realPath="" id="1.16.2.23" name="Kaput Mandalı"/>
+                <category instanceCount="0" realPath="" id="1.16.2.24" name="Havalandırmalar"/>
+                <category instanceCount="0" realPath="" id="1.16.2.25" name="Filtre Kit ve Aparatları"/>
+                <category instanceCount="0" realPath="" id="1.16.2.26" name="El Freni Kaplamaları"/>
+                <category instanceCount="0" realPath="" id="1.16.2.27" name="Disk Aynaları"/>
+                <category instanceCount="0" realPath="" id="1.16.2.28" name="Direksiyon Göbekleri"/>
+                <category instanceCount="0" realPath="" id="1.16.2.29" name="Araç Izgaraları"/>
+                <category instanceCount="0" realPath="" id="1.16.2.30" name="Body Kitler"/>
+                <category instanceCount="0" realPath="" id="1.16.2.31" name="Ayna Aksesuarları"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.16.3" name="Oto Ses Ve Görüntü Sistemleri">
+                <category instanceCount="0" realPath="" id="1.16.3.1" name="Teyp-Cd-Mp3-Vcd-Dvd Çalar"/>
+                <category instanceCount="0" realPath="" id="1.16.3.2" name="Oto Görüntü Sistemleri"/>
+                <category instanceCount="0" realPath="" id="1.16.3.3" name="Oto Amplifikatör"/>
+                <category instanceCount="0" realPath="" id="1.16.3.4" name="Sistem Kabloları ve Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.16.3.5" name="Fm Transmitter (Aktarım) Cihazları"/>
+                <category instanceCount="0" realPath="" id="1.16.3.6" name="Navigasyon Sistemleri"/>
+                <category instanceCount="0" realPath="" id="1.16.3.7" name="Oto Hoparlörler"/>
+                <category instanceCount="0" realPath="" id="1.16.3.8" name="Araç Antenleri"/>
+            </category>
+        </category>
+        <category instanceCount="0" realPath="" id="1.17" name="Fotoğraf ve Kamera">
+            <category instanceCount="0" realPath="" id="1.17.1" name="Fotoğraf">
+                <category instanceCount="0" realPath="" id="1.17.1.1" name="Flash Kartlar"/>
+                <category instanceCount="0" realPath="" id="1.17.1.2" name="Taşıma Çantaları"/>
+                <category instanceCount="0" realPath="" id="1.17.1.3" name="Dijital Fotoğraf Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.17.1.4" name="Dijital Fotoğraf Yazıcıları"/>
+                <category instanceCount="0" realPath="" id="1.17.1.5" name="Fotoğraf Kağıtları"/>
+                <category instanceCount="0" realPath="" id="1.17.1.6" name="Sualtı Kılıfları"/>
+                <category instanceCount="0" realPath="" id="1.17.1.7" name="Sabitleyiciler (Tripod)"/>
+                <category instanceCount="0" realPath="" id="1.17.1.8" name="Pil Ve Şarj Cihazları"/>
+                <category instanceCount="0" realPath="" id="1.17.1.9" name="Objektifler"/>
+                <category instanceCount="0" realPath="" id="1.17.1.10" name="Objektif Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.17.1.11" name="Kart Okuyucular"/>
+                <category instanceCount="0" realPath="" id="1.17.1.12" name="Dijital Fotoğraf Çerçeveleri"/>
+                <category instanceCount="0" realPath="" id="1.17.1.13" name="Dijital SLR Fotoğraf Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.17.1.14" name="Foto (Lens) Temizlik Gereçleri"/>
+                <category instanceCount="0" realPath="" id="1.17.1.15" name="Flaşlar"/>
+                <category instanceCount="0" realPath="" id="1.17.1.16" name="Filtre Ürünleri"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.17.2" name="Kamera">
+                <category instanceCount="0" realPath="" id="1.17.2.1" name="Video Kamera Çantaları"/>
+                <category instanceCount="0" realPath="" id="1.17.2.2" name="Video Kameralar"/>
+                <category instanceCount="0" realPath="" id="1.17.2.3" name="Video Kamera Şarj Cihazları ve Pilleri"/>
+                <category instanceCount="0" realPath="" id="1.17.2.4" name="Video Kamera Boş Kaset ve Dvd"/>
+                <category instanceCount="0" realPath="" id="1.17.2.5" name="Video Kamera Aksesuar Seti"/>
+            </category>
+        </category>
+        <category instanceCount="0" realPath="" id="1.18" name="Outdoor">
+            <category instanceCount="0" realPath="" id="1.18.1" name="Outdoor-Kamp Malzemeleri">
+                <category instanceCount="0" realPath="" id="1.18.1.1" name="Dürbünler"/>
+                <category instanceCount="0" realPath="" id="1.18.1.2" name="Teleskoplar"/>
+                <category instanceCount="0" realPath="" id="1.18.1.3" name="Uyku Tulumları"/>
+                <category instanceCount="0" realPath="" id="1.18.1.4" name="Tırmanış"/>
+                <category instanceCount="0" realPath="" id="1.18.1.5" name="Termoslar ve Muglar ve Buzluklar">
+                    <category instanceCount="0" realPath="" id="1.18.1.5.1" name="Matara"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.5.2" name="Termos"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.5.3" name="Mug"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.5.4" name="Buzluk"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.18.1.6" name="Tente ve Salıncaklar"/>
+                <category instanceCount="0" realPath="" id="1.18.1.7" name="Tabure - Sandalye - Masa"/>
+                <category instanceCount="0" realPath="" id="1.18.1.8" name="Şişme Yataklar"/>
+                <category instanceCount="0" realPath="" id="1.18.1.9" name="Bisiklet"/>
+                <category instanceCount="0" realPath="" id="1.18.1.10" name="GPS - Navigasyon Cihazları"/>
+                <category instanceCount="0" realPath="" id="1.18.1.11" name="Fenerler"/>
+                <category instanceCount="0" realPath="" id="1.18.1.12" name="Kayak- Snowboard"/>
+                <category instanceCount="0" realPath="" id="1.18.1.13" name="Çadırlar - Matlar"/>
+                <category instanceCount="0" realPath="" id="1.18.1.14" name="GPS Cihazları"/>
+                <category instanceCount="0" realPath="" id="1.18.1.15" name="Çantalar"/>
+                <category instanceCount="0" realPath="" id="1.18.1.16" name="Kovucular"/>
+                <category instanceCount="0" realPath="" id="1.18.1.17" name="Dalış Malzemeleri"/>
+                <category instanceCount="0" realPath="" id="1.18.1.18" name="Pusulalar"/>
+                <category instanceCount="0" realPath="" id="1.18.1.19" name="Paintball"/>
+                <category instanceCount="0" realPath="" id="1.18.1.20" name="Balık Av Malzemeleri">
+                    <category instanceCount="0" realPath="" id="1.18.1.20.1" name="Olta Makıneleri"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.20.2" name="Kamış - Makine Tutucular"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.20.3" name="Kamışlar"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.20.4" name="Takım Çantaları"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.20.5" name="Suni Yemler"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.20.6" name="Kamış Kılıfı ve Makine Çantaları"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.20.7" name="Misina"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.20.8" name="Kaşık"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.20.9" name="İğneler"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.20.10" name="Fly Ürünleri"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.20.11" name="Diğer Yardımcı Malzemeler"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.18.1.21" name="Koruyucu Çantalar"/>
+                <category instanceCount="0" realPath="" id="1.18.1.22" name="Kara Av Malzemeleri"/>
+                <category instanceCount="0" realPath="" id="1.18.1.23" name="Kamp Ocakları ve El- Ayak Isıtıcıları"/>
+                <category instanceCount="0" realPath="" id="1.18.1.24" name="Kamp Malzemeleri"/>
+                <category instanceCount="0" realPath="" id="1.18.1.25" name="İlk Yardım Malzemeleri"/>
+                <category instanceCount="0" realPath="" id="1.18.1.26" name="Havalı Spor Silahları"/>
+                <category instanceCount="0" realPath="" id="1.18.1.27" name="Hamaklar-Şezlonglar-Şemsiyeler"/>
+                <category instanceCount="0" realPath="" id="1.18.1.28" name="GPS Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.18.1.29" name="Giyim (outdoor)">
+                    <category instanceCount="0" realPath="" id="1.18.1.29.1" name="Yağmurluklar"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.29.2" name="Termal İç Giyim"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.29.3" name="Çorap ve Tozluklar"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.29.4" name="Sweatshirt-TShirt"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.29.5" name="Eldivenler"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.29.6" name="Bere"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.29.7" name="Şapkalar"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.29.8" name="Pantolon ve Kapri"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.29.9" name="Montlar ve Ceketler"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.29.10" name="Gömlekler"/>                 
+                </category>
+                <category instanceCount="0" realPath="" id="1.18.1.30" name="Çakılar ve Bıçaklar">
+                    <category instanceCount="0" realPath="" id="1.18.1.30.1" name="Wenger Çakı ve Bıçaklar"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.30.2" name="Victorinox Çakılar"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.30.3" name="Leatherman Çakı ve Bıçaklar"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.30.4" name="Opinel Çakılar"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.30.5" name="Savage Çakı ve Bıçaklar"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.30.6" name="Victorinox Bıçaklar ve Aksesuarlar"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.30.7" name="Spyderco Çakı ve Bıçaklar"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.30.8" name="Bora Bıçakları"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.30.9" name="BUCK BIÇAKLAR"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.30.10" name="Cold Steel Çakı ve Bıçaklar"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.30.11" name="True Çakı ve Bıçaklar"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.30.12" name="Mammut Çakı ve Bıçaklar"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.30.13" name="Ka-Bar Çakı ve Bıçaklar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.18.1.31" name="BUFF"/>
+                <category instanceCount="0" realPath="" id="1.18.1.32" name="Bandana"/>
+                <category instanceCount="0" realPath="" id="1.18.1.33" name="Ayakkabılar-Botlar">
+                    <category instanceCount="0" realPath="" id="1.18.1.33.1" name="Günlük-Trekking Ayakkabılar"/>
+                    <category instanceCount="0" realPath="" id="1.18.1.33.2" name="Dağcılık Botları"/>
+                </category>
+            </category>
+            <category instanceCount="0" realPath="" id="1.18.2" name="Marine - Deniz">
+                <category instanceCount="0" realPath="" id="1.18.2.1" name="Deniz ve Eğlence Ürünleri (Şişme Ürünler)"/>
+                <category instanceCount="0" realPath="" id="1.18.2.2" name="Yüzme Malzemeleri"/>
+                <category instanceCount="0" realPath="" id="1.18.2.3" name="Yelken">
+                    <category instanceCount="0" realPath="" id="1.18.2.3.1" name="Pantalon ve Salopetler"/>
+                    <category instanceCount="0" realPath="" id="1.18.2.3.2" name="Yelken Ayakkabıları Ve Çizmeler"/>
+                    <category instanceCount="0" realPath="" id="1.18.2.3.3" name="Eldiven-Şapka-Aksesuar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.18.2.4" name="Şişme Botlar"/>
+                <category instanceCount="0" realPath="" id="1.18.2.5" name="Tekne - Sandal"/>
+                <category instanceCount="0" realPath="" id="1.18.2.6" name="Soğutucular (Termoelektrikli-Kompresörlü)">
+                    <category instanceCount="0" realPath="" id="1.18.2.6.1" name="Termoelektrikli Soğutucular"/>
+                    <category instanceCount="0" realPath="" id="1.18.2.6.2" name="Deniz Motorları">
+                        <category instanceCount="0" realPath="" id="1.18.2.6.2.1" name="Marine Tipi Soğutucular"/>
+                    </category>
+                </category>
+                <category instanceCount="0" realPath="" id="1.18.2.7" name="Deniz Motorları">
+                    <category instanceCount="0" realPath="" id="1.18.2.7.1" name="Deniz Motorları">
+                        <category instanceCount="0" realPath="" id="1.18.2.7.1.1" name="Tohatsu"/>
+                        <category instanceCount="0" realPath="" id="1.18.2.7.1.2" name="Mercury"/>
+                        <category instanceCount="0" realPath="" id="1.18.2.7.1.3" name="Evinrude"/>
+                    </category>
+                </category>
+                <category instanceCount="0" realPath="" id="1.18.2.8" name="Balık Bulucular"/>
+                <category instanceCount="0" realPath="" id="1.18.2.9" name="Göl Motorları"/>
+                <category instanceCount="0" realPath="" id="1.18.2.10" name="Kano"/>
+            </category>
+        </category>
+        <category instanceCount="0" realPath="" id="1.19" name="Sağlık ve Güzellik">
+            <category instanceCount="0" realPath="" id="1.19.1" name="Kişisel Bakım ve Sağlık">
+                <category instanceCount="0" realPath="" id="1.19.1.1" name="Yüz Ve Vücut Bakım Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.19.1.2" name="Yüz Bakımı"/>
+
+				<category instanceCount="0" realPath="" id="1.19.1.3" name="Kozmetik">
+					<category instanceCount="0" realPath="" id="1.19.1.3.1" name="Parfümler"/>
+					<category instanceCount="0" realPath="" id="1.19.1.3.2" name="Saç Bakım Ürünleri">
+						<category instanceCount="0" realPath="" id="1.19.1.3.2.1" name="Saç Bakım Yağları"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.2.2" name="Saç Kremleri"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.2.3" name="Serumlar"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.2.4" name="Saç Maskesi"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.2.5" name="Şampuanlar"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.2.6" name="Saç Şekillendiriciler"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.2.7" name="Saç Losyonları"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.2.8" name="Saç Bakım Kitleri"/>
+					</category>
+					<category instanceCount="0" realPath="" id="1.19.1.3.3" name="Makyaj Ürünleri">
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.1" name="Pudra"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.2" name="Kapatıcılar"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.3" name="Fondötenler"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.4" name="Parlatıcılar"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.5" name="Makyaj Temizleme"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.6" name="Takma Kirpikler"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.7" name="Farlar"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.8" name="Rujlar"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.9" name="Rimel"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.10" name="Oje"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.11" name="Maskaralar"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.12" name="Göz Kalemleri"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.13" name="LipStick"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.14" name="Kaş Kalemi"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.15" name="Eyeliner"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.16" name="Dudak Kalemi"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.17" name="Allıklar"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.18" name="Lipgloss"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.19" name="Tırnak Bakım"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.20" name="Dudak Bakım"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.3.21" name="Bronzlaştırıcılar"/>
+					</category>
+					<category instanceCount="0" realPath="" id="1.19.1.3.4" name="Cilt Bakımı">
+						<category instanceCount="0" realPath="" id="1.19.1.3.4.1" name="Vücut Bakım Ürünleri"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.4.2" name="Diş Bakım Ürünleri"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.4.3" name="Cilt Bakım Ürünleri"/>
+						<category instanceCount="0" realPath="" id="1.19.1.3.4.4" name="Güneş Ürünleri"/>						
+					</category>
+				</category>	
+                <category instanceCount="0" realPath="" id="1.19.1.4" name="Sevgililer Günü Kofre Ve Paketleri"/>
+                <category instanceCount="0" realPath="" id="1.19.1.5" name="Tıraş Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.19.1.6" name="Tıraş Bıçak-Jeller Ve Kolonyaları"/>
+                <category instanceCount="0" realPath="" id="1.19.1.7" name="Diet ve Zayıflama Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.19.1.8" name="Tansiyon Aletleri"/>
+                <category instanceCount="0" realPath="" id="1.19.1.9" name="Sigara Ürünleri"/>                
+                <category instanceCount="0" realPath="" id="1.19.1.10" name="Cinsel Sağlık">
+                    <category instanceCount="0" realPath="" id="1.19.1.10.1" name="Geciktirici Ürünler"/>
+                    <category instanceCount="0" realPath="" id="1.19.1.10.2" name="Cinsel İstek Arttırıcılar"/>
+                    <category instanceCount="0" realPath="" id="1.19.1.10.3" name="Prezervatifler"/>
+                    <category instanceCount="0" realPath="" id="1.19.1.10.4" name="Kayganlaştırcı Jeller"/>
+                    <category instanceCount="0" realPath="" id="1.19.1.10.5" name="Erotik Masaj Yağları"/>
+                    <category instanceCount="0" realPath="" id="1.19.1.10.6" name="Cinsel Temizlik"/>
+                    <category instanceCount="0" realPath="" id="1.19.1.10.7" name="Gebelik Testi"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.19.1.11" name="Epilasyon Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.19.1.12" name="Saç ve Fiziksel Terapi Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.19.1.13" name="Sağlık Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.19.1.14" name="Saç Bakımı"/>
+                <category instanceCount="0" realPath="" id="1.19.1.15" name="Saç Şekillendirici Cihazlar"/>
+                <category instanceCount="0" realPath="" id="1.19.1.16" name="Ateş Ölçerler"/>
+                <category instanceCount="0" realPath="" id="1.19.1.17" name="Saç Sakal Bakım Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.19.1.18" name="Saç Kurutma Makineleri"/>
+                <category instanceCount="0" realPath="" id="1.19.1.19" name="Sabunlar"/>
+                <category instanceCount="0" realPath="" id="1.19.1.20" name="Cıt Cıt Ve Postişler"/>
+                <category instanceCount="0" realPath="" id="1.19.1.21" name="Pedometreler"/>
+                <category instanceCount="0" realPath="" id="1.19.1.22" name="Oda Spreyleri"/>
+                <category instanceCount="0" realPath="" id="1.19.1.23" name="Masaj Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.19.1.24" name="Lensler"/>
+                <category instanceCount="0" realPath="" id="1.19.1.25" name="Kan Şeker Ölçüm Cihazları"/>
+                <category instanceCount="0" realPath="" id="1.19.1.26" name="Hijyenik Bezler"/>
+                <category instanceCount="0" realPath="" id="1.19.1.27" name="Sağlık Önlemleri"/>
+                <category instanceCount="0" realPath="" id="1.19.1.28" name="Göğüs Bakım Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.19.1.29" name="El - Tırnak Bakım Ve Manikür Setleri"/>
+                <category instanceCount="0" realPath="" id="1.19.1.30" name="Banyo Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.19.1.31" name="Duş Jeli ve Şampuanları"/>
+                <category instanceCount="0" realPath="" id="1.19.1.32" name="Dudak Bakımı"/>
+                <category instanceCount="0" realPath="" id="1.19.1.33" name="Bitkisel Bakım ve Sağlık"/>                
+                <category instanceCount="0" realPath="" id="1.19.1.34" name="Bijuteri Ürünleri">
+                    <category instanceCount="0" realPath="" id="1.19.1.34.1" name="Ağda Ürünleri"/>
+                    <category instanceCount="0" realPath="" id="1.19.1.34.2" name="Bigudiler"/>
+                    <category instanceCount="0" realPath="" id="1.19.1.34.3" name="Makyaj Ürünleri"/>
+                    <category instanceCount="0" realPath="" id="1.19.1.34.4" name="Tırnak Makasları"/>
+                    <category instanceCount="0" realPath="" id="1.19.1.34.5" name="Deodorant Ve Parfümler"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.19.1.35" name="Baskül ve Teraziler"/>
+                <category instanceCount="0" realPath="" id="1.19.1.36" name="Ayak Sağlığı"/>
+                <category instanceCount="0" realPath="" id="1.19.1.37" name="Ağrı Gidericiler"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.19.2" name="Medikal Ürünleri">
+                <category instanceCount="0" realPath="" id="1.19.2.1" name="Ortopedik Yatak Ve Yastıklar"/>
+                <category instanceCount="0" realPath="" id="1.19.2.2" name="Nebulizatörler"/>
+                <category instanceCount="0" realPath="" id="1.19.2.3" name="Kumaş Ortopedi"/>
+                <category instanceCount="0" realPath="" id="1.19.2.4" name="Steteskoplar"/>
+                <category instanceCount="0" realPath="" id="1.19.2.5" name="Metal Ortopedi"/>
+                <category instanceCount="0" realPath="" id="1.19.2.6" name="Ortopedik Terlikler Ve Ayakkabılar"/>
+                <category instanceCount="0" realPath="" id="1.19.2.7" name="Varis Çorapları"/>
+                <category instanceCount="0" realPath="" id="1.19.2.8" name="Diğer Medikal Ürünleri"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.19.3" name="Besin Takviyeleri"/>
+        </category>
+        <category instanceCount="0" realPath="" id="1.20" name="Takı ve Mücevher">
+            <category instanceCount="0" realPath="" id="1.20.1" name="Kolye ve Kolye Uçları"/>
+            <category instanceCount="0" realPath="" id="1.20.2" name="Bilezik"/>
+            <category instanceCount="0" realPath="" id="1.20.3" name="Yüzükler"/>
+            <category instanceCount="0" realPath="" id="1.20.4" name="Küpeler"/>
+            <category instanceCount="0" realPath="" id="1.20.5" name="Takımlar"/>
+			<category instanceCount="0" realPath="" id="1.20.6" name="Diğer"/>
+			<category instanceCount="0" realPath="" id="1.20.7" name="Bileklik"/>
+			<category instanceCount="0" realPath="" id="1.20.8" name="Broşlar"/>
+			<category instanceCount="0" realPath="" id="1.20.9" name="Künyeler"/>	
+			<category instanceCount="0" realPath="" id="1.20.10" name="Yaka İğnesi"/>
+			<category instanceCount="0" realPath="" id="1.20.11" name="Zincirler"/>
+            <category instanceCount="0" realPath="" id="1.20.12" name="Tesbihler"/>
+        </category>
+        <category instanceCount="0" realPath="" id="1.21" name="Giyim ve Aksesuar">
+            <category instanceCount="0" realPath="" id="1.21.1" name="Giyim Aksesuar">
+                <category instanceCount="0" realPath="" id="1.21.1.1" name="AtkıveBereveEldivenveŞal">
+                    <category instanceCount="0" realPath="" id="1.21.1.1.1" name="Takım"/>
+                    <category instanceCount="0" realPath="" id="1.21.1.1.2" name="Şal"/>
+                    <category instanceCount="0" realPath="" id="1.21.1.1.3" name="Bere"/>
+                    <category instanceCount="0" realPath="" id="1.21.1.1.4" name="Eldiven"/>
+                    <category instanceCount="0" realPath="" id="1.21.1.1.5" name="Atkı"/>
+                    <category instanceCount="0" realPath="" id="1.21.1.1.6" name="Aksesuar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.21.1.2" name="Tasarım Ürünleri">
+                    <category instanceCount="0" realPath="" id="1.21.1.2.1" name="Peluşlar"/>
+                    <category instanceCount="0" realPath="" id="1.21.1.2.2" name="Tasarım Aksesuar"/>
+                    <category instanceCount="0" realPath="" id="1.21.1.2.3" name="Tasarım OfisveKırtasiye"/>
+                    <category instanceCount="0" realPath="" id="1.21.1.2.4" name="Tasarım Ev"/>
+                    <category instanceCount="0" realPath="" id="1.21.1.2.5" name="Tasarım Eğlence"/>
+                    <category instanceCount="0" realPath="" id="1.21.1.2.6" name="Tasarım Bilişim"/>
+                    <category instanceCount="0" realPath="" id="1.21.1.2.7" name="Sihirli Ürünler"/>
+                    <category instanceCount="0" realPath="" id="1.21.1.2.8" name="IsıtıcılarveSıcak Çoraplar"/>                    
+                </category>
+                <category instanceCount="0" realPath="" id="1.21.1.3" name="Şemsiyeler"/>
+                <category instanceCount="0" realPath="" id="1.21.1.4" name="Şapkalar"/>
+                <category instanceCount="0" realPath="" id="1.21.1.5" name="Çanta ve Cüzdan ve Kemer"/>
+                <category instanceCount="0" realPath="" id="1.21.1.6" name="Kravat İğnesiveKol Düğmeleri"/>
+                <category instanceCount="0" realPath="" id="1.21.1.7" name="Kravat"/>
+                <category instanceCount="0" realPath="" id="1.21.1.8" name="Eşarp ve Fular"/>
+                <category instanceCount="0" realPath="" id="1.21.1.9" name="Hediye Sepetleri"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.21.2" name="Giyim">
+                <category instanceCount="0" realPath="" id="1.21.2.1" name="TakımveSet"/>
+                <category instanceCount="0" realPath="" id="1.21.2.2" name="Twinset"/>
+                <category instanceCount="0" realPath="" id="1.21.2.3" name="Tunik"/>
+                <category instanceCount="0" realPath="" id="1.21.2.4" name="Triko"/>
+                <category instanceCount="0" realPath="" id="1.21.2.5" name="Tayt"/>
+                <category instanceCount="0" realPath="" id="1.21.2.6" name="Takım Elbise"/>
+                <category instanceCount="0" realPath="" id="1.21.2.7" name="T-ShirtveSweatshirt"/>
+                <category instanceCount="0" realPath="" id="1.21.2.8" name="Süveter"/>
+                <category instanceCount="0" realPath="" id="1.21.2.9" name="Şort"/>
+                <category instanceCount="0" realPath="" id="1.21.2.10" name="Penye"/>
+                <category instanceCount="0" realPath="" id="1.21.2.11" name="Pardesü"/>
+                <category instanceCount="0" realPath="" id="1.21.2.12" name="Pantolon"/>
+                <category instanceCount="0" realPath="" id="1.21.2.13" name="Mont"/>
+                <category instanceCount="0" realPath="" id="1.21.2.14" name="Manto"/>
+                <category instanceCount="0" realPath="" id="1.21.2.15" name="Kazak"/>
+                <category instanceCount="0" realPath="" id="1.21.2.16" name="Kaban"/>
+                <category instanceCount="0" realPath="" id="1.21.2.17" name="Hırka"/>
+                <category instanceCount="0" realPath="" id="1.21.2.18" name="Gömlek"/>
+                <category instanceCount="0" realPath="" id="1.21.2.19" name="Elbise"/>
+                <category instanceCount="0" realPath="" id="1.21.2.20" name="Etek"/>
+                <category instanceCount="0" realPath="" id="1.21.2.21" name="CeketveYelek"/>
+                <category instanceCount="0" realPath="" id="1.21.2.22" name="Bluz"/>
+                <category instanceCount="0" realPath="" id="1.21.2.23" name="Eşofman"/>
+                <category instanceCount="0" realPath="" id="1.21.2.24" name="Body"/>
+                <category instanceCount="0" realPath="" id="1.21.2.25" name="Bolero"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.21.3" name="Mayo ve Bikini ve Plaj">
+                <category instanceCount="0" realPath="" id="1.21.3.1" name="Plaj Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.21.3.2" name="Plaj Elbiseleri"/>
+                <category instanceCount="0" realPath="" id="1.21.3.3" name="Mayo Şhort"/>
+                <category instanceCount="0" realPath="" id="1.21.3.4" name="Bikini Mayo"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.21.4" name="İç Giyim">
+                <category instanceCount="0" realPath="" id="1.21.4.1" name="Kadın İç Giyim">
+                    <category instanceCount="0" realPath="" id="1.21.4.1.1" name="Fantazi İç Giyim"/>
+                    <category instanceCount="0" realPath="" id="1.21.4.1.2" name="Vücut Çorabı"/>
+                    <category instanceCount="0" realPath="" id="1.21.4.1.3" name="EteklerveElbiseler"/>
+                    <category instanceCount="0" realPath="" id="1.21.4.1.4" name="Takım"/>
+                    <category instanceCount="0" realPath="" id="1.21.4.1.5" name="Sabahlık-Gecelik-Pijama"/>
+                    <category instanceCount="0" realPath="" id="1.21.4.1.6" name="Sütyen"/>
+                    <category instanceCount="0" realPath="" id="1.21.4.1.7" name="Baby Doll"/>
+                    <category instanceCount="0" realPath="" id="1.21.4.1.8" name="KorseveJipon"/>
+                    <category instanceCount="0" realPath="" id="1.21.4.1.9" name="Jartiyer"/>
+                    <category instanceCount="0" realPath="" id="1.21.4.1.10" name="İç Giyim Aksesuar"/>
+                    <category instanceCount="0" realPath="" id="1.21.4.1.11" name="G-String"/>
+                    <category instanceCount="0" realPath="" id="1.21.4.1.12" name="Büstiyer"/>
+                </category>
+				<category instanceCount="0" realPath="" id="1.21.4.2" name="Külot"/>
+                <category instanceCount="0" realPath="" id="1.21.4.3" name="Atlet"/>
+                <category instanceCount="0" realPath="" id="1.21.4.4" name="Çoraplar">
+                    <category instanceCount="0" realPath="" id="1.21.4.4.1" name="Kadın Çoraplar"/>
+                    <category instanceCount="0" realPath="" id="1.21.4.4.2" name="Erkek Çoraplar"/>
+                </category>                
+            </category>
+        </category>
+        <category instanceCount="0" realPath="" id="1.22" name="Anne ve Bebek ve Çocuk">
+            <category instanceCount="0" realPath="" id="1.22.1" name="Bebekler İçin">
+                <category instanceCount="0" realPath="" id="1.22.1.1" name="Bebek Sağlık Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.22.1.2" name="Bebek Kozmetik"/>
+                <category instanceCount="0" realPath="" id="1.22.1.3" name="Yürüteçler"/>
+                <category instanceCount="0" realPath="" id="1.22.1.4" name="Mama Sandalyeleri"/>
+                <category instanceCount="0" realPath="" id="1.22.1.5" name="İsme Özel Hediyelik Ürünler"/>
+                <category instanceCount="0" realPath="" id="1.22.1.6" name="Bebek Odası">
+                    <category instanceCount="0" realPath="" id="1.22.1.6.1" name="Beşikler ve Oyun Parkları"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.6.2" name="Yataklar"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.6.3" name="Bebek Işıkları ve Dönenceler"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.6.4" name="Bebek Alt Açma Setleri"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.6.5" name="Bebek Nevresim Takımı ve Uyku Setleri"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.6.6" name="Mobilya Kulpları"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.6.7" name="Bebek Odası Mobilyaları"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.6.8" name="Bebek Odası Duvar Süslemeleri"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.22.1.7" name="Bakım ve Güvenlik Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.22.1.8" name="Bebek Telsizleri ve Monitörü"/>
+                <category instanceCount="0" realPath="" id="1.22.1.9" name="Bebek Oyuncakları"/>
+                <category instanceCount="0" realPath="" id="1.22.1.10" name="Bebek Banyo ve Tuvalet">
+                    <category instanceCount="0" realPath="" id="1.22.1.10.1" name="Bebek Banyo"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.10.2" name="Bebek Tuvalet"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.22.1.11" name="Bebek Taşıma Ürünleri">
+                    <category instanceCount="0" realPath="" id="1.22.1.11.1" name="Bebek Arabaları ve Pusetler"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.11.2" name="Seyahat Sistemleri"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.11.3" name="Ana Kucağı ve Oto Koltuğu"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.11.4" name="Kangurular"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.11.5" name="İkiz Bebek Arabaları"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.22.1.12" name="Bebek Beslenme Gereçleri">
+                    <category instanceCount="0" realPath="" id="1.22.1.12.1" name="Pişirici ve Doğrayıcılar"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.12.2" name="Yemek Setleri"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.12.3" name="Önlükler"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.12.4" name="Biberon Emzikleri ve Yalancı Emzikler"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.12.5" name="Bardaklar"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.12.6" name="Biberon Isıtıcı ve Sterilizatörler"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.12.7" name="Biberonlar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.22.1.13" name="Diş Kaşıyıcıları"/>
+                <category instanceCount="0" realPath="" id="1.22.1.14" name="Bebek Tekstil">
+                    <category instanceCount="0" realPath="" id="1.22.1.14.1" name="Bebek Takımları"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.14.2" name="Bebek Setleri"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.14.3" name="Bebek Bodyler"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.14.4" name="Bebek Patiği"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.14.5" name="Bebek Battaniyeleri"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.14.6" name="Cleanglobe Organik Bebek Ürünleri"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.22.1.15" name="Bebek Mamaları">
+                    <category instanceCount="0" realPath="" id="1.22.1.15.1" name="Biberon Mamalar"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.15.2" name="Kaşık Mamaları"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.15.3" name="Bebek Çayları"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.15.4" name="Kavanoz Mamalar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.22.1.16" name="Bebek Hediyelik">
+                    <category instanceCount="0" realPath="" id="1.22.1.16.1" name="Hediye Pastalar ve Sepetler"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.16.2" name="Resimlikler ve Anı Defterleri"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.16.3" name="Kapı Süsleri"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.16.4" name="Hediyelik T-Shirt"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.16.5" name="Altın Yastıkları"/>
+                    <category instanceCount="0" realPath="" id="1.22.1.16.6" name="Bebek Çikolataları"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.22.1.17" name="Bebek Bezleri"/>
+            </category>
+            
+            <category instanceCount="0" realPath="" id="1.22.2" name="Çocuklar İçin">
+                <category instanceCount="0" realPath="" id="1.22.2.1" name="Çocuk Odası Dekorasyon">
+                    <category instanceCount="0" realPath="" id="1.22.2.1.1" name="Duvar Süsleri"/>
+                    <category instanceCount="0" realPath="" id="1.22.2.1.2" name="Oda Aksesuarları"/>
+                    <category instanceCount="0" realPath="" id="1.22.2.1.3" name="Masalar"/>
+                    <category instanceCount="0" realPath="" id="1.22.2.1.4" name="Perdeler"/>
+                    <category instanceCount="0" realPath="" id="1.22.2.1.5" name="Çocuk Yastık ve Yorganları"/>
+                    <category instanceCount="0" realPath="" id="1.22.2.1.6" name="Oda Aydınlatmaları"/>
+                    <category instanceCount="0" realPath="" id="1.22.2.1.7" name="Oyun Çadırları"/>
+                    <category instanceCount="0" realPath="" id="1.22.2.1.8" name="Halılar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.22.2.2" name="Parti Malzemeleri"/>
+                <category instanceCount="0" realPath="" id="1.22.2.3" name="Oyuncaklar"/>
+                <category instanceCount="0" realPath="" id="1.22.2.4" name="Elektronik Oyuncaklar"/>
+                <category instanceCount="0" realPath="" id="1.22.2.5" name="Okul Öncesi Eğitici Oyuncaklar">
+                    <category instanceCount="0" realPath="" id="1.22.2.5.1" name="Eğitici Setler"/>
+                    <category instanceCount="0" realPath="" id="1.22.2.5.2" name="Yazı Tahtaları"/>
+                    <category instanceCount="0" realPath="" id="1.22.2.5.3" name="Zeka Blokları Yapbozlar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.22.2.6" name="Kostümler"/>
+                <category instanceCount="0" realPath="" id="1.22.2.7" name="Figür Oyuncaklar"/>
+                <category instanceCount="0" realPath="" id="1.22.2.8" name="Deniz ve Plaj Malzemeleri">
+                    <category instanceCount="0" realPath="" id="1.22.2.8.1" name="Plaj Malzemeleri"/>
+                    <category instanceCount="0" realPath="" id="1.22.2.8.2" name="Deniz Malzemeleri"/>                                        
+                </category>
+                <category instanceCount="0" realPath="" id="1.22.2.9" name="Çocuk Kutu Oyunları"/>
+                <category instanceCount="0" realPath="" id="1.22.2.10" name="Çocuk Jimnastik Aletleri"/>
+                <category instanceCount="0" realPath="" id="1.22.2.11" name="Akülü,Elektirikli ve Pedallı Araçlar">
+                    <category instanceCount="0" realPath="" id="1.22.2.11.1" name="Akülü ve Elektirikli Araçlar"/>
+                    <category instanceCount="0" realPath="" id="1.22.2.11.2" name="Pedallı ve Sürümeli Araçlar"/>
+                </category>
+				<category instanceCount="0" realPath="" id="1.22.2.12" name="Ahşap Oyuncak"/>
+                <category instanceCount="0" realPath="" id="1.22.2.13" name="Bisikletler"/>
+                <category instanceCount="0" realPath="" id="1.22.2.14" name="Bilim ve Beceri"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.22.3" name="Anne">
+                <category instanceCount="0" realPath="" id="1.22.3.1" name="Bakım Çantaları"/>
+                <category instanceCount="0" realPath="" id="1.22.3.2" name="Süt Saklama Kapları"/>
+                <category instanceCount="0" realPath="" id="1.22.3.3" name="Rahatlatıcı Krem ve Jeller"/>
+                <category instanceCount="0" realPath="" id="1.22.3.4" name="Hamile İç Giyim"/>
+                <category instanceCount="0" realPath="" id="1.22.3.5" name="Hamile Giyim"/>
+                <category instanceCount="0" realPath="" id="1.22.3.6" name="Hamile Çorap"/>
+                <category instanceCount="0" realPath="" id="1.22.3.7" name="Hamile Bakım Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.22.3.8" name="Göğüs Pompaları"/>
+                <category instanceCount="0" realPath="" id="1.22.3.9" name="Göğüs Koruyusucu ve Pedler"/>
+                <category instanceCount="0" realPath="" id="1.22.3.10" name="Anne Sütü Arttırıcı"/>
+                <category instanceCount="0" realPath="" id="1.22.3.11" name="Anne Emzirme Yastıkları"/>                
+            </category>
+        </category>
+        <category instanceCount="0" realPath="" id="1.23" name="Müzik">
+            <category instanceCount="0" realPath="" id="1.23.1" name="Yabancı Sanatçılar">
+                <category instanceCount="0" realPath="" id="1.23.1.1" name="Disney"/>
+                <category instanceCount="0" realPath="" id="1.23.1.2" name="Yabancı Soundtrack"/>
+                <category instanceCount="0" realPath="" id="1.23.1.3" name="Yabancı Jazz"/>
+                <category instanceCount="0" realPath="" id="1.23.1.4" name="Yabancı Pop"/>
+                <category instanceCount="0" realPath="" id="1.23.1.5" name="Müzik Dvd"/>
+                <category instanceCount="0" realPath="" id="1.23.1.6" name="Yabancı Rock"/>
+                <category instanceCount="0" realPath="" id="1.23.1.7" name="Yabancı Newage"/>
+                <category instanceCount="0" realPath="" id="1.23.1.8" name="Yabancı Club"/>
+                <category instanceCount="0" realPath="" id="1.23.1.9" name="Yabancı Greek Müzik"/>
+                <category instanceCount="0" realPath="" id="1.23.1.10" name="Yabancı Etnik Müzik"/>
+                <category instanceCount="0" realPath="" id="1.23.1.11" name="Yabancı Film Müzikleri"/>
+                <category instanceCount="0" realPath="" id="1.23.1.12" name="Yabancı Klasik"/>
+                <category instanceCount="0" realPath="" id="1.23.1.13" name="Yabancı Nostalgie"/>
+                <category instanceCount="0" realPath="" id="1.23.1.14" name="Yabancı Latin"/>
+                <category instanceCount="0" realPath="" id="1.23.1.15" name="Yabancı Rap"/>
+                <category instanceCount="0" realPath="" id="1.23.1.16" name="Yabancı Enstrümantal Müzik"/>
+                <category instanceCount="0" realPath="" id="1.23.1.17" name="Yabancı Reagge"/>
+                <category instanceCount="0" realPath="" id="1.23.1.18" name="Yabancı Müzikal"/>
+                <category instanceCount="0" realPath="" id="1.23.1.19" name="Yabancı Folk"/>
+                <category instanceCount="0" realPath="" id="1.23.1.20" name="Yabancı Blues"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.23.2" name="Türk Sanatçılar">
+                <category instanceCount="0" realPath="" id="1.23.2.1" name="Pop"/>
+                <category instanceCount="0" realPath="" id="1.23.2.2" name="Rock / Blues / Alternatif"/>
+                <category instanceCount="0" realPath="" id="1.23.2.3" name="Sanat Müziği"/>
+                <category instanceCount="0" realPath="" id="1.23.2.4" name="Özel Albümler"/>
+                <category instanceCount="0" realPath="" id="1.23.2.5" name="Klasik Müzik"/>
+                <category instanceCount="0" realPath="" id="1.23.2.6" name="Alaturka"/>
+                <category instanceCount="0" realPath="" id="1.23.2.7" name="Özgün / Protest"/>
+                <category instanceCount="0" realPath="" id="1.23.2.8" name="Halk Müziği"/>
+                <category instanceCount="0" realPath="" id="1.23.2.9" name="Etnik Müzik"/>
+                <category instanceCount="0" realPath="" id="1.23.2.10" name="Sufi"/>
+                <category instanceCount="0" realPath="" id="1.23.2.11" name="Oyun Havaları"/>
+                <category instanceCount="0" realPath="" id="1.23.2.12" name="Enstrümantal Türk Müziği"/>
+                <category instanceCount="0" realPath="" id="1.23.2.13" name="Film Müziği"/>
+                <category instanceCount="0" realPath="" id="1.23.2.14" name="Jazz / New Age / Klasik"/>
+                <category instanceCount="0" realPath="" id="1.23.2.15" name="Arabesk"/>
+                <category instanceCount="0" realPath="" id="1.23.2.16" name="Fantazi"/>
+                <category instanceCount="0" realPath="" id="1.23.2.17" name="Oryantal"/>
+                <category instanceCount="0" realPath="" id="1.23.2.18" name="Çocuk"/>
+                <category instanceCount="0" realPath="" id="1.23.2.19" name="Şiir"/>
+                <category instanceCount="0" realPath="" id="1.23.2.20" name="Rap / Hip-Hop"/>
+                <category instanceCount="0" realPath="" id="1.23.2.21" name="Müzikal"/>
+                <category instanceCount="0" realPath="" id="1.23.2.22" name="Tango / Kanto"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.23.3" name="Müzik Aletleri">
+                <category instanceCount="0" realPath="" id="1.23.3.1" name="Aksesuarlar">
+                    <category instanceCount="0" realPath="" id="1.23.3.1.1" name="Yaylı Çalgı Aksesuarları"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.1.2" name="Teller"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.1.3" name="Çanta ve Kılıflar"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.1.4" name="Standlar ve Tabureler"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.1.5" name="Tuner ve Metronom"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.1.6" name="Telli Çalgı Aksesuarları"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.1.7" name="Keman Yastıkları"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.1.8" name="Stüdyo-Sahne Aksesuarları"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.1.9" name="Nefesli Çalgı Aksesuarları"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.23.3.2" name="Yaylı Çalgılar">
+                    <category instanceCount="0" realPath="" id="1.23.3.2.1" name="Keman"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.2.2" name="Elektro Keman"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.2.3" name="Viyolonsel"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.2.4" name="Kontrabas"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.2.5" name="Kemençe"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.2.6" name="Viyola"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.2.7" name="Kemane"/>
+                </category>                
+                <category instanceCount="0" realPath="" id="1.23.3.3" name="Gitarlar">
+                    <category instanceCount="0" realPath="" id="1.23.3.3.1" name="Klasik Gitarlar"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.3.2" name="Elektro Gitarlar"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.3.3" name="Bass Gitarlar"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.3.4" name="Akustik Gitarlar"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.23.3.4" name="Udlar"/>
+                <category instanceCount="0" realPath="" id="1.23.3.5" name="Bağlamalar"/>
+                <category instanceCount="0" realPath="" id="1.23.3.6" name="Amfi"/>
+                <category instanceCount="0" realPath="" id="1.23.3.7" name="Darbuka"/>
+                <category instanceCount="0" realPath="" id="1.23.3.8" name="Vurmalı Çalgılar"/>
+                <category instanceCount="0" realPath="" id="1.23.3.9" name="Synthesizer"/>
+                <category instanceCount="0" realPath="" id="1.23.3.10" name="Studyo Monitorler"/>
+                <category instanceCount="0" realPath="" id="1.23.3.11" name="Ritim Pedleri"/>
+                <category instanceCount="0" realPath="" id="1.23.3.12" name="Piyano"/>
+                <category instanceCount="0" realPath="" id="1.23.3.13" name="Pikap"/>
+                <category instanceCount="0" realPath="" id="1.23.3.14" name="Perküsyon"/>
+                <category instanceCount="0" realPath="" id="1.23.3.15" name="Pedal-Prosesör"/>
+                <category instanceCount="0" realPath="" id="1.23.3.16" name="Party Ürünleri"/>
+                <category instanceCount="0" realPath="" id="1.23.3.17" name="Orglar"/>
+                <category instanceCount="0" realPath="" id="1.23.3.18" name="Nefesli Çalgılar">
+                    <category instanceCount="0" realPath="" id="1.23.3.18.1" name="Zurna"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.18.2" name="Flüt"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.18.3" name="Saksafon"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.18.4" name="Yan Flüt"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.18.5" name="Klarnet"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.18.6" name="Ney"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.18.7" name="Kaval"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.18.8" name="Mey"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.18.9" name="Trompet"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.23.3.19" name="Bateriler">
+                    <category instanceCount="0" realPath="" id="1.23.3.19.1" name="Dijital Davullar"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.19.2" name="Akustik Davullar"/>
+                </category>                
+                <category instanceCount="0" realPath="" id="1.23.3.20" name="Keyboard"/>
+                <category instanceCount="0" realPath="" id="1.23.3.21" name="Kayıt Teknolojileri">                    
+                    <category instanceCount="0" realPath="" id="1.23.3.21.1" name="Stüdyo Donanımları ve Teknolojileri"/>
+                    <category instanceCount="0" realPath="" id="1.23.3.21.2" name="Dj Ürünleri"/>
+                </category>
+                <category instanceCount="0" realPath="" id="1.23.3.22" name="Mikrofonlar"/>
+                <category instanceCount="0" realPath="" id="1.23.3.23" name="Mızıkalar"/>
+                <category instanceCount="0" realPath="" id="1.23.3.24" name="Mixerler"/>                
+                <category instanceCount="0" realPath="" id="1.23.3.25" name="Mandolinler"/>                
+                <category instanceCount="0" realPath="" id="1.23.3.26" name="Kanun"/>
+                <category instanceCount="0" realPath="" id="1.23.3.27" name="Işık Sistemleri"/>
+                <category instanceCount="0" realPath="" id="1.23.3.28" name="Defler"/>
+                <category instanceCount="0" realPath="" id="1.23.3.29" name="Davullar"/>
+                <category instanceCount="0" realPath="" id="1.23.3.30" name="Banjo"/>
+                <category instanceCount="0" realPath="" id="1.23.3.31" name="Akordiyonlar"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.23.4" name="Posterler"/>
+        </category>
+        <category instanceCount="0" realPath="" id="1.24" name="Saat ve Gözlük">
+            <category instanceCount="0" realPath="" id="1.24.1" name="Saatler">
+				<category instanceCount="0" realPath="" id="1.24.1.1" name="Kol Saatleri"/>
+                <category instanceCount="0" realPath="" id="1.24.1.2" name="Duvar Saatleri"/>
+                <category instanceCount="0" realPath="" id="1.24.1.3" name="Masaüstü Saatler"/>
+            </category>
+            <category instanceCount="0" realPath="" id="1.24.2" name="Güneş Gözlükleri"/>
+            <category instanceCount="0" realPath="" id="1.24.3" name="Aksesuarlar">
+                <category instanceCount="0" realPath="" id="1.24.3.1" name="Çakmaklar Ve Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.24.3.2" name="Sigara Tabakaları"/>
+                <category instanceCount="0" realPath="" id="1.24.3.3" name="Puro Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.24.3.4" name="Pipolar ve Aksesuarları"/>
+                <category instanceCount="0" realPath="" id="1.24.3.5" name="Nargileler"/>
+                <category instanceCount="0" realPath="" id="1.24.3.6" name="İçki Mataraları"/>
+                <category instanceCount="0" realPath="" id="1.24.3.7" name="Anahtarlıklar"/>
+            </category>
+        </category>
+        <category instanceCount="0" realPath="" id="1.25" name="Pet Shop">
+            <category instanceCount="0" realPath="" id="1.25.1" name="Akvaryum"/>
+            <category instanceCount="0" realPath="" id="1.25.2" name="Kuş"/>
+            <category instanceCount="0" realPath="" id="1.25.3" name="Kedi"/>
+            <category instanceCount="0" realPath="" id="1.25.4" name="Kemirgenler ve Sürüngenler"/>
+            <category instanceCount="0" realPath="" id="1.25.5" name="Köpek"/>
+        </category>
+        <category instanceCount="0" realPath="" id="1.26" name="Gıda ve Temel Tüketim"/>       
+        <category instanceCount="0" realPath="" id="1.27" name="Çiçek"/>
+    </category>
+</rootType>

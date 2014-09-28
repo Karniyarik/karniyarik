@@ -1,0 +1,21 @@
+/** sprite: sprite-l; sprite-image: url('../images/sprite-l.png'); sprite-layout: vertical;	sprite-image-uid: none;	sprite-margin-bottom: 2px;*/
+.logo-img {
+	background-repeat: no-repeat;
+	height: 95px;
+	width: 418px;
+	background-image: url(../images/logo/karniyarik418x95.png); /** sprite-ref: sprite-l;*/
+}
+
+.logo-s-img {
+	background-repeat: no-repeat;
+	height: 69px;
+	width: 303px;
+	background-image: url(../images/logo/karniyarik303x69.png); /** sprite-ref: sprite-l;*/
+}
+
+.addsite{
+	background-repeat: no-repeat;
+	width: 119px;
+	height: 23px;
+	background-image: url(../images/tosprite/addsite.png); /** sprite-ref: sprite;*/
+}
