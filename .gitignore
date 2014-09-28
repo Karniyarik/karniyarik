@@ -13,3 +13,4 @@ karniyarik-common/src/main/resources/conf/api/apikey.xml
 karniyarik-categorizer/dev-resources/lucene/*
 karniyarik-brands/src/main/resources/olası hatalar.txt
 karniyarik-web/src/main/webapp/images/apiusers/*
+*.class
